@@ -5,7 +5,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.12357",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.15178",
@@ -13,7 +15,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.15178",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:11db003c78d9754b",
@@ -21,7 +25,9 @@
     "year": 2026,
     "url": "https://github.com/SqueezeAILab/2DSD/blob/main/paper/2DSD.pdf",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.03715",
@@ -29,7 +35,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.03715",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.11791",
@@ -37,7 +45,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.11791",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.17730",
@@ -45,7 +55,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.17730",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.01914",
@@ -53,7 +65,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.01914",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.30349",
@@ -61,7 +75,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.30349",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.07408",
@@ -69,7 +85,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.07408",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.04198",
@@ -77,7 +95,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.04198",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.12495",
@@ -85,7 +105,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.12495",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.13405",
@@ -93,7 +115,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.13405",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.14941",
@@ -101,7 +125,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.14941",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.13724",
@@ -109,7 +135,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.13724",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.10679",
@@ -117,7 +145,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.10679",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2611.05234",
@@ -125,7 +155,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2611.05234",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.03329",
@@ -133,7 +165,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.03329",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.33144",
@@ -141,7 +175,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.33144",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.31779",
@@ -149,7 +185,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.31779",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.12307",
@@ -157,7 +195,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.12307",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.30692",
@@ -165,7 +205,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.30692",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.01495",
@@ -173,7 +215,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.01495",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.12233",
@@ -181,7 +225,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.12233",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.15141",
@@ -189,7 +235,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.15141",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.02214",
@@ -197,7 +245,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.02214",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.25473",
@@ -205,7 +255,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.25473",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.30757",
@@ -213,7 +265,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.30757",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.31796",
@@ -221,7 +275,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.31796",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.14398",
@@ -229,7 +285,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.14398",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2611.17309",
@@ -237,7 +295,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2611.17309",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.26458",
@@ -245,7 +305,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.26458",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:d7197d1d54e8765e",
@@ -253,7 +315,9 @@
     "year": 2026,
     "url": "https://code-video-model.github.io/tech_report.pdf",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.25927",
@@ -261,7 +325,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.25927",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.17492",
@@ -269,7 +335,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.17492",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.18813",
@@ -277,7 +345,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.18813",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.21562",
@@ -285,7 +355,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.21562",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.03024",
@@ -293,7 +365,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.03024",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.06028",
@@ -301,7 +375,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.06028",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.13391",
@@ -309,7 +385,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.13391",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.18530",
@@ -317,7 +395,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.18530",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.07907",
@@ -325,7 +405,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.07907",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.04096",
@@ -333,7 +415,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.04096",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.05204",
@@ -341,7 +425,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.05204",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.02185",
@@ -349,7 +435,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.02185",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.13491",
@@ -357,7 +445,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.13491",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.24898",
@@ -365,7 +455,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.24898",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.18809",
@@ -373,7 +465,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.18809",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.29768",
@@ -381,7 +475,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.29768",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.09444",
@@ -389,7 +485,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.09444",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.21582",
@@ -397,7 +495,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.21582",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.32534",
@@ -405,7 +505,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.32534",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.15055",
@@ -413,7 +515,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.15055",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.11751",
@@ -421,7 +525,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.11751",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.00341",
@@ -429,7 +535,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.00341",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.09784",
@@ -437,7 +545,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.09784",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.40235",
@@ -445,7 +555,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.40235",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.07659",
@@ -453,7 +565,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.07659",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2611.03998",
@@ -461,7 +575,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2611.03998",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.04432",
@@ -469,7 +585,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.04432",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.17896",
@@ -477,7 +595,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.17896",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.35704",
@@ -485,7 +605,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.35704",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.37533",
@@ -493,7 +615,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.37533",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.09803",
@@ -501,7 +625,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.09803",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.09168",
@@ -509,7 +635,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.09168",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2611.08977",
@@ -517,7 +645,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2611.08977",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.14706",
@@ -525,7 +655,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.14706",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.21488",
@@ -533,7 +665,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.21488",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.01801",
@@ -541,7 +675,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.01801",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.27763",
@@ -549,7 +685,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.27763",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:ea754d3b48879be3",
@@ -557,7 +695,9 @@
     "year": 2026,
     "url": "https://www.alphaxiv.org/abs/2611.feedback-shortcut-speculative-decoding",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.31215",
@@ -565,7 +705,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.31215",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.18206",
@@ -573,7 +715,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.18206",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.29812",
@@ -581,7 +725,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.29812",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.01075",
@@ -589,7 +735,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.01075",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.16813",
@@ -597,7 +745,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.16813",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.29150",
@@ -605,7 +755,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.29150",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.08063",
@@ -613,7 +765,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.08063",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.08888",
@@ -621,7 +775,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.08888",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.15062",
@@ -629,7 +785,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.15062",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.28767",
@@ -637,7 +795,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.28767",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.19376",
@@ -645,7 +805,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.19376",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:f1db7ce98881d890",
@@ -653,7 +815,9 @@
     "year": 2026,
     "url": "https://z.ai/blog/glm-5.4",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.06939",
@@ -661,7 +825,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.06939",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.35738",
@@ -669,7 +835,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.35738",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.31421",
@@ -677,7 +845,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.31421",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.19107",
@@ -685,7 +855,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.19107",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.21106",
@@ -693,7 +865,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.21106",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.35751",
@@ -701,7 +875,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.35751",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.40325",
@@ -709,7 +885,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.40325",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:6265d7e8de59f16b",
@@ -717,7 +895,9 @@
     "year": 2026,
     "url": "https://next-state.github.io/open-dreamer/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.20613",
@@ -725,7 +905,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.20613",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.07940",
@@ -733,7 +915,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.07940",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.21254",
@@ -741,7 +925,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.21254",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.37147",
@@ -749,7 +935,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.37147",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.35748",
@@ -757,7 +945,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.35748",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.07389",
@@ -765,7 +955,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.07389",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.02393",
@@ -773,7 +965,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.02393",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:6abdbaece9063d24",
@@ -781,7 +975,9 @@
     "year": 2026,
     "url": "https://thinkingmachines.ai/model-card/inkling-2-mini/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:5b2b8fd822fb8467",
@@ -789,7 +985,9 @@
     "year": 2026,
     "url": "https://sayak.dev/posts/kv-flow.html",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.14278",
@@ -797,7 +995,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.14278",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.17224",
@@ -805,7 +1005,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.17224",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.11401",
@@ -813,7 +1015,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.11401",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.26797",
@@ -821,7 +1025,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.26797",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.09828",
@@ -829,7 +1035,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.09828",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.34677",
@@ -837,7 +1045,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.34677",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.26035",
@@ -845,7 +1055,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.26035",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.05816",
@@ -853,7 +1065,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.05816",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.05538",
@@ -861,7 +1075,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.05538",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.31158",
@@ -869,7 +1085,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.31158",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.07145",
@@ -877,7 +1095,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.07145",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.28212",
@@ -885,7 +1105,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.28212",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.03636",
@@ -893,7 +1115,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.03636",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.16914",
@@ -901,7 +1125,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.16914",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.10103",
@@ -909,7 +1135,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.10103",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.38562",
@@ -917,7 +1145,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.38562",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.10242",
@@ -925,7 +1155,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.10242",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.34218",
@@ -933,7 +1165,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.34218",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.16051",
@@ -941,7 +1175,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.16051",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.07822",
@@ -949,7 +1185,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.07822",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2611.07226",
@@ -957,7 +1195,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2611.07226",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.24196",
@@ -965,7 +1205,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.24196",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.26106",
@@ -973,7 +1215,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.26106",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.40305",
@@ -981,7 +1225,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.40305",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.15456",
@@ -989,7 +1235,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.15456",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.00605",
@@ -997,7 +1245,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.00605",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.18208",
@@ -1005,7 +1255,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.18208",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.11451",
@@ -1013,7 +1265,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.11451",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.09080",
@@ -1021,7 +1275,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.09080",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.01153",
@@ -1029,7 +1285,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.01153",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.04438",
@@ -1037,7 +1295,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.04438",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.17877",
@@ -1045,7 +1305,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.17877",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.19714",
@@ -1053,7 +1315,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.19714",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.18162",
@@ -1061,7 +1325,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.18162",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.17184",
@@ -1069,7 +1335,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.17184",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.11011",
@@ -1077,7 +1345,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.11011",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.02156",
@@ -1085,7 +1355,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.02156",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.38426",
@@ -1093,7 +1365,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.38426",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.20670",
@@ -1101,7 +1375,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.20670",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.02870",
@@ -1109,7 +1385,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.02870",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.14530",
@@ -1117,7 +1395,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.14530",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.08995",
@@ -1125,7 +1405,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.08995",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.29910",
@@ -1133,7 +1415,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.29910",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.26193",
@@ -1141,7 +1425,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.26193",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.31734",
@@ -1149,7 +1435,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.31734",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.27537",
@@ -1157,7 +1445,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.27537",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.18215",
@@ -1165,7 +1455,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.18215",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.00544",
@@ -1173,7 +1465,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.00544",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.07721",
@@ -1181,7 +1475,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.07721",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.12513",
@@ -1189,7 +1485,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.12513",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.28052",
@@ -1197,7 +1495,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.28052",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.09056",
@@ -1205,7 +1505,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.09056",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.08025",
@@ -1213,7 +1515,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.08025",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.07110",
@@ -1221,7 +1525,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.07110",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.17117",
@@ -1229,7 +1535,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.17117",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.01523",
@@ -1237,7 +1545,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.01523",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.16700",
@@ -1245,7 +1555,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.16700",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.40362",
@@ -1253,7 +1565,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.40362",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.18396",
@@ -1261,7 +1575,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.18396",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.13834",
@@ -1269,7 +1585,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.13834",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.18524",
@@ -1277,7 +1595,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.18524",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.12582",
@@ -1285,7 +1605,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.12582",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.18839",
@@ -1293,7 +1615,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.18839",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.23458",
@@ -1301,7 +1625,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.23458",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.08766",
@@ -1309,7 +1635,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.08766",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.13215",
@@ -1317,7 +1645,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.13215",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.04359",
@@ -1325,7 +1655,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.04359",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.25730",
@@ -1333,7 +1665,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.25730",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.26004",
@@ -1341,7 +1675,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.26004",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.12946",
@@ -1349,7 +1685,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.12946",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.21896",
@@ -1357,7 +1695,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.21896",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.27345",
@@ -1365,7 +1705,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.27345",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.02023",
@@ -1373,7 +1715,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.02023",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.09242",
@@ -1381,7 +1725,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.09242",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.24773",
@@ -1389,7 +1735,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.24773",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.26070",
@@ -1397,7 +1745,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.26070",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.38149",
@@ -1405,7 +1755,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.38149",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.06479",
@@ -1413,7 +1765,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.06479",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.10520",
@@ -1421,7 +1775,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.10520",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.19943",
@@ -1429,7 +1785,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.19943",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.10540",
@@ -1437,7 +1795,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.10540",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.16844",
@@ -1445,7 +1805,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.16844",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.09241",
@@ -1453,7 +1815,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.09241",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.15190",
@@ -1461,7 +1825,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.15190",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.33540",
@@ -1469,7 +1835,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.33540",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.03769",
@@ -1477,7 +1845,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.03769",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.17981",
@@ -1485,7 +1855,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.17981",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.07591",
@@ -1493,7 +1865,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.07591",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.26535",
@@ -1501,7 +1875,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.26535",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.05234",
@@ -1509,7 +1885,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.05234",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.25917",
@@ -1517,7 +1895,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.25917",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.18022",
@@ -1525,7 +1905,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.18022",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.16372",
@@ -1533,7 +1915,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.16372",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.21366",
@@ -1541,7 +1925,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.21366",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.22954",
@@ -1549,7 +1935,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.22954",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.12227",
@@ -1557,7 +1945,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.12227",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.22075",
@@ -1565,7 +1955,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.22075",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.16933",
@@ -1573,7 +1965,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.16933",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.23565",
@@ -1581,7 +1975,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.23565",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.07775",
@@ -1589,7 +1985,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.07775",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.36995",
@@ -1597,7 +1995,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.36995",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.15178",
@@ -1605,7 +2005,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.15178",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.40316",
@@ -1613,7 +2015,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.40316",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.11570",
@@ -1621,7 +2025,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.11570",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.20368",
@@ -1629,7 +2035,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.20368",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.00714",
@@ -1637,7 +2045,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.00714",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.06507",
@@ -1645,7 +2055,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.06507",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.00686",
@@ -1653,7 +2065,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.00686",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.34538",
@@ -1661,7 +2075,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.34538",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.39892",
@@ -1669,7 +2085,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.39892",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.26985",
@@ -1677,7 +2095,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.26985",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.18797",
@@ -1685,7 +2105,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.18797",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.10027",
@@ -1693,7 +2115,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.10027",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.06574",
@@ -1701,7 +2125,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.06574",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.28444",
@@ -1709,7 +2135,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.28444",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.01343",
@@ -1717,7 +2145,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.01343",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.12466",
@@ -1725,7 +2155,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.12466",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.21221",
@@ -1733,7 +2165,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.21221",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.09165",
@@ -1741,7 +2175,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.09165",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.02521",
@@ -1749,7 +2185,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.02521",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.22347",
@@ -1757,7 +2195,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.22347",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.25646",
@@ -1765,7 +2205,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.25646",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.11698",
@@ -1773,7 +2215,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.11698",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.15259",
@@ -1781,7 +2225,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.15259",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.29983",
@@ -1789,7 +2235,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.29983",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.10097",
@@ -1797,7 +2245,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.10097",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.21594",
@@ -1805,7 +2255,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.21594",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.39034",
@@ -1813,7 +2265,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.39034",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.25333",
@@ -1821,7 +2275,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.25333",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.13861",
@@ -1829,7 +2285,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.13861",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.21215",
@@ -1837,7 +2295,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.21215",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.02383",
@@ -1845,7 +2305,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.02383",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.17121",
@@ -1853,7 +2315,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.17121",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.38147",
@@ -1861,7 +2325,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.38147",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.11801",
@@ -1869,7 +2335,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.11801",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.08082",
@@ -1877,7 +2345,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.08082",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:74e9dbf041db7525",
@@ -1885,7 +2355,9 @@
     "year": 2026,
     "url": "https://huskydoge.github.io/husky-blog/posts/recursive_models/towards-looped-models-done-right/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:540e345055b15171",
@@ -1893,7 +2365,9 @@
     "year": 2026,
     "url": "https://www.alphaxiv.org/abs/2610.looped-models-fixed-points",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2605.23872",
@@ -1901,7 +2375,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.23872",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2610.26030",
@@ -1909,7 +2385,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2610.26030",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.08124",
@@ -1917,7 +2395,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.08124",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.22960",
@@ -1925,7 +2405,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.22960",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.32831",
@@ -1933,7 +2415,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.32831",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2604.01220",
@@ -1941,7 +2425,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2604.01220",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.04010",
@@ -1949,7 +2435,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.04010",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2603.16792",
@@ -1957,7 +2445,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2603.16792",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2608.13556",
@@ -1965,7 +2455,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2608.13556",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.20744",
@@ -1973,7 +2465,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.20744",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.27380",
@@ -1981,7 +2475,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.27380",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.24997",
@@ -1989,7 +2485,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.24997",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2601.11109",
@@ -1997,7 +2495,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2601.11109",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.36636",
@@ -2005,7 +2505,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.36636",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2607.20594",
@@ -2013,7 +2515,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2607.20594",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.34606",
@@ -2021,7 +2525,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.34606",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2602.09022",
@@ -2029,7 +2535,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2602.09022",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.24984",
@@ -2037,7 +2545,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.24984",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.35560",
@@ -2045,7 +2555,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.35560",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.32457",
@@ -2053,7 +2565,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.32457",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2606.28758",
@@ -2061,7 +2575,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2606.28758",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2609.21712",
@@ -2069,7 +2585,9 @@
     "year": 2026,
     "url": "https://arxiv.org/abs/2609.21712",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2509.25239",
@@ -2077,7 +2595,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2509.25239",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2503.03961",
@@ -2085,7 +2605,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2503.03961",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.06203",
@@ -2093,7 +2615,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2507.06203",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2503.24235",
@@ -2101,7 +2625,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2503.24235",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2502.12110",
@@ -2109,7 +2635,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2502.12110",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.04618",
@@ -2117,7 +2645,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.04618",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2503.09573",
@@ -2125,7 +2655,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2503.09573",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2504.16064",
@@ -2133,7 +2665,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2504.16064",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.03215",
@@ -2141,7 +2675,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.03215",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.11473",
@@ -2194,7 +2730,9 @@
     "url": "https://arxiv.org/abs/2507.11473",
     "family": null,
     "curation": "survey-selected",
-    "added_on": "2026-11-24"
+    "added_on": "2026-11-24",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.04542",
@@ -2202,7 +2740,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.04542",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.03206",
@@ -2210,7 +2750,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.03206",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2506.03141",
@@ -2218,7 +2760,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2506.03141",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.22954",
@@ -2226,7 +2770,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.22954",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.05081",
@@ -2234,7 +2780,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.05081",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2502.10297",
@@ -2242,7 +2790,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2502.10297",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2509.23653",
@@ -2250,7 +2800,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2509.23653",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.15705",
@@ -2258,7 +2810,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.15705",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.05562",
@@ -2266,7 +2820,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.05562",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.14961",
@@ -2274,7 +2830,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.14961",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.09149",
@@ -2282,7 +2840,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.09149",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.07358",
@@ -2290,7 +2850,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.07358",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.23675",
@@ -2298,7 +2860,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.23675",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.02092",
@@ -2306,7 +2870,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2507.02092",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2504.12626",
@@ -2314,7 +2880,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2504.12626",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2503.03751",
@@ -2322,7 +2890,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2503.03751",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2506.21734",
@@ -2330,7 +2900,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2506.21734",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.00355",
@@ -2338,7 +2910,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.00355",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.18454",
@@ -2346,7 +2920,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.18454",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.12880",
@@ -2354,7 +2930,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.12880",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.20649",
@@ -2362,7 +2940,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.20649",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.12872",
@@ -2370,7 +2950,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.12872",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.02199",
@@ -2378,7 +2960,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2507.02199",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.20639",
@@ -2386,7 +2970,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.20639",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.04871",
@@ -2394,7 +2980,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.04871",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.20171",
@@ -2402,7 +2990,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.20171",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2509.23040",
@@ -2410,7 +3000,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2509.23040",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.05563",
@@ -2418,7 +3010,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.05563",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2409.15647",
@@ -2426,7 +3020,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2409.15647",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.22976",
@@ -2434,7 +3030,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.22976",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2509.10704",
@@ -2442,7 +3040,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2509.10704",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.13211",
@@ -2450,7 +3050,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.13211",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.13447",
@@ -2458,7 +3060,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.13447",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.02259",
@@ -2466,7 +3070,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2507.02259",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.03198",
@@ -2474,7 +3080,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.03198",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.07739",
@@ -2482,7 +3090,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.07739",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.10524",
@@ -2490,7 +3100,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2507.10524",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.18311",
@@ -2514,7 +3126,9 @@
     "url": "https://arxiv.org/abs/2512.18311",
     "family": null,
     "curation": "survey-selected",
-    "added_on": "2026-11-24"
+    "added_on": "2026-11-24",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2503.11926",
@@ -2535,7 +3149,9 @@
     "url": "https://arxiv.org/abs/2503.11926",
     "family": null,
     "curation": "survey-selected",
-    "added_on": "2026-11-24"
+    "added_on": "2026-11-24",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.05963",
@@ -2543,7 +3159,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.05963",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2410.01405",
@@ -2551,7 +3169,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2410.01405",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2504.05298",
@@ -2559,7 +3179,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2504.05298",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:109ce574b18fbf9a",
@@ -2567,7 +3189,9 @@
     "year": 2025,
     "url": "https://www.nature.com/articles/s41586-025-08661-4",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.24824",
@@ -2575,7 +3199,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.24824",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.10819",
@@ -2583,7 +3209,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.10819",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2509.23184",
@@ -2591,7 +3219,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2509.23184",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.20674",
@@ -2599,7 +3229,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.20674",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.16116",
@@ -2607,7 +3239,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2507.16116",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:f98360f22888e2af",
@@ -2615,7 +3249,9 @@
     "year": 2025,
     "url": "https://aclanthology.org/2025.naacl-long.155/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.12514",
@@ -2623,7 +3259,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.12514",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.05410",
@@ -2650,7 +3288,9 @@
     "url": "https://arxiv.org/abs/2505.05410",
     "family": null,
     "curation": "survey-selected",
-    "added_on": "2026-11-24"
+    "added_on": "2026-11-24",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2502.17416",
@@ -2658,7 +3298,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2502.17416",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.12940",
@@ -2666,7 +3308,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.12940",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2502.07503",
@@ -2674,7 +3318,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2502.07503",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.24601",
@@ -2682,7 +3328,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.24601",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2502.10389",
@@ -2690,7 +3338,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2502.10389",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.16636",
@@ -2698,7 +3348,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.16636",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.04040",
@@ -2706,7 +3358,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.04040",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2503.00307",
@@ -2714,7 +3368,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2503.00307",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.01467",
@@ -2722,7 +3378,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2507.01467",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2502.15894",
@@ -2730,7 +3388,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2502.15894",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2509.25161",
@@ -2738,7 +3398,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2509.25161",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.17618",
@@ -2746,7 +3408,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.17618",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.25741",
@@ -2754,7 +3418,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.25741",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2502.05171",
@@ -2762,7 +3428,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2502.05171",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2506.08009",
@@ -2770,7 +3438,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2506.08009",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.02283",
@@ -2778,7 +3448,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.02283",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.04926",
@@ -2786,7 +3458,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.04926",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2507.07996",
@@ -2794,7 +3468,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2507.07996",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2504.13074",
@@ -2802,7 +3478,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2504.13074",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.15716",
@@ -2810,7 +3488,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.15716",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.09212",
@@ -2818,7 +3498,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.09212",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.07384",
@@ -2826,7 +3508,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.07384",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2501.12352",
@@ -2834,7 +3518,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2501.12352",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2410.23506",
@@ -2842,7 +3528,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2410.23506",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.19245",
@@ -2850,7 +3538,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.19245",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2412.06769",
@@ -2858,7 +3548,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2412.06769",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2509.23314",
@@ -2866,7 +3558,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2509.23314",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Evaluation and interpretability",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2511.20123",
@@ -2874,7 +3568,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2511.20123",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.14693",
@@ -2882,7 +3578,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.14693",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2411.12537",
@@ -2890,7 +3588,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2411.12537",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.05094",
@@ -2898,7 +3598,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.05094",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2506.05284",
@@ -2906,7 +3608,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2506.05284",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2503.18942",
@@ -2914,7 +3618,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2503.18942",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.07469",
@@ -2922,7 +3628,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.07469",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.04519",
@@ -2930,7 +3638,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.04519",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.15831",
@@ -2938,7 +3648,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.15831",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2506.18903",
@@ -2946,7 +3658,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2506.18903",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2505.21996",
@@ -2954,7 +3668,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2505.21996",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2510.10089",
@@ -2962,7 +3678,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2510.10089",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2504.12369",
@@ -2970,7 +3688,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2504.12369",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.02473",
@@ -2978,7 +3698,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.02473",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2512.14614",
@@ -2986,7 +3708,9 @@
     "year": 2025,
     "url": "https://arxiv.org/abs/2512.14614",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2410.05317",
@@ -2994,7 +3718,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2410.05317",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2402.13572",
@@ -3002,7 +3728,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2402.13572",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2404.17672",
@@ -3010,7 +3738,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2404.17672",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2411.16375",
@@ -3018,7 +3748,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2411.16375",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2410.08292",
@@ -3026,7 +3758,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2410.08292",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2412.12095",
@@ -3034,7 +3768,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2412.12095",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2407.01392",
@@ -3042,7 +3778,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2407.01392",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2407.00783",
@@ -3050,7 +3788,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2407.00783",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2405.11473",
@@ -3058,7 +3798,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2405.11473",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2401.08741",
@@ -3066,7 +3808,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2401.08741",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2406.07507",
@@ -3074,7 +3818,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2406.07507",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2405.14838",
@@ -3082,7 +3828,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2405.14838",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2412.07772",
@@ -3090,7 +3838,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2412.07772",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2412.06464",
@@ -3098,7 +3848,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2412.06464",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2405.15383",
@@ -3106,7 +3858,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2405.15383",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:0a4bd426ce411df6",
@@ -3114,7 +3868,9 @@
     "year": 2024,
     "url": "https://aclanthology.org/2024.emnlp-main.781/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2405.14867",
@@ -3122,7 +3878,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2405.14867",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2402.00976",
@@ -3130,7 +3888,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2402.00976",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2406.15673",
@@ -3138,7 +3898,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2406.15673",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2404.16710",
@@ -3146,7 +3908,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2404.16710",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2407.04620",
@@ -3154,7 +3918,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2407.04620",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2404.07143",
@@ -3162,7 +3928,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2404.07143",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2404.15758",
@@ -3170,7 +3938,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2404.15758",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2311.12424",
@@ -3178,7 +3948,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2311.12424",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2405.16039",
@@ -3186,7 +3958,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2405.16039",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2410.21698",
@@ -3194,7 +3968,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2410.21698",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2410.12557",
@@ -3202,7 +3978,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2410.12557",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2406.06484",
@@ -3210,7 +3988,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2406.06484",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2412.00596",
@@ -3218,7 +3998,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2412.00596",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2410.20672",
@@ -3226,7 +4008,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2410.20672",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2402.09470",
@@ -3234,7 +4018,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2402.09470",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2411.08706",
@@ -3242,7 +4028,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2411.08706",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2402.01107",
@@ -3250,7 +4038,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2402.01107",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:8e7616df2997096d",
@@ -3258,7 +4048,9 @@
     "year": 2024,
     "url": "https://proceedings.mlr.press/v235/merrill24a.html",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2501.00663",
@@ -3266,7 +4058,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2501.00663",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2409.12917",
@@ -3274,7 +4068,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2409.12917",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2405.21060",
@@ -3282,7 +4078,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2405.21060",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2410.10076",
@@ -3290,7 +4088,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2410.10076",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2402.12275",
@@ -3298,7 +4098,9 @@
     "year": 2024,
     "url": "https://arxiv.org/abs/2402.12275",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:041a050598868907",
@@ -3306,7 +4108,9 @@
     "year": 2023,
     "url": "https://proceedings.mlr.press/v202/song23a.html",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2302.09057",
@@ -3314,7 +4118,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2302.09057",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2310.10845",
@@ -3322,7 +4128,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2310.10845",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2305.11738",
@@ -3330,7 +4138,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2305.11738",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2312.04916",
@@ -3338,7 +4148,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2312.04916",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2308.15321",
@@ -3346,7 +4158,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2308.15321",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:d39eb72835d3a3e6",
@@ -3354,7 +4168,9 @@
     "year": 2023,
     "url": "https://openreview.net/forum?id=PqvMRDCJT9t",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2311.01460",
@@ -3362,7 +4178,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2311.01460",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2310.01798",
@@ -3370,7 +4188,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2310.01798",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2310.06272",
@@ -3378,7 +4198,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2310.06272",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2301.13196",
@@ -3386,7 +4208,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2301.13196",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2312.00752",
@@ -3394,7 +4218,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2312.00752",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2310.08560",
@@ -3402,7 +4228,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2310.08560",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2401.08639",
@@ -3410,7 +4238,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2401.08639",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2311.18828",
@@ -3418,7 +4248,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2311.18828",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2305.13304",
@@ -3426,7 +4258,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2305.13304",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2303.11366",
@@ -3434,7 +4268,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2303.11366",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:b4155f59c47b47bd",
@@ -3442,7 +4278,9 @@
     "year": 2023,
     "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.html",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:ecfc615753e5989e",
@@ -3450,7 +4288,9 @@
     "year": 2023,
     "url": "https://papers.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2310.02304",
@@ -3458,7 +4298,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2310.02304",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:c01973af23f8198d",
@@ -3466,7 +4308,9 @@
     "year": 2023,
     "url": "https://aclanthology.org/2023.emnlp-main.12/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2304.05128",
@@ -3474,7 +4318,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2304.05128",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2305.08379",
@@ -3482,7 +4328,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2305.08379",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:8a9d34fe95e4c512",
@@ -3490,7 +4338,9 @@
     "year": 2023,
     "url": "https://aclanthology.org/2023.tacl-1.31/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2310.02226",
@@ -3498,7 +4348,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2310.02226",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:332876f2bd41f0c2",
@@ -3506,7 +4358,9 @@
     "year": 2023,
     "url": "https://openreview.net/forum?id=De4FYqjFueZ",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2305.10601",
@@ -3514,7 +4368,9 @@
     "year": 2023,
     "url": "https://arxiv.org/abs/2305.10601",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2208.04202",
@@ -3522,7 +4378,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2208.04202",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2203.07852",
@@ -3530,7 +4388,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2203.07852",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2210.12867",
@@ -3538,7 +4398,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2210.12867",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2202.05826",
@@ -3546,7 +4408,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2202.05826",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2211.00053",
@@ -3554,7 +4418,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2211.00053",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:0c06fc403814ec16",
@@ -3562,7 +4428,9 @@
     "year": 2022,
     "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.html",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2203.08913",
@@ -3570,7 +4438,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2203.08913",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2211.09961",
@@ -3578,7 +4448,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2211.09961",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2208.11663",
@@ -3586,7 +4458,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2208.11663",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2202.00512",
@@ -3594,7 +4468,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2202.00512",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2210.06774",
@@ -3602,7 +4478,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2210.06774",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2210.03629",
@@ -3610,7 +4488,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2210.03629",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2207.06881",
@@ -3618,7 +4498,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2207.06881",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2212.11972",
@@ -3626,7 +4508,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2212.11972",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2211.04236",
@@ -3634,7 +4518,9 @@
     "year": 2022,
     "url": "https://arxiv.org/abs/2211.04236",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2106.04537",
@@ -3642,7 +4528,9 @@
     "year": 2021,
     "url": "https://arxiv.org/abs/2106.04537",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2112.09737",
@@ -3650,7 +4538,9 @@
     "year": 2021,
     "url": "https://arxiv.org/abs/2112.09737",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Agent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2104.06022",
@@ -3658,7 +4548,9 @@
     "year": 2021,
     "url": "https://arxiv.org/abs/2104.06022",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2102.11174",
@@ -3666,7 +4558,9 @@
     "year": 2021,
     "url": "https://arxiv.org/abs/2102.11174",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2107.05407",
@@ -3674,7 +4568,9 @@
     "year": 2021,
     "url": "https://arxiv.org/abs/2107.05407",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2106.14342",
@@ -3682,7 +4578,9 @@
     "year": 2021,
     "url": "https://arxiv.org/abs/2106.14342",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2101.00234",
@@ -3690,7 +4588,9 @@
     "year": 2021,
     "url": "https://arxiv.org/abs/2101.00234",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2002.09402",
@@ -3698,7 +4598,9 @@
     "year": 2020,
     "url": "https://arxiv.org/abs/2002.09402",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Latent feedback",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1909.11942",
@@ -3706,7 +4608,9 @@
     "year": 2020,
     "url": "https://arxiv.org/abs/1909.11942",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:1959861d22f46873",
@@ -3714,7 +4618,9 @@
     "year": 2020,
     "url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2010.06891",
@@ -3722,7 +4628,9 @@
     "year": 2020,
     "url": "https://arxiv.org/abs/2010.06891",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2006.08591",
@@ -3730,7 +4638,9 @@
     "year": 2020,
     "url": "https://arxiv.org/abs/2006.08591",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:2006.16236",
@@ -3738,7 +4648,9 @@
     "year": 2020,
     "url": "https://arxiv.org/abs/2006.16236",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1911.05507",
@@ -3746,7 +4658,9 @@
     "year": 2019,
     "url": "https://arxiv.org/abs/1911.05507",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1909.01377",
@@ -3754,7 +4668,9 @@
     "year": 2019,
     "url": "https://arxiv.org/abs/1909.01377",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1905.11006",
@@ -3762,7 +4678,9 @@
     "year": 2019,
     "url": "https://arxiv.org/abs/1905.11006",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:77126e36a0250f85",
@@ -3770,7 +4688,9 @@
     "year": 2019,
     "url": "https://aclanthology.org/D19-1633/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1901.02860",
@@ -3778,7 +4698,9 @@
     "year": 2019,
     "url": "https://arxiv.org/abs/1901.02860",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1807.03819",
@@ -3786,7 +4708,9 @@
     "year": 2019,
     "url": "https://arxiv.org/abs/1807.03819",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Recurrent depth",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1802.06901",
@@ -3794,7 +4718,9 @@
     "year": 2018,
     "url": "https://arxiv.org/abs/1802.06901",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1809.01999",
@@ -3802,7 +4728,9 @@
     "year": 2018,
     "url": "https://arxiv.org/abs/1809.01999",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1703.06975",
@@ -3810,7 +4738,9 @@
     "year": 2017,
     "url": "https://arxiv.org/abs/1703.06975",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1704.02254",
@@ -3818,7 +4748,9 @@
     "year": 2017,
     "url": "https://arxiv.org/abs/1704.02254",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1711.02282",
@@ -3826,7 +4758,9 @@
     "year": 2017,
     "url": "https://arxiv.org/abs/1711.02282",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1603.08983",
@@ -3834,7 +4768,9 @@
     "year": 2016,
     "url": "https://arxiv.org/abs/1603.08983",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Foundations and related models",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1610.09038",
@@ -3842,7 +4778,9 @@
     "year": 2016,
     "url": "https://arxiv.org/abs/1610.09038",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1610.06258",
@@ -3850,7 +4788,9 @@
     "year": 2016,
     "url": "https://arxiv.org/abs/1610.06258",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1503.03585",
@@ -3858,7 +4798,9 @@
     "year": 2015,
     "url": "https://arxiv.org/abs/1503.03585",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:c4f05de19d4c36b3",
@@ -3866,7 +4808,9 @@
     "year": 2015,
     "url": "https://proceedings.mlr.press/v37/gregor15.html",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1506.03099",
@@ -3874,7 +4818,9 @@
     "year": 2015,
     "url": "https://arxiv.org/abs/1506.03099",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Training and execution",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1406.1485",
@@ -3882,7 +4828,9 @@
     "year": 2014,
     "url": "https://arxiv.org/abs/1406.1485",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "arxiv:1306.1091",
@@ -3890,7 +4838,9 @@
     "year": 2013,
     "url": "https://arxiv.org/abs/1306.1091",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Sample refinement",
+    "grouping": "survey-reading-context"
   },
   {
     "id": "source:07c7eb256eb62d81",
@@ -3898,6 +4848,8 @@
     "year": 1992,
     "url": "https://people.idsia.ch/~juergen/fastweights/",
     "family": null,
-    "curation": "survey-selected"
+    "curation": "survey-selected",
+    "reading_group": "Temporal memory",
+    "grouping": "survey-reading-context"
   }
 ]

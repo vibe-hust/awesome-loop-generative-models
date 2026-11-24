@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-24",
+  "scope": "All accessible history in the five configured research channels, including discoverable active and archived threads. This is a dated audit, not a promise of perpetual completeness.",
+  "channels_scanned": 5,
+  "messages_scanned": 169,
+  "accessible_threads": 0,
+  "scan_errors": 0,
+  "unique_papers": 40,
+  "paper_ids": [
+    "arxiv:2502.15894",
+    "arxiv:2510.04542",
+    "arxiv:2511.20649",
+    "arxiv:2512.05081",
+    "arxiv:2601.16914",
+    "arxiv:2601.20540",
+    "arxiv:2602.09022",
+    "arxiv:2602.11374",
+    "arxiv:2603.06507",
+    "arxiv:2603.12513",
+    "arxiv:2604.09168",
+    "arxiv:2605.01896",
+    "arxiv:2605.06509",
+    "arxiv:2605.16649",
+    "arxiv:2605.18601",
+    "arxiv:2605.31158",
+    "arxiv:2606.18208",
+    "arxiv:2608.07408",
+    "arxiv:2609.01343",
+    "arxiv:2609.02886",
+    "arxiv:2609.24196",
+    "arxiv:2609.26458",
+    "arxiv:2609.32534",
+    "arxiv:2609.34606",
+    "arxiv:2609.35560",
+    "arxiv:2609.35748",
+    "arxiv:2609.38426",
+    "arxiv:2609.40305",
+    "arxiv:2610.00686",
+    "arxiv:2610.07591",
+    "arxiv:2610.07907",
+    "arxiv:2610.11570",
+    "arxiv:2610.11756",
+    "arxiv:2610.12102",
+    "arxiv:2610.17434",
+    "arxiv:2610.17877",
+    "arxiv:2610.36729",
+    "arxiv:2610.40325",
+    "arxiv:2611.06377",
+    "arxiv:2611.22925"
+  ],
+  "other_primary_links": [
+    {
+      "url": "https://openreview.net/forum?id=1UoB7IWiku",
+      "paper_id": "arxiv:2510.04542",
+      "title": "Code World Models for General Game Playing",
+      "resolution": "Indexed title matched to official arXiv metadata; OpenReview itself required browser verification."
+    }
+  ],
+  "explicitly_excluded_ids": [
+    "arxiv:2611.22925"
+  ],
+  "limits": [
+    "Only links in messages and their embeds were audited; image-only references and inaccessible threads are not covered.",
+    "The collector does not detect edits to already scanned messages.",
+    "The audit includes all authors in the configured channels, not only one sender."
+  ]
+}
