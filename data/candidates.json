@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "arxiv:2601.20540",
+    "title": "Advancing Open-source World Models",
+    "authors": [
+      "Robbyant Team",
+      "Gao, Zelin",
+      "Wang, Qiuyu",
+      "Zeng, Yanhong",
+      "Zhu, Jiapeng",
+      "Cheng, Ka Leong",
+      "Li, Yixuan",
+      "Wang, Hanlin",
+      "Xu, Yinghao",
+      "Ma, Shuailei",
+      "Chen, Yihang",
+      "Liu, Jie",
+      "Cheng, Yansong",
+      "Yao, Yao",
+      "Zhu, Jiayi",
+      "Meng, Yihao",
+      "Zheng, Kecheng",
+      "Bai, Qingyan",
+      "Chen, Jingye",
+      "Shen, Zehong",
+      "Yu, Yue",
+      "Zhu, Xing",
+      "Shen, Yujun",
+      "Ouyang, Hao"
+    ],
+    "year": 2026,
+    "published": "2026-01-28",
+    "url": "https://arxiv.org/abs/2601.20540",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen"
+  }
+]
