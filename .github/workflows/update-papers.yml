@@ -1,0 +1,25 @@
+name: Update paper list
+on:
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: loop-paper-list
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: main
+      - name: Check update rules
+        run: python3 scripts/test_update_papers.py
+      - name: Sync verified metadata and publish
+        env:
+          LOOP_PAPERS_FEED_URL: ${{ vars.LOOP_PAPERS_FEED_URL }}
+          LOOP_PAPERS_FEED_SECRET: ${{ secrets.LOOP_PAPERS_FEED_SECRET }}
+        run: python3 scripts/update_papers.py

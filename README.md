@@ -18,7 +18,9 @@ comparisons. The initial bibliography contains 472 survey-selected works as of
 ## Updates and contributions
 
 A worker in the existing Discord bot checks selected research channels every
-30 minutes. It deduplicates arXiv links and verifies bibliographic identity
+30 minutes. A GitHub Actions workflow, also scheduled every 30 minutes, publishes
+the collected metadata using its built-in repository token. Scheduled runs can
+be delayed by the hosting platforms. It deduplicates arXiv links and verifies bibliographic identity
 against the official abstract page. Explicit recurrent-depth matches and
 high-confidence mechanism matches are marked **automatically screened**.
 Other papers go into the review queue. Automatic screening can make mistakes;
@@ -35,3 +37,12 @@ For approval, move a candidate to papers.json, assign a family, and set
 `curation` to `human-reviewed`. To reject a paper permanently, put its ID in
 `data/excluded.json` and remove its record from the lists. The bot regenerates
 the Markdown indexes on its next update and preserves manually curated entries.
+
+## Maintenance
+
+The `Update paper list` workflow supports manual dispatch. Its only secret is
+`LOOP_PAPERS_FEED_SECRET`, shared with the Railway worker. Set the repository
+variable `LOOP_PAPERS_FEED_URL` to the worker's HTTPS `/loop-papers/feed` endpoint.
+The worker retains unacknowledged records across restarts. The workflow retries
+failed or conflicting pushes on its next run, preserving current manual edits.
+No personal GitHub token or deploy key is sent to Railway.
