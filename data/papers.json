@@ -184,18 +184,18 @@
     "curation": "survey-selected"
   },
   {
-    "id": "arxiv:2602.02214",
-    "title": "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation",
-    "year": 2026,
-    "url": "https://arxiv.org/abs/2602.02214",
-    "family": null,
-    "curation": "survey-selected"
-  },
-  {
     "id": "arxiv:2605.15141",
     "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
     "year": 2026,
     "url": "https://arxiv.org/abs/2605.15141",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.02214",
+    "title": "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.02214",
     "family": null,
     "curation": "survey-selected"
   },
