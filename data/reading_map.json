@@ -25,7 +25,8 @@
     "state": "A sample and its auxiliary predictions",
     "papers": [
       "arxiv:2208.04202",
-      "arxiv:2211.04236"
+      "arxiv:2211.04236",
+      "arxiv:2610.12102"
     ]
   },
   {
@@ -34,7 +35,8 @@
     "state": "Persistent state across inputs or observations",
     "papers": [
       "arxiv:2203.07852",
-      "arxiv:2604.17121"
+      "arxiv:2604.17121",
+      "arxiv:2610.17434"
     ]
   },
   {

@@ -12,7 +12,6 @@ GROUPS = {
     'Foundations and related models': 'Theory, surveys, parameter sharing, and comparison architectures.',
     'Training and execution': 'Learning objectives, distillation, caching, and efficient inference.',
     'Evaluation and interpretability': 'Benchmarks, controlled comparisons, mechanisms, and oversight.',
-    'Related work to classify': 'Listed works whose reading topic has not yet been assigned.',
 }
 
 
@@ -20,13 +19,15 @@ def slug(text):
     return re.sub(r'[^a-z0-9 -]', '', text.lower()).replace(' ', '-')
 
 
-def catalog_groups(papers, candidates):
-    ids = [p['id'] for p in papers + candidates]
+def catalog_groups(papers):
+    ids = [p['id'] for p in papers]
     if len(ids) != len(set(ids)):
-        raise ValueError('Duplicate IDs across the collection and review queue')
+        raise ValueError('Duplicate IDs in the collection')
     groups = {name: [] for name in GROUPS}
     for paper in papers:
-        group = paper.get('reading_group') or paper.get('family') or 'Related work to classify'
+        if paper.get('curation') == 'needs-review':
+            raise ValueError('Unapproved metadata cannot enter public output')
+        group = paper.get('reading_group') or paper.get('family')
         if group not in groups:
             raise ValueError(f'Unknown reading group: {group}')
         groups[group].append(paper)
@@ -34,29 +35,20 @@ def catalog_groups(papers, candidates):
             for name, works in groups.items() if works}
 
 
-def render_catalog(papers, candidates):
-    groups = catalog_groups(papers, candidates)
+def render_catalog(papers):
+    groups = catalog_groups(papers)
     rows = ['| Reading topic | Listed works |', '| :-- | --: |']
     for name, works in groups.items():
         rows.append(f'| [{name}](#catalog-{slug(name)}) | {len(works)} |')
-    rows.extend([f'| **Main collection** | **{len(papers)}** |',
-                 f'| [Awaiting relevance review](#catalog-review) | {len(candidates)} |', ''])
+    rows.extend([f'| **Total** | **{len(papers)}** |', ''])
     for name, works in groups.items():
         rows.extend([f'<a id="catalog-{slug(name)}"></a>',
                      f'<details><summary><strong>{name} · {len(works)} works</strong></summary>', '', GROUPS[name], ''])
         for paper in works:
-            suffix = ' · Auto-screened' if paper.get('curation') == 'automatic' else ''
+            suffix = ' — ' + md(paper['summary']) if paper.get('summary') else ''
             rows.append(f"- **{paper['year']}** · {link(paper)}{suffix}")
         rows.extend(['', '</details>', ''])
-    rows.extend(['<a id="catalog-review"></a>',
-                 f'<details><summary><strong>Awaiting relevance review · {len(candidates)} works</strong></summary>', '',
-                 'Metadata has been collected, but relevance and placement still need review. These works are excluded from the main collection count.', ''])
-    for paper in sorted(candidates, key=lambda p: (-p['year'], p['title'].casefold(), p['id'])):
-        rows.append(f"- **{paper['year']}** · {link(paper)} · Needs review")
-    if not candidates:
-        rows.append('No candidates are waiting for review.')
-    rows.extend(['', '</details>'])
-    return '\n'.join(rows)
+    return '\n'.join(rows).rstrip()
 
 
 def md(text):
@@ -69,20 +61,15 @@ def link(paper):
     return f"[{md(paper['title'])}](<{paper['url']}>)"
 
 
-def render_sections(papers, candidates, reading_map):
+def render_sections(papers, reading_map):
     index = {p['id']: p for p in papers}
-    survey = sum(p.get('curation') == 'survey-selected' for p in papers)
-    auto = sum(p.get('curation') == 'automatic' for p in papers)
-    human = len(papers) - survey - auto
     def badge(label, value, color):
         url = f'https://img.shields.io/badge/{quote(label, safe="")}-{quote(str(value), safe="")}-{color}?style=flat-square'
         return f'  <img alt="{label}: {value}" src="{url}">'
     stats = '\n'.join(['<p align="center">', badge('listed works', len(papers), '157f79'),
-                        badge('awaiting review', len(candidates), 'ba7a29'), badge('taxonomy families', len(reading_map), '6557a8'),
-                        '</p>', '', f'**{len(papers)} listed works** in the main collection · **{len(candidates)} awaiting review** (counted separately).', '',
-                        f'The main collection contains {survey} survey references, {human} human-reviewed additions, and {auto} automatically screened additions. '
-                        'It includes papers, model reports, and background references; this is not a count of papers collected from Discord. '
-                        'The five families describe the taxonomy, with additional reading topics for foundations, training, and evaluation.'])
+                        badge('feedback families', len(reading_map), '6557a8'),
+                        '</p>', '', f'**{len(papers)} research papers, model reports, and supporting references**, '
+                        'organized around five feedback families and related topics.'])
     taxonomy = ['| Family | What returns to computation? | Question to ask |', '| :-- | :-- | :-- |']
     reading = []
     if len(reading_map) != 5:
@@ -97,22 +84,22 @@ def render_sections(papers, candidates, reading_map):
             paper = index[pid]
             reading.append(f"- **{paper['year']}** · {link(paper)}")
         reading.append('')
-    recent = sorted([p for p in papers + candidates if p.get('added_on')],
+    recent = sorted([p for p in papers if p.get('added_on')],
                     key=lambda p: (p['added_on'], p.get('published', str(p['year'])), p['id']), reverse=True)[:10]
-    rows = ['| Added | Paper | Status |', '| :-- | :-- | :-- |']
+    rows = ['| Added | Paper | Reading topic |', '| :-- | :-- | :-- |']
     for paper in recent:
-        state = {'automatic': 'Auto-screened', 'needs-review': 'Needs review'}.get(paper.get('curation'), 'Curated')
-        rows.append(f"| {md(paper['added_on'])} | {link(paper)} | {state} |")
+        topic = paper.get('reading_group') or paper.get('family')
+        rows.append(f"| {md(paper['added_on'])} | {link(paper)} | {md(topic)} |")
     if not recent:
         rows = ['The initial collection is ready. New additions will appear here after the next update.']
-    rows.extend(['', '[Browse all papers →](PAPERS.md) · [Help review candidates →](CANDIDATES.md)'])
+    rows.extend(['', '[Browse the complete bibliography →](PAPERS.md)'])
     oversight = [f"- **{index[pid]['year']}** · {link(index[pid])}" for pid in OVERSIGHT if pid in index]
     return {'STATS': stats, 'TAXONOMY': '\n'.join(taxonomy), 'READING': '\n'.join(reading).rstrip(),
-            'RECENT': '\n'.join(rows), 'OVERSIGHT': '\n'.join(oversight), 'CATALOG': render_catalog(papers, candidates)}
+            'RECENT': '\n'.join(rows), 'OVERSIGHT': '\n'.join(oversight), 'CATALOG': render_catalog(papers)}
 
 
-def update_readme(existing, papers, candidates, reading_map):
-    for section, content in render_sections(papers, candidates, reading_map).items():
+def update_readme(existing, papers, reading_map):
+    for section, content in render_sections(papers, reading_map).items():
         start, end = f'<!-- LOOP-BOT:{section}:START -->', f'<!-- LOOP-BOT:{section}:END -->'
         if existing.count(start) != 1 or existing.count(end) != 1 or existing.index(start) > existing.index(end):
             raise ValueError(f'Missing or duplicated README markers: {section}')

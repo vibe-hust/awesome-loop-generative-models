@@ -13,20 +13,16 @@
   <a href="#the-five-feedback-families">Taxonomy</a> ·
   <a href="#a-guided-reading-path">Reading path</a> ·
   <a href="#full-collection-by-reading-topic">Full collection</a> ·
-  <a href="#catalog-review">Review queue</a> ·
   <a href="#contribute">Contribute</a>
 </p>
 
 <!-- LOOP-BOT:STATS:START -->
 <p align="center">
-  <img alt="listed works: 476" src="https://img.shields.io/badge/listed%20works-476-157f79?style=flat-square">
-  <img alt="awaiting review: 12" src="https://img.shields.io/badge/awaiting%20review-12-ba7a29?style=flat-square">
-  <img alt="taxonomy families: 5" src="https://img.shields.io/badge/taxonomy%20families-5-6557a8?style=flat-square">
+  <img alt="listed works: 488" src="https://img.shields.io/badge/listed%20works-488-157f79?style=flat-square">
+  <img alt="feedback families: 5" src="https://img.shields.io/badge/feedback%20families-5-6557a8?style=flat-square">
 </p>
 
-**476 listed works** in the main collection · **12 awaiting review** (counted separately).
-
-The main collection contains 476 survey references, 0 human-reviewed additions, and 0 automatically screened additions. It includes papers, model reports, and background references; this is not a count of papers collected from Discord. The five families describe the taxonomy, with additional reading topics for foundations, training, and evaluation.
+**488 research papers, model reports, and supporting references**, organized around five feedback families and related topics.
 <!-- LOOP-BOT:STATS:END -->
 
 ## Why loops?
@@ -84,6 +80,7 @@ What information should survive between successive sample updates?
 
 - **2022** · [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning](<https://arxiv.org/abs/2208.04202>)
 - **2022** · [Self-conditioned Embedding Diffusion for Text Generation](<https://arxiv.org/abs/2211.04236>)
+- **2026** · [Few-Step Generation via Data-Space Iteration](<https://arxiv.org/abs/2610.12102>)
 
 ### 4. Temporal memory
 
@@ -91,6 +88,7 @@ What should a model retain and update as new observations arrive?
 
 - **2022** · [Block-Recurrent Transformers](<https://arxiv.org/abs/2203.07852>)
 - **2026** · [The Topological Trouble With Transformers](<https://arxiv.org/abs/2604.17121>)
+- **2026** · [World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models](<https://arxiv.org/abs/2610.17434>)
 
 ### 5. Agent feedback
 
@@ -112,24 +110,24 @@ These are architecture descriptions, not a controlled performance comparison.
 
 ## Recent additions
 
-Newly collected papers appear here after screening. Their dates below describe
-when they entered this collection, not when they were first published.
+Dates below indicate when a work was added to this collection. Publication
+years appear in the full reading list.
 
 <!-- LOOP-BOT:RECENT:START -->
-| Added | Paper | Status |
+| Added | Paper | Reading topic |
 | :-- | :-- | :-- |
-| 2026-11-24 | [NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377>) | Needs review |
-| 2026-11-24 | [Hy-Nomas: Towards Free-form Interactive World Generation](<https://arxiv.org/abs/2610.36729>) | Needs review |
-| 2026-11-24 | [World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models](<https://arxiv.org/abs/2610.17434>) | Needs review |
-| 2026-11-24 | [Few-Step Generation via Data-Space Iteration](<https://arxiv.org/abs/2610.12102>) | Needs review |
-| 2026-11-24 | [Memory Forcing: Attendable Mid-Horizon History for Streaming Video Generation](<https://arxiv.org/abs/2610.11756>) | Needs review |
-| 2026-11-24 | [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](<https://arxiv.org/abs/2609.02886>) | Needs review |
-| 2026-11-24 | [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](<https://arxiv.org/abs/2605.18601>) | Needs review |
-| 2026-11-24 | [AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling](<https://arxiv.org/abs/2605.16649>) | Needs review |
-| 2026-11-24 | [FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction](<https://arxiv.org/abs/2605.06509>) | Needs review |
-| 2026-11-24 | [Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models](<https://arxiv.org/abs/2605.01896>) | Needs review |
+| 2026-11-24 | [NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377>) | Training and execution |
+| 2026-11-24 | [Hy-Nomas: Towards Free-form Interactive World Generation](<https://arxiv.org/abs/2610.36729>) | Temporal memory |
+| 2026-11-24 | [World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models](<https://arxiv.org/abs/2610.17434>) | Temporal memory |
+| 2026-11-24 | [Few-Step Generation via Data-Space Iteration](<https://arxiv.org/abs/2610.12102>) | Sample refinement |
+| 2026-11-24 | [Memory Forcing: Attendable Mid-Horizon History for Streaming Video Generation](<https://arxiv.org/abs/2610.11756>) | Temporal memory |
+| 2026-11-24 | [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](<https://arxiv.org/abs/2609.02886>) | Training and execution |
+| 2026-11-24 | [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](<https://arxiv.org/abs/2605.18601>) | Temporal memory |
+| 2026-11-24 | [AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling](<https://arxiv.org/abs/2605.16649>) | Foundations and related models |
+| 2026-11-24 | [FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction](<https://arxiv.org/abs/2605.06509>) | Foundations and related models |
+| 2026-11-24 | [Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models](<https://arxiv.org/abs/2605.01896>) | Training and execution |
 
-[Browse all papers →](PAPERS.md) · [Help review candidates →](CANDIDATES.md)
+[Browse the complete bibliography →](PAPERS.md)
 <!-- LOOP-BOT:RECENT:END -->
 
 ## Interpretability and oversight
@@ -147,25 +145,22 @@ These papers provide a starting point for studying what a monitor can observe:
 
 ## Full collection by reading topic
 
-Every listed work appears once in the expandable groups below. The initial
-grouping follows where the survey discusses each reference. A topic can include
-supporting theory and comparison methods, so placement does not imply that every
-work implements that feedback mechanism. New screened additions use their
-assigned family; uncertain additions remain in the review group.
+Browse every reference in the expandable groups below. Each work has one
+primary reading topic. The five feedback families are complemented by sections
+on foundations, training, and evaluation, including methods useful for comparison.
 
 <!-- LOOP-BOT:CATALOG:START -->
 | Reading topic | Listed works |
 | :-- | --: |
 | [Recurrent depth](#catalog-recurrent-depth) | 90 |
 | [Latent feedback](#catalog-latent-feedback) | 25 |
-| [Sample refinement](#catalog-sample-refinement) | 44 |
-| [Temporal memory](#catalog-temporal-memory) | 93 |
+| [Sample refinement](#catalog-sample-refinement) | 45 |
+| [Temporal memory](#catalog-temporal-memory) | 99 |
 | [Agent feedback](#catalog-agent-feedback) | 59 |
-| [Foundations and related models](#catalog-foundations-and-related-models) | 34 |
-| [Training and execution](#catalog-training-and-execution) | 111 |
+| [Foundations and related models](#catalog-foundations-and-related-models) | 36 |
+| [Training and execution](#catalog-training-and-execution) | 114 |
 | [Evaluation and interpretability](#catalog-evaluation-and-interpretability) | 20 |
-| **Main collection** | **476** |
-| [Awaiting relevance review](#catalog-review) | 12 |
+| **Total** | **488** |
 
 <a id="catalog-recurrent-depth"></a>
 <details><summary><strong>Recurrent depth · 90 works</strong></summary>
@@ -299,7 +294,7 @@ Hidden-state reasoning and feedback across token positions.
 </details>
 
 <a id="catalog-sample-refinement"></a>
-<details><summary><strong>Sample refinement · 44 works</strong></summary>
+<details><summary><strong>Sample refinement · 45 works</strong></summary>
 
 Iterative generation, self-conditioning, and related sampling methods.
 
@@ -308,6 +303,7 @@ Iterative generation, self-conditioning, and related sampling methods.
 - **2026** · [Dino Forcing Flow Models: Do not denoise what you can predict](<https://arxiv.org/abs/2610.11751>)
 - **2026** · [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](<https://arxiv.org/abs/2609.37533>)
 - **2026** · [Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning](<https://arxiv.org/abs/2608.14706>)
+- **2026** · [Few-Step Generation via Data-Space Iteration](<https://arxiv.org/abs/2610.12102>) — A shared generator repeatedly refines its current data estimate, conditioned on source noise and iteration, using distribution matching.
 - **2026** · [Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners](<https://arxiv.org/abs/2606.29150>)
 - **2026** · [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](<https://arxiv.org/abs/2602.11401>)
 - **2026** · [Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models](<https://arxiv.org/abs/2606.16700>)
@@ -351,7 +347,7 @@ Iterative generation, self-conditioning, and related sampling methods.
 </details>
 
 <a id="catalog-temporal-memory"></a>
-<details><summary><strong>Temporal memory · 93 works</strong></summary>
+<details><summary><strong>Temporal memory · 99 works</strong></summary>
 
 Persistent state, sequence models, and memory in video world models.
 
@@ -359,6 +355,7 @@ Persistent state, sequence models, and memory in video world models.
 - **2026** · [ActWorld: From Explorable to Interactive World Model via Action-Aware Memory](<https://arxiv.org/abs/2606.17730>)
 - **2026** · [AdaState: Self-Evolving Anchors for Streaming Video Generation](<https://arxiv.org/abs/2605.30349>)
 - **2026** · [Addressable Memory for Video World Models](<https://arxiv.org/abs/2608.07408>)
+- **2026** · [Advancing Open-source World Models](<https://arxiv.org/abs/2601.20540>) — LingBot-World adapts video diffusion to causal generation with cached history and interactive action conditioning.
 - **2026** · [Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](<https://arxiv.org/abs/2603.13405>)
 - **2026** · [AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories](<https://arxiv.org/abs/2602.14941>)
 - **2026** · [Composition of Memory Experts for Diffusion World Models](<https://arxiv.org/abs/2605.18813>)
@@ -368,6 +365,8 @@ Persistent state, sequence models, and memory in video world models.
 - **2026** · [Fast Weight Attention for Continual Learning](<https://arxiv.org/abs/2608.27763>)
 - **2026** · [Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments](<https://arxiv.org/abs/2601.01075>)
 - **2026** · [Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis](<https://arxiv.org/abs/2604.06939>)
+- **2026** · [Hy-Nomas: Towards Free-form Interactive World Generation](<https://arxiv.org/abs/2610.36729>) — Segment-wise causal generation reuses cached text and video history, with action-aware masking for successive instructions.
+- **2026** · [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](<https://arxiv.org/abs/2605.18601>) — Per-frame language control is combined with a sliding history cache, bounded positions, and self-forcing distillation.
 - **2026** · [Latent Spatial Memory for Video World Models](<https://arxiv.org/abs/2606.09828>)
 - **2026** · [Learning What to Recall: Adaptive Multi-Cue Episodic Memory for World Models](<https://arxiv.org/abs/2609.34677>)
 - **2026** · [LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models](<https://arxiv.org/abs/2603.07145>)
@@ -380,6 +379,7 @@ Persistent state, sequence models, and memory in video world models.
 - **2026** · [MemCam: Memory-Augmented Camera Control for Consistent Video Generation](<https://arxiv.org/abs/2603.26193>)
 - **2026** · [MemLearner: Learning to Query Context memory for Video World Models](<https://arxiv.org/abs/2606.31734>)
 - **2026** · [Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](<https://arxiv.org/abs/2604.18215>)
+- **2026** · [Memory Forcing: Attendable Mid-Horizon History for Streaming Video Generation](<https://arxiv.org/abs/2610.11756>) — Archive and working cache banks retain intermediate events alongside recent motion, with bank-aware temporal positions.
 - **2026** · [MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens](<https://arxiv.org/abs/2603.12513>)
 - **2026** · [MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation](<https://arxiv.org/abs/2606.09056>)
 - **2026** · [Modular TTT: Rethinking Test-Time Training as Composable Modules](<https://arxiv.org/abs/2608.07110>)
@@ -389,6 +389,7 @@ Persistent state, sequence models, and memory in video world models.
 - **2026** · [Proteus: Incremental Memory Activation for Long-Context Sequence Modeling](<https://arxiv.org/abs/2608.16844>)
 - **2026** · [RAE-NWM: Navigation World Model in Dense Visual Representation Space](<https://arxiv.org/abs/2603.09241>)
 - **2026** · [Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation](<https://arxiv.org/abs/2603.21366>)
+- **2026** · [Retrieval-Aware Distillation for Transformer-SSM Hybrids](<https://arxiv.org/abs/2602.11374>) — Retrieval-critical attention heads are retained while other heads are distilled into recurrent state-space components.
 - **2026** · [ReWorld: An Interactive World Model with Long-Horizon Memory](<https://arxiv.org/abs/2608.23565>)
 - **2026** · [SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](<https://arxiv.org/abs/2605.15178>)
 - **2026** · [SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation](<https://arxiv.org/abs/2610.00686>)
@@ -399,6 +400,7 @@ Persistent state, sequence models, and memory in video world models.
 - **2026** · [UCM: Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models](<https://arxiv.org/abs/2602.22960>)
 - **2026** · [V-RAE: Rethinking Video Latent Spaces for Generation](<https://arxiv.org/abs/2608.13556>)
 - **2026** · [Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation](<https://arxiv.org/abs/2609.20744>)
+- **2026** · [World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models](<https://arxiv.org/abs/2610.17434>) — Pose-indexed fast weights consolidate evicted visual history through recursive least-squares updates and support later memory reads.
 - **2026** · [WorldAttention: An Efficient Attention Architecture for Interactive Video World Models](<https://arxiv.org/abs/2609.34606>)
 - **2026** · [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](<https://arxiv.org/abs/2609.24984>)
 - **2026** · [WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon](<https://arxiv.org/abs/2609.35560>)
@@ -519,11 +521,13 @@ Critique, search, tool use, and feedback between model calls.
 </details>
 
 <a id="catalog-foundations-and-related-models"></a>
-<details><summary><strong>Foundations and related models · 34 works</strong></summary>
+<details><summary><strong>Foundations and related models · 36 works</strong></summary>
 
 Theory, surveys, parameter sharing, and comparison architectures.
 
+- **2026** · [AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling](<https://arxiv.org/abs/2605.16649>) — A global semantic proxy guides local high-resolution denoising; a comparison for scaling long-video generation.
 - **2026** · [Chain-of-Thought and Compressed Looped Transformers: A Memory-Budget Separation](<https://arxiv.org/abs/2605.30757>)
+- **2026** · [FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction](<https://arxiv.org/abs/2605.06509>) — Global-local singular-spectrum fusion extends video generation without training; a comparison for temporal consistency.
 - **2026** · [Inference and learning in sparse autoencoders as natural gradient flow](<https://arxiv.org/abs/2610.07389>)
 - **2026** · [Looped Transformers with Layer Normalization Provably Learn the Power Method](<https://arxiv.org/abs/2606.00605>)
 - **2026** · [When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers](<https://arxiv.org/abs/2607.20594>)
@@ -561,7 +565,7 @@ Theory, surveys, parameter sharing, and comparison architectures.
 </details>
 
 <a id="catalog-training-and-execution"></a>
-<details><summary><strong>Training and execution · 111 works</strong></summary>
+<details><summary><strong>Training and execution · 114 works</strong></summary>
 
 Learning objectives, distillation, caching, and efficient inference.
 
@@ -583,6 +587,7 @@ Learning objectives, distillation, caching, and efficient inference.
 - **2026** · [DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models](<https://arxiv.org/abs/2605.15055>)
 - **2026** · [Discrete Flow Maps](<https://arxiv.org/abs/2604.09784>)
 - **2026** · [Distribution Matching Distillation for Continuous Diffusion Language Models](<https://arxiv.org/abs/2609.40235>)
+- **2026** · [Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models](<https://arxiv.org/abs/2605.01896>) — M2-REPA aligns decoupled RGB, depth, and mask features with modality-specific foundation models during training.
 - **2026** · [DLoop: Looped Speculative Decoding](<https://arxiv.org/abs/2610.07659>)
 - **2026** · [Dory1.0-4B: A Looped Normalized-GPT](<https://arxiv.org/abs/2611.03998>)
 - **2026** · [DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation](<https://arxiv.org/abs/2606.04432>)
@@ -611,6 +616,7 @@ Learning objectives, distillation, caching, and efficient inference.
 - **2026** · [Maglev: Sliding Recurrent Memory](<https://arxiv.org/abs/2608.02870>)
 - **2026** · [Memorizon: Training World Models Beyond Their Context Window](<https://arxiv.org/abs/2610.00544>)
 - **2026** · [Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models](<https://arxiv.org/abs/2605.07721>)
+- **2026** · [NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377>) — Compressed historical keys and values use shared centers and quantized residuals; an optional variant attends in reduced dimensions.
 - **2026** · [On the Design Space of Continuous Diffusion Language Models](<https://arxiv.org/abs/2610.13834>)
 - **2026** · [On the Residual Scaling of Looped Transformers: Stability and Transferability](<https://arxiv.org/abs/2606.18524>)
 - **2026** · [One Model to Loop Them All: Elastic Latent Recurrence for Language Models](<https://arxiv.org/abs/2610.12582>)
@@ -631,6 +637,7 @@ Learning objectives, distillation, caching, and efficient inference.
 - **2026** · [Self Gradient Forcing: Native Long Video Extrapolation](<https://arxiv.org/abs/2607.20368>)
 - **2026** · [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](<https://arxiv.org/abs/2603.06507>)
 - **2026** · [Shallow Queries, Mature Values: Depth-Asynchronous Self-Speculation for Looped Transformers](<https://arxiv.org/abs/2609.34538>)
+- **2026** · [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](<https://arxiv.org/abs/2609.02886>) — A shared data pipeline and staged adaptation recipe train causal video world models across several backbones.
 - **2026** · [Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation](<https://arxiv.org/abs/2604.21221>)
 - **2026** · [Speculative Forcing for Efficient Autoregressive Video Generation](<https://arxiv.org/abs/2610.22347>)
 - **2026** · [Step-resolved data attribution for looped transformers](<https://arxiv.org/abs/2602.10097>)
@@ -706,55 +713,25 @@ Benchmarks, controlled comparisons, mechanisms, and oversight.
 - **2025** · [Two-Scale Latent Dynamics for Recurrent-Depth Transformers](<https://arxiv.org/abs/2509.23314>)
 
 </details>
-
-<a id="catalog-review"></a>
-<details><summary><strong>Awaiting relevance review · 12 works</strong></summary>
-
-Metadata has been collected, but relevance and placement still need review. These works are excluded from the main collection count.
-
-- **2026** · [Advancing Open-source World Models](<https://arxiv.org/abs/2601.20540>) · Needs review
-- **2026** · [AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling](<https://arxiv.org/abs/2605.16649>) · Needs review
-- **2026** · [Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models](<https://arxiv.org/abs/2605.01896>) · Needs review
-- **2026** · [Few-Step Generation via Data-Space Iteration](<https://arxiv.org/abs/2610.12102>) · Needs review
-- **2026** · [FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction](<https://arxiv.org/abs/2605.06509>) · Needs review
-- **2026** · [Hy-Nomas: Towards Free-form Interactive World Generation](<https://arxiv.org/abs/2610.36729>) · Needs review
-- **2026** · [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](<https://arxiv.org/abs/2605.18601>) · Needs review
-- **2026** · [Memory Forcing: Attendable Mid-Horizon History for Streaming Video Generation](<https://arxiv.org/abs/2610.11756>) · Needs review
-- **2026** · [NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377>) · Needs review
-- **2026** · [Retrieval-Aware Distillation for Transformer-SSM Hybrids](<https://arxiv.org/abs/2602.11374>) · Needs review
-- **2026** · [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](<https://arxiv.org/abs/2609.02886>) · Needs review
-- **2026** · [World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models](<https://arxiv.org/abs/2610.17434>) · Needs review
-
-</details>
 <!-- LOOP-BOT:CATALOG:END -->
 
-## How this list stays current
+## Scope and selection
 
-**Discover → verify metadata → screen relevance → update this README and the indexes.**
+We focus on generative models that reuse computation or carry information between
+updates: shared-depth blocks, latent reasoning, sample refinement, temporal
+memory, and agent feedback. Related theory, training methods, efficient inference,
+and evaluation help explain when these mechanisms are useful.
 
-The Discord collector and GitHub publisher are each scheduled every 30 minutes.
-The bot's goal is to keep this README useful: refresh the collection counts,
-surface new papers, maintain the full grouped collection, and preserve the curated reading path.
-An uncertain match goes to the **[review queue](CANDIDATES.md)**. Automatic
-selections are labeled; inclusion does not mean the experiments were reproduced.
-
-The collector reads the five configured channels and their accessible active and
-archived threads. The [dated source audit](docs/SOURCE_COVERAGE.md) records coverage
-and exclusions; collection counts alone do not establish channel completeness.
-
-Only public paper metadata is copied into this repository. See
-[the maintenance guide](docs/BOT.md) for scope, scheduling, and recovery details.
+A reading topic indicates how a work connects to the survey. For example,
+memory compression supports temporal recurrence, while global-local video
+generation provides a comparison for maintaining consistency over time.
+Inclusion does not imply independent reproduction of reported results.
 
 ## Contribute
 
-- **Suggest a paper:** add its primary link and explain which feedback mechanism it studies.
-- **Improve a record:** edit [the paper data](data/papers.json); keep its stable ID.
-- **Review a candidate:** move it from `data/candidates.json` to `data/papers.json`, assign a family, and set `curation` to `human-reviewed`.
-- **Improve the reading path:** edit [the curated reading map](data/reading_map.json).
-
-The bot preserves existing paper records and prose outside its marked README
-sections. To exclude a paper permanently, add its ID to `data/excluded.json`
-and remove its record from the lists.
+- **Suggest a paper:** open an issue or pull request with its primary link and a short explanation of its relevance.
+- **Improve an entry:** correct the title, link, year, or reading topic in [the paper data](data/papers.json).
+- **Improve the reading path:** suggest accessible starting points for a feedback family.
 
 ---
 

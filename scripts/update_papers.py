@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from readme import update_readme
 
 ROOT = Path(__file__).resolve().parents[1]
-MANAGED = ['data/papers.json', 'data/candidates.json', 'PAPERS.md', 'CANDIDATES.md', 'README.md']
+MANAGED = ['data/papers.json', 'PAPERS.md', 'README.md']
 FAMILIES = ['Recurrent depth', 'Latent feedback', 'Sample refinement', 'Temporal memory', 'Agent feedback']
 
 
@@ -56,20 +56,18 @@ def validate(paper):
     return paper
 
 
-def merge(papers, candidates, additions, excluded, added_on=None):
+def publishable(additions):
+    return [p for p in map(validate, additions) if p['curation'] == 'automatic']
+
+
+def merge(papers, additions, excluded, added_on=None):
     accepted = {p['id']: p for p in papers}
-    waiting = {p['id']: p for p in candidates}
-    for raw in additions:
-        p = validate(raw)
+    for p in publishable(additions):
         if p['id'] in excluded or p['id'] in accepted:
             continue
         p = dict(p, added_on=added_on or datetime.now(timezone.utc).date().isoformat())
-        if p['curation'] == 'automatic':
-            accepted[p['id']] = dict(p, added_on=waiting.get(p['id'], {}).get('added_on', p['added_on']))
-            waiting.pop(p['id'], None)
-        else:
-            waiting.setdefault(p['id'], p)
-    return ordered(accepted.values()), ordered(waiting.values())
+        accepted[p['id']] = p
+    return ordered(accepted.values())
 
 
 def ordered(papers):
@@ -80,20 +78,20 @@ def markdown(value):
     return re.sub(r'([\\`*_\[\]<>|])', r'\\\1', re.sub(r'[\x00-\x1f\x7f]', ' ', value))
 
 
-def render(papers, candidates=False):
-    lines = ['# Papers awaiting relevance review' if candidates else '# Paper list', '',
-             'Automatically collected public metadata. These papers are not yet part of the curated list.' if candidates else
-             'Survey-selected papers and automatically screened additions. Inclusion does not imply that reported results have been reproduced.', '']
+def render(papers):
+    lines = ['# Paper list', '', 'Research papers, model reports, and supporting references for looping in generative models. '
+             'See the [grouped reading guide](README.md#full-collection-by-reading-topic) to browse by topic.', '']
     year = None
     for p in ordered(papers):
+        if p.get('curation') == 'needs-review':
+            raise ValueError('Unapproved metadata cannot enter public output')
         if p['year'] != year:
             year = p['year']
             lines.extend([f'## {year}', ''])
         if not re.match(r'https?://', p['url']) or re.search(r'[\s<>]', p['url']):
             raise ValueError('Invalid existing paper URL')
-        suffix = ' — ' + markdown(p['family']) if p.get('family') else ''
-        if p.get('curation') == 'automatic':
-            suffix += ' · automatically screened'
+        topic = p.get('reading_group') or p.get('family')
+        suffix = ' — ' + markdown(topic) if topic else ''
         lines.append(f"- [{markdown(p['title'])}](<{p['url']}>){suffix}")
     return '\n'.join(lines).rstrip() + '\n'
 
@@ -104,15 +102,16 @@ def git(*args):
 
 def main():
     read = lambda name: json.loads((ROOT / 'data' / (name + '.json')).read_text())
-    papers, candidates, excluded = read('papers'), read('candidates'), read('excluded')
-    response = feed({'action': 'sync', 'known': [p['id'] for p in papers + candidates], 'excluded': excluded})
+    papers, excluded = read('papers'), read('excluded')
+    response = feed({'action': 'sync', 'known': [p['id'] for p in papers], 'excluded': excluded})
     additions = response['papers']
     if not isinstance(additions, list) or len(additions) > 100:
         raise ValueError('Invalid batch')
-    papers, candidates = merge(papers, candidates, additions, excluded)
+    # Defense in depth: even an older feed cannot publish or acknowledge undecided records.
+    additions = publishable(additions)
+    papers = merge(papers, additions, excluded)
     outputs = [json.dumps(papers, indent=2, ensure_ascii=False) + '\n',
-               json.dumps(candidates, indent=2, ensure_ascii=False) + '\n', render(papers), render(candidates, True),
-               update_readme((ROOT / 'README.md').read_text(), papers, candidates, read('reading_map'))]
+               render(papers), update_readme((ROOT / 'README.md').read_text(), papers, read('reading_map'))]
     for path, text in zip(MANAGED, outputs):
         target = ROOT / path
         if target.is_symlink():
@@ -129,7 +128,7 @@ def main():
     sha = git('rev-parse', 'HEAD')
     if additions:
         feed({'action': 'ack', 'ids': [p['id'] for p in additions], 'sha': sha})
-    print(json.dumps({'commit': sha, 'papers': len(papers), 'candidates': len(candidates), 'received': len(additions)}))
+    print(json.dumps({'commit': sha, 'papers': len(papers), 'received': len(additions)}))
 
 
 if __name__ == '__main__':

@@ -1,510 +1,522 @@
 # Paper list
 
-Survey-selected papers and automatically screened additions. Inclusion does not imply that reported results have been reproduced.
+Research papers, model reports, and supporting references for looping in generative models. See the [grouped reading guide](README.md#full-collection-by-reading-topic) to browse by topic.
 
 ## 2026
 
-- [$\\delta$-mem: Efficient Online Memory for Large Language Models](<https://arxiv.org/abs/2605.12357>)
-- [$T^2$MLR: Transformer with Temporal Middle-Layer Recurrence](<https://arxiv.org/abs/2607.15178>)
-- [2DSD: Two-Dimensional Speculative Decoding for Looped Language Models](<https://github.com/SqueezeAILab/2DSD/blob/main/paper/2DSD.pdf>)
-- [4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](<https://arxiv.org/abs/2610.03715>)
-- [A Mechanistic Analysis of Looped Reasoning Language Models](<https://arxiv.org/abs/2604.11791>)
-- [ActWorld: From Explorable to Interactive World Model via Action-Aware Memory](<https://arxiv.org/abs/2606.17730>)
-- [AdaPonderLM: Gated Pondering Language Models with Token-Wise Adaptive Depth](<https://arxiv.org/abs/2603.01914>)
-- [AdaState: Self-Evolving Anchors for Streaming Video Generation](<https://arxiv.org/abs/2605.30349>)
-- [Addressable Memory for Video World Models](<https://arxiv.org/abs/2608.07408>)
-- [ALoDLM: Adaptively Looped Diffusion Language Models](<https://arxiv.org/abs/2610.04198>)
-- [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](<https://arxiv.org/abs/2605.12495>)
-- [Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](<https://arxiv.org/abs/2603.13405>)
-- [AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories](<https://arxiv.org/abs/2602.14941>)
-- [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](<https://arxiv.org/abs/2605.13724>)
-- [Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models](<https://arxiv.org/abs/2601.10679>)
-- [ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals](<https://arxiv.org/abs/2611.05234>)
-- [AutoHarness: improving LLM agents by automatically synthesizing a code harness](<https://arxiv.org/abs/2603.03329>)
-- [Beyond the Training Horizon: Mechanisms and Limits of Length Generalization in Looped Transformers](<https://arxiv.org/abs/2609.33144>)
-- [Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers](<https://arxiv.org/abs/2606.31779>)
-- [BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion](<https://arxiv.org/abs/2610.12307>)
-- [Can Video World Models Track Unobserved World States?](<https://arxiv.org/abs/2608.30692>)
-- [CART: Context-Anchored Recurrent Transformer -- A Parameter-Efficient Architecture with Learned Stability](<https://arxiv.org/abs/2606.01495>)
-- [Categorical Flow Maps](<https://arxiv.org/abs/2602.12233>)
-- [Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](<https://arxiv.org/abs/2605.15141>)
-- [Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](<https://arxiv.org/abs/2602.02214>)
-- [Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models](<https://arxiv.org/abs/2606.25473>)
-- [Chain-of-Thought and Compressed Looped Transformers: A Memory-Budget Separation](<https://arxiv.org/abs/2605.30757>)
-- [CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield](<https://arxiv.org/abs/2606.31796>)
-- [ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction](<https://arxiv.org/abs/2605.14398>)
-- [Classical Energies Learn to Reason 1,000x Faster than Looped Models](<https://arxiv.org/abs/2611.17309>)
-- [Code Plans, Diffusion Renders: Open-Ended Generative World Modeling](<https://arxiv.org/abs/2609.26458>)
-- [Code Video Model](<https://code-video-model.github.io/tech_report.pdf>)
-- [Code World Model: Coding Agent as World Brain](<https://arxiv.org/abs/2608.25927>)
-- [Coevolving Representations in Joint Image-Feature Diffusion](<https://arxiv.org/abs/2604.17492>)
-- [Composition of Memory Experts for Diffusion World Models](<https://arxiv.org/abs/2605.18813>)
-- [Compressing History into Memory: Distilling Transformers into Recurrent Transformers](<https://arxiv.org/abs/2606.21562>)
-- [Consistency Deep Equilibrium Models](<https://arxiv.org/abs/2602.03024>)
-- [Context Forcing: Consistent Autoregressive Video Generation with Long Context](<https://arxiv.org/abs/2602.06028>)
-- [Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation](<https://arxiv.org/abs/2608.13391>)
-- [Continuous Diffusion Scales Competitively with Discrete Diffusion for Language](<https://arxiv.org/abs/2605.18530>)
-- [Continuous Memory Machines](<https://arxiv.org/abs/2610.07907>)
-- [CORE: Context-Robust Remasking for Diffusion Language Models](<https://arxiv.org/abs/2602.04096>)
-- [D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models](<https://arxiv.org/abs/2605.05204>)
-- [Decoding Looped Transformers Better for (Almost) Free](<https://arxiv.org/abs/2610.02185>)
-- [DeepLoop: Depth Scaling for Looped Transformers](<https://arxiv.org/abs/2607.13491>)
-- [Dense Supervision Is Not Enough: The Readout Blind Spot in Looped Language Models](<https://arxiv.org/abs/2606.24898>)
-- [Depth Memory](<https://arxiv.org/abs/2610.18809>)
-- [Depth through recurrence: Looped transformers for flow-matching TTS](<https://arxiv.org/abs/2609.29768>)
-- [Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching](<https://arxiv.org/abs/2608.09444>)
-- [Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves](<https://arxiv.org/abs/2601.21582>)
-- [DepthBench: Measuring How Residual Connections Enable More Computational Depth](<https://arxiv.org/abs/2609.32534>)
-- [DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models](<https://arxiv.org/abs/2605.15055>)
-- [Dino Forcing Flow Models: Do not denoise what you can predict](<https://arxiv.org/abs/2610.11751>)
-- [DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning](<https://arxiv.org/abs/2607.00341>)
-- [Discrete Flow Maps](<https://arxiv.org/abs/2604.09784>)
-- [Distribution Matching Distillation for Continuous Diffusion Language Models](<https://arxiv.org/abs/2609.40235>)
-- [DLoop: Looped Speculative Decoding](<https://arxiv.org/abs/2610.07659>)
-- [Dory1.0-4B: A Looped Normalized-GPT](<https://arxiv.org/abs/2611.03998>)
-- [DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation](<https://arxiv.org/abs/2606.04432>)
-- [Dynamic Compression in Recurrent Networks](<https://arxiv.org/abs/2608.17896>)
-- [DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time](<https://arxiv.org/abs/2609.35704>)
-- [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](<https://arxiv.org/abs/2609.37533>)
-- [Echo-Memory: A Controlled Study of Memory in Action World Models](<https://arxiv.org/abs/2606.09803>)
-- [ELT: Elastic Looped Transformers for Visual Generation](<https://arxiv.org/abs/2604.09168>)
-- [Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](<https://arxiv.org/abs/2611.08977>)
-- [Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning](<https://arxiv.org/abs/2608.14706>)
-- [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](<https://arxiv.org/abs/2605.21488>)
-- [Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](<https://arxiv.org/abs/2602.01801>)
-- [Fast Weight Attention for Continual Learning](<https://arxiv.org/abs/2608.27763>)
-- [Feedback Shortcut: Speculative Decoding for Latent Feedback Transformers](<https://www.alphaxiv.org/abs/2611.feedback-shortcut-speculative-decoding>)
-- [Fixed-Point Masked Generative Modeling](<https://arxiv.org/abs/2605.31215>)
-- [Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers](<https://arxiv.org/abs/2606.18206>)
-- [FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates](<https://arxiv.org/abs/2609.29812>)
-- [Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments](<https://arxiv.org/abs/2601.01075>)
-- [Flow Map Language Models: One-step Language Modeling via Continuous Denoising](<https://arxiv.org/abs/2602.16813>)
-- [Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners](<https://arxiv.org/abs/2606.29150>)
-- [Flow-OPD: On-Policy Distillation for Flow Matching Models](<https://arxiv.org/abs/2605.08063>)
-- [Full-bandwidth transformer](<https://arxiv.org/abs/2608.08888>)
-- [Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation](<https://arxiv.org/abs/2608.15062>)
-- [Gen-Searcher: Reinforcing Agentic Search for Image Generation](<https://arxiv.org/abs/2603.28767>)
-- [Generative Recursive Reasoning](<https://arxiv.org/abs/2605.19376>)
-- [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](<https://z.ai/blog/glm-5.4>)
-- [Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis](<https://arxiv.org/abs/2604.06939>)
-- [Harness Learning Enables Generalizable Test-Time Adaptation](<https://arxiv.org/abs/2609.35738>)
-- [How Depth Growth and Looping Shape In-Context Learning in Language Models](<https://arxiv.org/abs/2610.31421>)
-- [How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents](<https://arxiv.org/abs/2609.19107>)
-- [How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models](<https://arxiv.org/abs/2604.21106>)
-- [How to Loop MoE: Flatten the Experts, Untie the Attention](<https://arxiv.org/abs/2609.35751>)
-- [How to Loop Your Transformer: Loop Scaling, Specialization, and Parallel Inference](<https://arxiv.org/abs/2610.40325>)
-- [How to train a frontier-level world model](<https://next-state.github.io/open-dreamer/>)
-- [HRM-Text: Efficient Pretraining Beyond Scaling](<https://arxiv.org/abs/2605.20613>)
-- [Hybrid Latent Attention for Looped Language Models](<https://arxiv.org/abs/2610.07940>)
-- [Hyperloop Transformers](<https://arxiv.org/abs/2604.21254>)
-- [Improved Distributional Diffusion Models](<https://arxiv.org/abs/2609.37147>)
-- [Improving Test-Time Scaling with Adaptive Looped Transformers](<https://arxiv.org/abs/2609.35748>)
-- [Inference and learning in sparse autoencoders as natural gradient flow](<https://arxiv.org/abs/2610.07389>)
-- [Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](<https://arxiv.org/abs/2602.02393>)
-- [Inkling 2 Mini Model Card](<https://thinkingmachines.ai/model-card/inkling-2-mini/>)
-- [KV Caching in Flow Models](<https://sayak.dev/posts/kv-flow.html>)
-- [KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration](<https://arxiv.org/abs/2605.14278>)
-- [LASER: Low-Rank Activation SVD for Efficient Recursion](<https://arxiv.org/abs/2604.17224>)
-- [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](<https://arxiv.org/abs/2602.11401>)
-- [Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior](<https://arxiv.org/abs/2605.26797>)
-- [Latent Spatial Memory for Video World Models](<https://arxiv.org/abs/2606.09828>)
-- [Learning What to Recall: Adaptive Multi-Cue Episodic Memory for World Models](<https://arxiv.org/abs/2609.34677>)
-- [Length Generalization with Log-Depth Recurrent Units](<https://arxiv.org/abs/2605.26035>)
-- [Level-of-Token Diffusion](<https://arxiv.org/abs/2610.05816>)
-- [LiFT: Loop Flow Transformers](<https://arxiv.org/abs/2610.05538>)
-- [Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](<https://arxiv.org/abs/2605.31158>)
-- [LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models](<https://arxiv.org/abs/2603.07145>)
-- [Log-Depth Recurrent Language Modeling](<https://arxiv.org/abs/2609.28212>)
-- [LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation](<https://arxiv.org/abs/2610.03636>)
-- [LoL: Longer than Longer, Scaling Video Generation to Hour](<https://arxiv.org/abs/2601.16914>)
-- [Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation](<https://arxiv.org/abs/2604.10103>)
-- [LongTake: Learning to Sustain Dynamics in Long-Horizon Video Generation](<https://arxiv.org/abs/2609.38562>)
-- [Loop as a Bridge: Can Looped Transformers Truly Link Representation Space and Natural Language Outputs?](<https://arxiv.org/abs/2601.10242>)
-- [Loop Dropout: Regularizing Shared Updates in Looped Language Models](<https://arxiv.org/abs/2609.34218>)
-- [Loop the Loopies!](<https://arxiv.org/abs/2607.16051>)
-- [Loop, Think, \\& Generalize: Implicit Reasoning in Recurrent-Depth Transformers](<https://arxiv.org/abs/2604.07822>)
-- [Loopback Transformer: Towards a Unified View of Residual Looped Transformers](<https://arxiv.org/abs/2611.07226>)
-- [LoopCD: Loop-wise Contrastive Decoding for Improving Reasoning in Looped Language Models](<https://arxiv.org/abs/2609.24196>)
-- [Looped Diffusion Language Models](<https://arxiv.org/abs/2605.26106>)
-- [Looped Diffusion Transformer](<https://arxiv.org/abs/2609.40305>)
-- [Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers](<https://arxiv.org/abs/2607.15456>)
-- [Looped Transformers with Layer Normalization Provably Learn the Power Method](<https://arxiv.org/abs/2606.00605>)
-- [Looped World Models](<https://arxiv.org/abs/2606.18208>)
-- [LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation](<https://arxiv.org/abs/2602.11451>)
-- [Looping Back to Move Forward: Recursive Transformers for Efficient and Flexible Large Multimodal Models](<https://arxiv.org/abs/2602.09080>)
-- [Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts](<https://arxiv.org/abs/2610.01153>)
-- [LoopMoE: Unifying Iterative Computation with Mixture-of-Experts for Language Modeling](<https://arxiv.org/abs/2606.04438>)
-- [LoopREG: Representation Supervision Enables Test-Time Recurrent Depth in Diffusion Transformers](<https://arxiv.org/abs/2610.17877>)
-- [LoopRPT: Reinforcement Pre-Training for Looped Language Models](<https://arxiv.org/abs/2603.19714>)
-- [LoOPSD: On-Policy Self-Distillation with Looped Teachers](<https://arxiv.org/abs/2610.18162>)
-- [LoopSpec: Pipelined Self-Speculative Decoding for Looped Transformers](<https://arxiv.org/abs/2609.17184>)
-- [LoopUS: Recasting Pretrained LLMs into Looped Latent Refinement Models](<https://arxiv.org/abs/2605.11011>)
-- [LoopViT: Scaling Visual ARC with Looped Transformers](<https://arxiv.org/abs/2602.02156>)
-- [LoopVL: Recurrent Visual Intelligence](<https://arxiv.org/abs/2609.38426>)
-- [LT2: Linear-Time Looped Transformers](<https://arxiv.org/abs/2605.20670>)
-- [Maglev: Sliding Recurrent Memory](<https://arxiv.org/abs/2608.02870>)
-- [Marionette: Predicting World States, Rendering Geometry, Painting Appearance](<https://arxiv.org/abs/2608.14530>)
-- [Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory](<https://arxiv.org/abs/2604.08995>)
-- [Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory](<https://arxiv.org/abs/2608.29910>)
-- [MemCam: Memory-Augmented Camera Control for Consistent Video Generation](<https://arxiv.org/abs/2603.26193>)
-- [MemLearner: Learning to Query Context memory for Video World Models](<https://arxiv.org/abs/2606.31734>)
-- [MemoBench: Benchmarking World Modeling in Dynamically Changing Environments](<https://arxiv.org/abs/2606.27537>)
-- [Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](<https://arxiv.org/abs/2604.18215>)
-- [Memorizon: Training World Models Beyond Their Context Window](<https://arxiv.org/abs/2610.00544>)
-- [Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models](<https://arxiv.org/abs/2605.07721>)
-- [MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens](<https://arxiv.org/abs/2603.12513>)
-- [Meta-Harness: End-to-End Optimization of Model Harnesses](<https://arxiv.org/abs/2603.28052>)
-- [MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation](<https://arxiv.org/abs/2606.09056>)
-- [MIND: Benchmarking Memory Consistency and Action Control in World Models](<https://arxiv.org/abs/2602.08025>)
-- [Modular TTT: Rethinking Test-Time Training as Composable Modules](<https://arxiv.org/abs/2608.07110>)
-- [MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](<https://arxiv.org/abs/2603.17117>)
-- [Multi-Head Recurrent Memory Agents](<https://arxiv.org/abs/2607.01523>)
-- [Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models](<https://arxiv.org/abs/2606.16700>)
-- [Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces](<https://arxiv.org/abs/2609.40362>)
-- [NEWTON: Agentic Planning for Physically Grounded Video Generation](<https://arxiv.org/abs/2605.18396>)
-- [On the Design Space of Continuous Diffusion Language Models](<https://arxiv.org/abs/2610.13834>)
-- [On the Residual Scaling of Looped Transformers: Stability and Transferability](<https://arxiv.org/abs/2606.18524>)
-- [One Model to Loop Them All: Elastic Latent Recurrence for Language Models](<https://arxiv.org/abs/2610.12582>)
-- [One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models](<https://arxiv.org/abs/2604.18839>)
-- [One-Forcing: Towards Stable One-Step Autoregressive Video Generation](<https://arxiv.org/abs/2605.23458>)
-- [OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](<https://arxiv.org/abs/2607.08766>)
-- [Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models](<https://arxiv.org/abs/2603.13215>)
-- [PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache](<https://arxiv.org/abs/2601.04359>)
-- [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](<https://arxiv.org/abs/2603.25730>)
-- [Parallel Decoding Distillation for Fast Image and Video Generation](<https://arxiv.org/abs/2607.26004>)
-- [Parcae: Scaling Laws For Stable Looped Language Models](<https://arxiv.org/abs/2604.12946>)
-- [Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion](<https://arxiv.org/abs/2601.21896>)
-- [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](<https://arxiv.org/abs/2608.27345>)
-- [PonderLM-3: Adaptive Token-Wise Pondering with Differentiable Masking](<https://arxiv.org/abs/2603.02023>)
-- [Pooling Representation Autoencoders for Efficient Diffusion](<https://arxiv.org/abs/2610.09242>)
-- [Posterior Refinement: Fast Language Generation via Any-Order Flow Maps](<https://arxiv.org/abs/2606.24773>)
-- [Prefix Sliding for efficient test-time scaling](<https://arxiv.org/abs/2608.26070>)
-- [Pretraining Latent Information Feedback Transformers with Teacher Supervision](<https://arxiv.org/abs/2609.38149>)
-- [Pretraining Recurrent Networks without Recurrence](<https://arxiv.org/abs/2606.06479>)
-- [Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](<https://arxiv.org/abs/2602.10520>)
-- [Probabilistic Tiny Recursive Model](<https://arxiv.org/abs/2605.19943>)
-- [Programmable World Model](<https://arxiv.org/abs/2609.10540>)
-- [Proteus: Incremental Memory Activation for Long-Context Sequence Modeling](<https://arxiv.org/abs/2608.16844>)
-- [RAE-NWM: Navigation World Model in Dense Visual Representation Space](<https://arxiv.org/abs/2603.09241>)
-- [RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO](<https://arxiv.org/abs/2605.15190>)
-- [Reasoning on the Simplex: Geometric Fixed-Point Models](<https://arxiv.org/abs/2609.33540>)
-- [Reasoning with Latent Tokens in Diffusion Language Models](<https://arxiv.org/abs/2602.03769>)
-- [Recirculation](<https://arxiv.org/abs/2608.17981>)
-- [Recurrent Looped Transformer](<https://arxiv.org/abs/2610.07591>)
-- [Recursive Flow Matching](<https://arxiv.org/abs/2605.26535>)
-- [Recursive Inference Machines for Neural Reasoning](<https://arxiv.org/abs/2603.05234>)
-- [Recursive Multi-Agent Systems](<https://arxiv.org/abs/2604.25917>)
-- [Recursive Scaling in Masked Diffusion Models](<https://arxiv.org/abs/2606.18022>)
-- [Register Tokens for Bounded-State Reasoning in Diffusion Language Models](<https://arxiv.org/abs/2609.16372>)
-- [Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation](<https://arxiv.org/abs/2603.21366>)
-- [Residual Context Diffusion Language Models](<https://arxiv.org/abs/2601.22954>)
-- [Rethinking the Evaluation of Harness Evolution for Agents](<https://arxiv.org/abs/2607.12227>)
-- [Retrofitting Recurrent Vision-Language Models from Pretrained Backbones](<https://arxiv.org/abs/2610.22075>)
-- [Reward-Forcing: Autoregressive Video Generation with Reward Feedback](<https://arxiv.org/abs/2601.16933>)
-- [ReWorld: An Interactive World Model with Long-Horizon Memory](<https://arxiv.org/abs/2608.23565>)
-- [Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion](<https://arxiv.org/abs/2602.07775>)
-- [Salt++: Context-Aligned Post-Training for Few-Step Streaming Multimodal Generation](<https://arxiv.org/abs/2609.36995>)
-- [SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](<https://arxiv.org/abs/2605.15178>)
-- [Scaling Laws for Looped Mixture of Experts](<https://arxiv.org/abs/2609.40316>)
-- [Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals](<https://arxiv.org/abs/2610.11570>)
-- [Self Gradient Forcing: Native Long Video Extrapolation](<https://arxiv.org/abs/2607.20368>)
-- [Self-conditioned Flow Map Language Models via Fixed-point Flows](<https://arxiv.org/abs/2607.00714>)
-- [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](<https://arxiv.org/abs/2603.06507>)
-- [SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation](<https://arxiv.org/abs/2610.00686>)
-- [Shallow Queries, Mature Values: Depth-Asynchronous Self-Speculation for Looped Transformers](<https://arxiv.org/abs/2609.34538>)
-- [Shared Weights, Selected Computations: How Looped Transformers Route What Each Loop Does](<https://arxiv.org/abs/2609.39892>)
-- [Simple Self-Conditioning Adaptation for Masked Diffusion Models](<https://arxiv.org/abs/2604.26985>)
-- [Simply Stabilizing the Loop via Fully Looped Transformer](<https://arxiv.org/abs/2605.18797>)
-- [SinkTrack: Attention Sink based Context Anchoring for Large Language Models](<https://arxiv.org/abs/2604.10027>)
-- [Skip a Layer or Loop It? Learning Program-of-Layers in LLMs](<https://arxiv.org/abs/2606.06574>)
-- [Sliding-window beats linear attention](<https://arxiv.org/abs/2608.28444>)
-- [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](<https://arxiv.org/abs/2609.01343>)
-- [Solve the Loop: Attractor Models for Language and Reasoning](<https://arxiv.org/abs/2605.12466>)
-- [Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation](<https://arxiv.org/abs/2604.21221>)
-- [Sparse Layers are Critical to Scaling Looped Language Models](<https://arxiv.org/abs/2605.09165>)
-- [Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory](<https://arxiv.org/abs/2610.02521>)
-- [Speculative Forcing for Efficient Autoregressive Video Generation](<https://arxiv.org/abs/2610.22347>)
-- [Spherical Fixed-Point Reasoners: Adaptive Loop Halting on the Hypersphere](<https://arxiv.org/abs/2610.25646>)
-- [SpiralFormer: Looped Transformers Can Learn Hierarchical Dependencies via Multi-Resolution Recursion](<https://arxiv.org/abs/2602.11698>)
-- [Stability and Generalization in Looped Transformers](<https://arxiv.org/abs/2604.15259>)
-- [Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping](<https://arxiv.org/abs/2606.29983>)
-- [Step-resolved data attribution for looped transformers](<https://arxiv.org/abs/2602.10097>)
-- [Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers](<https://arxiv.org/abs/2607.21594>)
-- [Switching Linear Attention](<https://arxiv.org/abs/2609.39034>)
-- [Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution](<https://arxiv.org/abs/2605.25333>)
-- [Temporal Backtracking Search for Test-time Generative Video Reasoning](<https://arxiv.org/abs/2606.13861>)
-- [The Recurrent Transformer: Greater Effective Depth and Efficient Decoding](<https://arxiv.org/abs/2604.21215>)
-- [The Surprising Effectiveness of Shared Memory in Looped Transformers](<https://arxiv.org/abs/2610.02383>)
-- [The Topological Trouble With Transformers](<https://arxiv.org/abs/2604.17121>)
-- [Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning](<https://arxiv.org/abs/2609.38147>)
-- [Thinking with Looped Flows](<https://arxiv.org/abs/2609.11801>)
-- [Tiny Autoregressive Recursive Models](<https://arxiv.org/abs/2603.08082>)
-- [Towards Looped Models Done Right. Part I: Topology, Input Injection, Recurrent-State Design](<https://huskydoge.github.io/husky-blog/posts/recursive_models/towards-looped-models-done-right/>)
-- [Towards Looped Models Done Right. Part II: Rethinking at Fixed Points](<https://www.alphaxiv.org/abs/2610.looped-models-fixed-points>)
-- [Training-Free Looped Transformers](<https://arxiv.org/abs/2605.23872>)
-- [Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation](<https://arxiv.org/abs/2610.26030>)
-- [TTHE: Test-Time Harness Evolution](<https://arxiv.org/abs/2607.08124>)
-- [UCM: Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models](<https://arxiv.org/abs/2602.22960>)
-- [UniCache: Task- and Type-Aware KV Cache Compression for Unified Multimodal Models](<https://arxiv.org/abs/2609.32831>)
-- [Universal YOCO for Efficient Depth Scaling](<https://arxiv.org/abs/2604.01220>)
-- [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](<https://arxiv.org/abs/2609.04010>)
-- [V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising](<https://arxiv.org/abs/2603.16792>)
-- [V-RAE: Rethinking Video Latent Spaces for Generation](<https://arxiv.org/abs/2608.13556>)
-- [Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation](<https://arxiv.org/abs/2609.20744>)
-- [VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System](<https://arxiv.org/abs/2607.27380>)
-- [VideoGen-Agent: Reinforcing Video Generation Agents](<https://arxiv.org/abs/2609.24997>)
-- [Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](<https://arxiv.org/abs/2601.11109>)
-- [What Makes Recurrence Effective in Looped Language Models?](<https://arxiv.org/abs/2609.36636>)
-- [When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers](<https://arxiv.org/abs/2607.20594>)
-- [WorldAttention: An Efficient Attention Architecture for Interactive Video World Models](<https://arxiv.org/abs/2609.34606>)
-- [WorldCompass: Reinforcement Learning for Long-Horizon World Models](<https://arxiv.org/abs/2602.09022>)
-- [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](<https://arxiv.org/abs/2609.24984>)
-- [WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon](<https://arxiv.org/abs/2609.35560>)
-- [Write Back the $\\Delta$: Revisiting the Same Tokens with Fresh Representations](<https://arxiv.org/abs/2609.32457>)
-- [X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving](<https://arxiv.org/abs/2606.28758>)
-- [ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation](<https://arxiv.org/abs/2609.21712>)
+- [$\\delta$-mem: Efficient Online Memory for Large Language Models](<https://arxiv.org/abs/2605.12357>) — Temporal memory
+- [$T^2$MLR: Transformer with Temporal Middle-Layer Recurrence](<https://arxiv.org/abs/2607.15178>) — Latent feedback
+- [2DSD: Two-Dimensional Speculative Decoding for Looped Language Models](<https://github.com/SqueezeAILab/2DSD/blob/main/paper/2DSD.pdf>) — Training and execution
+- [4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](<https://arxiv.org/abs/2610.03715>) — Agent feedback
+- [A Mechanistic Analysis of Looped Reasoning Language Models](<https://arxiv.org/abs/2604.11791>) — Training and execution
+- [ActWorld: From Explorable to Interactive World Model via Action-Aware Memory](<https://arxiv.org/abs/2606.17730>) — Temporal memory
+- [AdaPonderLM: Gated Pondering Language Models with Token-Wise Adaptive Depth](<https://arxiv.org/abs/2603.01914>) — Latent feedback
+- [AdaState: Self-Evolving Anchors for Streaming Video Generation](<https://arxiv.org/abs/2605.30349>) — Temporal memory
+- [Addressable Memory for Video World Models](<https://arxiv.org/abs/2608.07408>) — Temporal memory
+- [Advancing Open-source World Models](<https://arxiv.org/abs/2601.20540>) — Temporal memory
+- [ALoDLM: Adaptively Looped Diffusion Language Models](<https://arxiv.org/abs/2610.04198>) — Recurrent depth
+- [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](<https://arxiv.org/abs/2605.12495>) — Agent feedback
+- [Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion](<https://arxiv.org/abs/2603.13405>) — Temporal memory
+- [AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories](<https://arxiv.org/abs/2602.14941>) — Temporal memory
+- [AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](<https://arxiv.org/abs/2605.13724>) — Training and execution
+- [Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models](<https://arxiv.org/abs/2601.10679>) — Recurrent depth
+- [ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals](<https://arxiv.org/abs/2611.05234>) — Recurrent depth
+- [AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling](<https://arxiv.org/abs/2605.16649>) — Foundations and related models
+- [AutoHarness: improving LLM agents by automatically synthesizing a code harness](<https://arxiv.org/abs/2603.03329>) — Agent feedback
+- [Beyond the Training Horizon: Mechanisms and Limits of Length Generalization in Looped Transformers](<https://arxiv.org/abs/2609.33144>) — Recurrent depth
+- [Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers](<https://arxiv.org/abs/2606.31779>) — Latent feedback
+- [BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion](<https://arxiv.org/abs/2610.12307>) — Training and execution
+- [Can Video World Models Track Unobserved World States?](<https://arxiv.org/abs/2608.30692>) — Evaluation and interpretability
+- [CART: Context-Anchored Recurrent Transformer -- A Parameter-Efficient Architecture with Learned Stability](<https://arxiv.org/abs/2606.01495>) — Recurrent depth
+- [Categorical Flow Maps](<https://arxiv.org/abs/2602.12233>) — Training and execution
+- [Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](<https://arxiv.org/abs/2605.15141>) — Training and execution
+- [Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](<https://arxiv.org/abs/2602.02214>) — Training and execution
+- [Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models](<https://arxiv.org/abs/2606.25473>) — Training and execution
+- [Chain-of-Thought and Compressed Looped Transformers: A Memory-Budget Separation](<https://arxiv.org/abs/2605.30757>) — Foundations and related models
+- [CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield](<https://arxiv.org/abs/2606.31796>) — Recurrent depth
+- [ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction](<https://arxiv.org/abs/2605.14398>) — Agent feedback
+- [Classical Energies Learn to Reason 1,000x Faster than Looped Models](<https://arxiv.org/abs/2611.17309>) — Recurrent depth
+- [Code Plans, Diffusion Renders: Open-Ended Generative World Modeling](<https://arxiv.org/abs/2609.26458>) — Agent feedback
+- [Code Video Model](<https://code-video-model.github.io/tech_report.pdf>) — Agent feedback
+- [Code World Model: Coding Agent as World Brain](<https://arxiv.org/abs/2608.25927>) — Agent feedback
+- [Coevolving Representations in Joint Image-Feature Diffusion](<https://arxiv.org/abs/2604.17492>) — Sample refinement
+- [Composition of Memory Experts for Diffusion World Models](<https://arxiv.org/abs/2605.18813>) — Temporal memory
+- [Compressing History into Memory: Distilling Transformers into Recurrent Transformers](<https://arxiv.org/abs/2606.21562>) — Training and execution
+- [Consistency Deep Equilibrium Models](<https://arxiv.org/abs/2602.03024>) — Recurrent depth
+- [Context Forcing: Consistent Autoregressive Video Generation with Long Context](<https://arxiv.org/abs/2602.06028>) — Training and execution
+- [Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation](<https://arxiv.org/abs/2608.13391>) — Training and execution
+- [Continuous Diffusion Scales Competitively with Discrete Diffusion for Language](<https://arxiv.org/abs/2605.18530>) — Training and execution
+- [Continuous Memory Machines](<https://arxiv.org/abs/2610.07907>) — Temporal memory
+- [CORE: Context-Robust Remasking for Diffusion Language Models](<https://arxiv.org/abs/2602.04096>) — Sample refinement
+- [D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models](<https://arxiv.org/abs/2605.05204>) — Training and execution
+- [Decoding Looped Transformers Better for (Almost) Free](<https://arxiv.org/abs/2610.02185>) — Training and execution
+- [DeepLoop: Depth Scaling for Looped Transformers](<https://arxiv.org/abs/2607.13491>) — Recurrent depth
+- [Dense Supervision Is Not Enough: The Readout Blind Spot in Looped Language Models](<https://arxiv.org/abs/2606.24898>) — Recurrent depth
+- [Depth Memory](<https://arxiv.org/abs/2610.18809>) — Recurrent depth
+- [Depth through recurrence: Looped transformers for flow-matching TTS](<https://arxiv.org/abs/2609.29768>) — Recurrent depth
+- [Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching](<https://arxiv.org/abs/2608.09444>) — Training and execution
+- [Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves](<https://arxiv.org/abs/2601.21582>) — Recurrent depth
+- [DepthBench: Measuring How Residual Connections Enable More Computational Depth](<https://arxiv.org/abs/2609.32534>) — Evaluation and interpretability
+- [DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models](<https://arxiv.org/abs/2605.15055>) — Training and execution
+- [Dino Forcing Flow Models: Do not denoise what you can predict](<https://arxiv.org/abs/2610.11751>) — Sample refinement
+- [DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning](<https://arxiv.org/abs/2607.00341>) — Recurrent depth
+- [Discrete Flow Maps](<https://arxiv.org/abs/2604.09784>) — Training and execution
+- [Distribution Matching Distillation for Continuous Diffusion Language Models](<https://arxiv.org/abs/2609.40235>) — Training and execution
+- [Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models](<https://arxiv.org/abs/2605.01896>) — Training and execution
+- [DLoop: Looped Speculative Decoding](<https://arxiv.org/abs/2610.07659>) — Training and execution
+- [Dory1.0-4B: A Looped Normalized-GPT](<https://arxiv.org/abs/2611.03998>) — Training and execution
+- [DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation](<https://arxiv.org/abs/2606.04432>) — Training and execution
+- [Dynamic Compression in Recurrent Networks](<https://arxiv.org/abs/2608.17896>) — Temporal memory
+- [DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time](<https://arxiv.org/abs/2609.35704>) — Temporal memory
+- [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](<https://arxiv.org/abs/2609.37533>) — Sample refinement
+- [Echo-Memory: A Controlled Study of Memory in Action World Models](<https://arxiv.org/abs/2606.09803>) — Evaluation and interpretability
+- [ELT: Elastic Looped Transformers for Visual Generation](<https://arxiv.org/abs/2604.09168>) — Recurrent depth
+- [Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model](<https://arxiv.org/abs/2611.08977>) — Recurrent depth
+- [Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning](<https://arxiv.org/abs/2608.14706>) — Sample refinement
+- [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](<https://arxiv.org/abs/2605.21488>) — Recurrent depth
+- [Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](<https://arxiv.org/abs/2602.01801>) — Training and execution
+- [Fast Weight Attention for Continual Learning](<https://arxiv.org/abs/2608.27763>) — Temporal memory
+- [Feedback Shortcut: Speculative Decoding for Latent Feedback Transformers](<https://www.alphaxiv.org/abs/2611.feedback-shortcut-speculative-decoding>) — Training and execution
+- [Few-Step Generation via Data-Space Iteration](<https://arxiv.org/abs/2610.12102>) — Sample refinement
+- [Fixed-Point Masked Generative Modeling](<https://arxiv.org/abs/2605.31215>) — Recurrent depth
+- [Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers](<https://arxiv.org/abs/2606.18206>) — Recurrent depth
+- [FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates](<https://arxiv.org/abs/2609.29812>) — Training and execution
+- [Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments](<https://arxiv.org/abs/2601.01075>) — Temporal memory
+- [Flow Map Language Models: One-step Language Modeling via Continuous Denoising](<https://arxiv.org/abs/2602.16813>) — Training and execution
+- [Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners](<https://arxiv.org/abs/2606.29150>) — Sample refinement
+- [Flow-OPD: On-Policy Distillation for Flow Matching Models](<https://arxiv.org/abs/2605.08063>) — Training and execution
+- [FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction](<https://arxiv.org/abs/2605.06509>) — Foundations and related models
+- [Full-bandwidth transformer](<https://arxiv.org/abs/2608.08888>) — Latent feedback
+- [Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation](<https://arxiv.org/abs/2608.15062>) — Recurrent depth
+- [Gen-Searcher: Reinforcing Agentic Search for Image Generation](<https://arxiv.org/abs/2603.28767>) — Agent feedback
+- [Generative Recursive Reasoning](<https://arxiv.org/abs/2605.19376>) — Recurrent depth
+- [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](<https://z.ai/blog/glm-5.4>) — Recurrent depth
+- [Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis](<https://arxiv.org/abs/2604.06939>) — Temporal memory
+- [Harness Learning Enables Generalizable Test-Time Adaptation](<https://arxiv.org/abs/2609.35738>) — Agent feedback
+- [How Depth Growth and Looping Shape In-Context Learning in Language Models](<https://arxiv.org/abs/2610.31421>) — Evaluation and interpretability
+- [How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents](<https://arxiv.org/abs/2609.19107>) — Recurrent depth
+- [How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models](<https://arxiv.org/abs/2604.21106>) — Evaluation and interpretability
+- [How to Loop MoE: Flatten the Experts, Untie the Attention](<https://arxiv.org/abs/2609.35751>) — Recurrent depth
+- [How to Loop Your Transformer: Loop Scaling, Specialization, and Parallel Inference](<https://arxiv.org/abs/2610.40325>) — Recurrent depth
+- [How to train a frontier-level world model](<https://next-state.github.io/open-dreamer/>) — Training and execution
+- [HRM-Text: Efficient Pretraining Beyond Scaling](<https://arxiv.org/abs/2605.20613>) — Recurrent depth
+- [Hy-Nomas: Towards Free-form Interactive World Generation](<https://arxiv.org/abs/2610.36729>) — Temporal memory
+- [Hybrid Latent Attention for Looped Language Models](<https://arxiv.org/abs/2610.07940>) — Training and execution
+- [Hyperloop Transformers](<https://arxiv.org/abs/2604.21254>) — Recurrent depth
+- [Improved Distributional Diffusion Models](<https://arxiv.org/abs/2609.37147>) — Training and execution
+- [Improving Test-Time Scaling with Adaptive Looped Transformers](<https://arxiv.org/abs/2609.35748>) — Training and execution
+- [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](<https://arxiv.org/abs/2605.18601>) — Temporal memory
+- [Inference and learning in sparse autoencoders as natural gradient flow](<https://arxiv.org/abs/2610.07389>) — Foundations and related models
+- [Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](<https://arxiv.org/abs/2602.02393>) — Training and execution
+- [Inkling 2 Mini Model Card](<https://thinkingmachines.ai/model-card/inkling-2-mini/>) — Recurrent depth
+- [KV Caching in Flow Models](<https://sayak.dev/posts/kv-flow.html>) — Training and execution
+- [KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration](<https://arxiv.org/abs/2605.14278>) — Training and execution
+- [LASER: Low-Rank Activation SVD for Efficient Recursion](<https://arxiv.org/abs/2604.17224>) — Training and execution
+- [Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation](<https://arxiv.org/abs/2602.11401>) — Sample refinement
+- [Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior](<https://arxiv.org/abs/2605.26797>) — Latent feedback
+- [Latent Spatial Memory for Video World Models](<https://arxiv.org/abs/2606.09828>) — Temporal memory
+- [Learning What to Recall: Adaptive Multi-Cue Episodic Memory for World Models](<https://arxiv.org/abs/2609.34677>) — Temporal memory
+- [Length Generalization with Log-Depth Recurrent Units](<https://arxiv.org/abs/2605.26035>) — Latent feedback
+- [Level-of-Token Diffusion](<https://arxiv.org/abs/2610.05816>) — Training and execution
+- [LiFT: Loop Flow Transformers](<https://arxiv.org/abs/2610.05538>) — Recurrent depth
+- [Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](<https://arxiv.org/abs/2605.31158>) — Training and execution
+- [LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models](<https://arxiv.org/abs/2603.07145>) — Temporal memory
+- [Log-Depth Recurrent Language Modeling](<https://arxiv.org/abs/2609.28212>) — Latent feedback
+- [LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation](<https://arxiv.org/abs/2610.03636>) — Training and execution
+- [LoL: Longer than Longer, Scaling Video Generation to Hour](<https://arxiv.org/abs/2601.16914>) — Temporal memory
+- [Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation](<https://arxiv.org/abs/2604.10103>) — Temporal memory
+- [LongTake: Learning to Sustain Dynamics in Long-Horizon Video Generation](<https://arxiv.org/abs/2609.38562>) — Training and execution
+- [Loop as a Bridge: Can Looped Transformers Truly Link Representation Space and Natural Language Outputs?](<https://arxiv.org/abs/2601.10242>) — Training and execution
+- [Loop Dropout: Regularizing Shared Updates in Looped Language Models](<https://arxiv.org/abs/2609.34218>) — Recurrent depth
+- [Loop the Loopies!](<https://arxiv.org/abs/2607.16051>) — Recurrent depth
+- [Loop, Think, \\& Generalize: Implicit Reasoning in Recurrent-Depth Transformers](<https://arxiv.org/abs/2604.07822>) — Recurrent depth
+- [Loopback Transformer: Towards a Unified View of Residual Looped Transformers](<https://arxiv.org/abs/2611.07226>) — Recurrent depth
+- [LoopCD: Loop-wise Contrastive Decoding for Improving Reasoning in Looped Language Models](<https://arxiv.org/abs/2609.24196>) — Training and execution
+- [Looped Diffusion Language Models](<https://arxiv.org/abs/2605.26106>) — Recurrent depth
+- [Looped Diffusion Transformer](<https://arxiv.org/abs/2609.40305>) — Recurrent depth
+- [Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers](<https://arxiv.org/abs/2607.15456>) — Training and execution
+- [Looped Transformers with Layer Normalization Provably Learn the Power Method](<https://arxiv.org/abs/2606.00605>) — Foundations and related models
+- [Looped World Models](<https://arxiv.org/abs/2606.18208>) — Temporal memory
+- [LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation](<https://arxiv.org/abs/2602.11451>) — Recurrent depth
+- [Looping Back to Move Forward: Recursive Transformers for Efficient and Flexible Large Multimodal Models](<https://arxiv.org/abs/2602.09080>) — Recurrent depth
+- [Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts](<https://arxiv.org/abs/2610.01153>) — Recurrent depth
+- [LoopMoE: Unifying Iterative Computation with Mixture-of-Experts for Language Modeling](<https://arxiv.org/abs/2606.04438>) — Recurrent depth
+- [LoopREG: Representation Supervision Enables Test-Time Recurrent Depth in Diffusion Transformers](<https://arxiv.org/abs/2610.17877>) — Recurrent depth
+- [LoopRPT: Reinforcement Pre-Training for Looped Language Models](<https://arxiv.org/abs/2603.19714>) — Training and execution
+- [LoOPSD: On-Policy Self-Distillation with Looped Teachers](<https://arxiv.org/abs/2610.18162>) — Recurrent depth
+- [LoopSpec: Pipelined Self-Speculative Decoding for Looped Transformers](<https://arxiv.org/abs/2609.17184>) — Training and execution
+- [LoopUS: Recasting Pretrained LLMs into Looped Latent Refinement Models](<https://arxiv.org/abs/2605.11011>) — Recurrent depth
+- [LoopViT: Scaling Visual ARC with Looped Transformers](<https://arxiv.org/abs/2602.02156>) — Recurrent depth
+- [LoopVL: Recurrent Visual Intelligence](<https://arxiv.org/abs/2609.38426>) — Recurrent depth
+- [LT2: Linear-Time Looped Transformers](<https://arxiv.org/abs/2605.20670>) — Recurrent depth
+- [Maglev: Sliding Recurrent Memory](<https://arxiv.org/abs/2608.02870>) — Training and execution
+- [Marionette: Predicting World States, Rendering Geometry, Painting Appearance](<https://arxiv.org/abs/2608.14530>) — Temporal memory
+- [Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory](<https://arxiv.org/abs/2604.08995>) — Temporal memory
+- [Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory](<https://arxiv.org/abs/2608.29910>) — Temporal memory
+- [MemCam: Memory-Augmented Camera Control for Consistent Video Generation](<https://arxiv.org/abs/2603.26193>) — Temporal memory
+- [MemLearner: Learning to Query Context memory for Video World Models](<https://arxiv.org/abs/2606.31734>) — Temporal memory
+- [MemoBench: Benchmarking World Modeling in Dynamically Changing Environments](<https://arxiv.org/abs/2606.27537>) — Evaluation and interpretability
+- [Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](<https://arxiv.org/abs/2604.18215>) — Temporal memory
+- [Memorizon: Training World Models Beyond Their Context Window](<https://arxiv.org/abs/2610.00544>) — Training and execution
+- [Memory Forcing: Attendable Mid-Horizon History for Streaming Video Generation](<https://arxiv.org/abs/2610.11756>) — Temporal memory
+- [Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models](<https://arxiv.org/abs/2605.07721>) — Training and execution
+- [MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens](<https://arxiv.org/abs/2603.12513>) — Temporal memory
+- [Meta-Harness: End-to-End Optimization of Model Harnesses](<https://arxiv.org/abs/2603.28052>) — Agent feedback
+- [MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation](<https://arxiv.org/abs/2606.09056>) — Temporal memory
+- [MIND: Benchmarking Memory Consistency and Action Control in World Models](<https://arxiv.org/abs/2602.08025>) — Evaluation and interpretability
+- [Modular TTT: Rethinking Test-Time Training as Composable Modules](<https://arxiv.org/abs/2608.07110>) — Temporal memory
+- [MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](<https://arxiv.org/abs/2603.17117>) — Temporal memory
+- [Multi-Head Recurrent Memory Agents](<https://arxiv.org/abs/2607.01523>) — Temporal memory
+- [Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models](<https://arxiv.org/abs/2606.16700>) — Sample refinement
+- [Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces](<https://arxiv.org/abs/2609.40362>) — Sample refinement
+- [NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377>) — Training and execution
+- [NEWTON: Agentic Planning for Physically Grounded Video Generation](<https://arxiv.org/abs/2605.18396>) — Agent feedback
+- [On the Design Space of Continuous Diffusion Language Models](<https://arxiv.org/abs/2610.13834>) — Training and execution
+- [On the Residual Scaling of Looped Transformers: Stability and Transferability](<https://arxiv.org/abs/2606.18524>) — Training and execution
+- [One Model to Loop Them All: Elastic Latent Recurrence for Language Models](<https://arxiv.org/abs/2610.12582>) — Training and execution
+- [One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models](<https://arxiv.org/abs/2604.18839>) — Recurrent depth
+- [One-Forcing: Towards Stable One-Step Autoregressive Video Generation](<https://arxiv.org/abs/2605.23458>) — Training and execution
+- [OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](<https://arxiv.org/abs/2607.08766>) — Training and execution
+- [Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models](<https://arxiv.org/abs/2603.13215>) — Evaluation and interpretability
+- [PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache](<https://arxiv.org/abs/2601.04359>) — Training and execution
+- [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](<https://arxiv.org/abs/2603.25730>) — Training and execution
+- [Parallel Decoding Distillation for Fast Image and Video Generation](<https://arxiv.org/abs/2607.26004>) — Training and execution
+- [Parcae: Scaling Laws For Stable Looped Language Models](<https://arxiv.org/abs/2604.12946>) — Recurrent depth
+- [Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion](<https://arxiv.org/abs/2601.21896>) — Training and execution
+- [PAWBench: How Far Are We from Probabilistically Aligned World Modeling?](<https://arxiv.org/abs/2608.27345>) — Evaluation and interpretability
+- [PonderLM-3: Adaptive Token-Wise Pondering with Differentiable Masking](<https://arxiv.org/abs/2603.02023>) — Latent feedback
+- [Pooling Representation Autoencoders for Efficient Diffusion](<https://arxiv.org/abs/2610.09242>) — Temporal memory
+- [Posterior Refinement: Fast Language Generation via Any-Order Flow Maps](<https://arxiv.org/abs/2606.24773>) — Training and execution
+- [Prefix Sliding for efficient test-time scaling](<https://arxiv.org/abs/2608.26070>) — Evaluation and interpretability
+- [Pretraining Latent Information Feedback Transformers with Teacher Supervision](<https://arxiv.org/abs/2609.38149>) — Latent feedback
+- [Pretraining Recurrent Networks without Recurrence](<https://arxiv.org/abs/2606.06479>) — Training and execution
+- [Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](<https://arxiv.org/abs/2602.10520>) — Training and execution
+- [Probabilistic Tiny Recursive Model](<https://arxiv.org/abs/2605.19943>) — Recurrent depth
+- [Programmable World Model](<https://arxiv.org/abs/2609.10540>) — Agent feedback
+- [Proteus: Incremental Memory Activation for Long-Context Sequence Modeling](<https://arxiv.org/abs/2608.16844>) — Temporal memory
+- [RAE-NWM: Navigation World Model in Dense Visual Representation Space](<https://arxiv.org/abs/2603.09241>) — Temporal memory
+- [RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO](<https://arxiv.org/abs/2605.15190>) — Training and execution
+- [Reasoning on the Simplex: Geometric Fixed-Point Models](<https://arxiv.org/abs/2609.33540>) — Sample refinement
+- [Reasoning with Latent Tokens in Diffusion Language Models](<https://arxiv.org/abs/2602.03769>) — Latent feedback
+- [Recirculation](<https://arxiv.org/abs/2608.17981>) — Latent feedback
+- [Recurrent Looped Transformer](<https://arxiv.org/abs/2610.07591>) — Latent feedback
+- [Recursive Flow Matching](<https://arxiv.org/abs/2605.26535>) — Training and execution
+- [Recursive Inference Machines for Neural Reasoning](<https://arxiv.org/abs/2603.05234>) — Recurrent depth
+- [Recursive Multi-Agent Systems](<https://arxiv.org/abs/2604.25917>) — Agent feedback
+- [Recursive Scaling in Masked Diffusion Models](<https://arxiv.org/abs/2606.18022>) — Recurrent depth
+- [Register Tokens for Bounded-State Reasoning in Diffusion Language Models](<https://arxiv.org/abs/2609.16372>) — Latent feedback
+- [Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation](<https://arxiv.org/abs/2603.21366>) — Temporal memory
+- [Residual Context Diffusion Language Models](<https://arxiv.org/abs/2601.22954>) — Sample refinement
+- [Rethinking the Evaluation of Harness Evolution for Agents](<https://arxiv.org/abs/2607.12227>) — Agent feedback
+- [Retrieval-Aware Distillation for Transformer-SSM Hybrids](<https://arxiv.org/abs/2602.11374>) — Temporal memory
+- [Retrofitting Recurrent Vision-Language Models from Pretrained Backbones](<https://arxiv.org/abs/2610.22075>) — Recurrent depth
+- [Reward-Forcing: Autoregressive Video Generation with Reward Feedback](<https://arxiv.org/abs/2601.16933>) — Training and execution
+- [ReWorld: An Interactive World Model with Long-Horizon Memory](<https://arxiv.org/abs/2608.23565>) — Temporal memory
+- [Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion](<https://arxiv.org/abs/2602.07775>) — Training and execution
+- [Salt++: Context-Aligned Post-Training for Few-Step Streaming Multimodal Generation](<https://arxiv.org/abs/2609.36995>) — Training and execution
+- [SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](<https://arxiv.org/abs/2605.15178>) — Temporal memory
+- [Scaling Laws for Looped Mixture of Experts](<https://arxiv.org/abs/2609.40316>) — Recurrent depth
+- [Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals](<https://arxiv.org/abs/2610.11570>) — Recurrent depth
+- [Self Gradient Forcing: Native Long Video Extrapolation](<https://arxiv.org/abs/2607.20368>) — Training and execution
+- [Self-conditioned Flow Map Language Models via Fixed-point Flows](<https://arxiv.org/abs/2607.00714>) — Sample refinement
+- [Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](<https://arxiv.org/abs/2603.06507>) — Training and execution
+- [SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation](<https://arxiv.org/abs/2610.00686>) — Temporal memory
+- [Shallow Queries, Mature Values: Depth-Asynchronous Self-Speculation for Looped Transformers](<https://arxiv.org/abs/2609.34538>) — Training and execution
+- [Shared Weights, Selected Computations: How Looped Transformers Route What Each Loop Does](<https://arxiv.org/abs/2609.39892>) — Evaluation and interpretability
+- [Simple Self-Conditioning Adaptation for Masked Diffusion Models](<https://arxiv.org/abs/2604.26985>) — Sample refinement
+- [Simply Stabilizing the Loop via Fully Looped Transformer](<https://arxiv.org/abs/2605.18797>) — Recurrent depth
+- [SinkTrack: Attention Sink based Context Anchoring for Large Language Models](<https://arxiv.org/abs/2604.10027>) — Evaluation and interpretability
+- [Skip a Layer or Loop It? Learning Program-of-Layers in LLMs](<https://arxiv.org/abs/2606.06574>) — Recurrent depth
+- [Sliding-window beats linear attention](<https://arxiv.org/abs/2608.28444>) — Evaluation and interpretability
+- [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](<https://arxiv.org/abs/2609.01343>) — Recurrent depth
+- [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](<https://arxiv.org/abs/2609.02886>) — Training and execution
+- [Solve the Loop: Attractor Models for Language and Reasoning](<https://arxiv.org/abs/2605.12466>) — Recurrent depth
+- [Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation](<https://arxiv.org/abs/2604.21221>) — Training and execution
+- [Sparse Layers are Critical to Scaling Looped Language Models](<https://arxiv.org/abs/2605.09165>) — Recurrent depth
+- [Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory](<https://arxiv.org/abs/2610.02521>) — Temporal memory
+- [Speculative Forcing for Efficient Autoregressive Video Generation](<https://arxiv.org/abs/2610.22347>) — Training and execution
+- [Spherical Fixed-Point Reasoners: Adaptive Loop Halting on the Hypersphere](<https://arxiv.org/abs/2610.25646>) — Recurrent depth
+- [SpiralFormer: Looped Transformers Can Learn Hierarchical Dependencies via Multi-Resolution Recursion](<https://arxiv.org/abs/2602.11698>) — Recurrent depth
+- [Stability and Generalization in Looped Transformers](<https://arxiv.org/abs/2604.15259>) — Recurrent depth
+- [Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping](<https://arxiv.org/abs/2606.29983>) — Recurrent depth
+- [Step-resolved data attribution for looped transformers](<https://arxiv.org/abs/2602.10097>) — Training and execution
+- [Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers](<https://arxiv.org/abs/2607.21594>) — Temporal memory
+- [Switching Linear Attention](<https://arxiv.org/abs/2609.39034>) — Temporal memory
+- [Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution](<https://arxiv.org/abs/2605.25333>) — Training and execution
+- [Temporal Backtracking Search for Test-time Generative Video Reasoning](<https://arxiv.org/abs/2606.13861>) — Agent feedback
+- [The Recurrent Transformer: Greater Effective Depth and Efficient Decoding](<https://arxiv.org/abs/2604.21215>) — Latent feedback
+- [The Surprising Effectiveness of Shared Memory in Looped Transformers](<https://arxiv.org/abs/2610.02383>) — Training and execution
+- [The Topological Trouble With Transformers](<https://arxiv.org/abs/2604.17121>) — Temporal memory
+- [Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning](<https://arxiv.org/abs/2609.38147>) — Agent feedback
+- [Thinking with Looped Flows](<https://arxiv.org/abs/2609.11801>) — Sample refinement
+- [Tiny Autoregressive Recursive Models](<https://arxiv.org/abs/2603.08082>) — Recurrent depth
+- [Towards Looped Models Done Right. Part I: Topology, Input Injection, Recurrent-State Design](<https://huskydoge.github.io/husky-blog/posts/recursive_models/towards-looped-models-done-right/>) — Recurrent depth
+- [Towards Looped Models Done Right. Part II: Rethinking at Fixed Points](<https://www.alphaxiv.org/abs/2610.looped-models-fixed-points>) — Training and execution
+- [Training-Free Looped Transformers](<https://arxiv.org/abs/2605.23872>) — Recurrent depth
+- [Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation](<https://arxiv.org/abs/2610.26030>) — Training and execution
+- [TTHE: Test-Time Harness Evolution](<https://arxiv.org/abs/2607.08124>) — Agent feedback
+- [UCM: Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models](<https://arxiv.org/abs/2602.22960>) — Temporal memory
+- [UniCache: Task- and Type-Aware KV Cache Compression for Unified Multimodal Models](<https://arxiv.org/abs/2609.32831>) — Training and execution
+- [Universal YOCO for Efficient Depth Scaling](<https://arxiv.org/abs/2604.01220>) — Recurrent depth
+- [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](<https://arxiv.org/abs/2609.04010>) — Training and execution
+- [V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising](<https://arxiv.org/abs/2603.16792>) — Sample refinement
+- [V-RAE: Rethinking Video Latent Spaces for Generation](<https://arxiv.org/abs/2608.13556>) — Temporal memory
+- [Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation](<https://arxiv.org/abs/2609.20744>) — Temporal memory
+- [VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System](<https://arxiv.org/abs/2607.27380>) — Agent feedback
+- [VideoGen-Agent: Reinforcing Video Generation Agents](<https://arxiv.org/abs/2609.24997>) — Agent feedback
+- [Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](<https://arxiv.org/abs/2601.11109>) — Agent feedback
+- [What Makes Recurrence Effective in Looped Language Models?](<https://arxiv.org/abs/2609.36636>) — Recurrent depth
+- [When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers](<https://arxiv.org/abs/2607.20594>) — Foundations and related models
+- [World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models](<https://arxiv.org/abs/2610.17434>) — Temporal memory
+- [WorldAttention: An Efficient Attention Architecture for Interactive Video World Models](<https://arxiv.org/abs/2609.34606>) — Temporal memory
+- [WorldCompass: Reinforcement Learning for Long-Horizon World Models](<https://arxiv.org/abs/2602.09022>) — Training and execution
+- [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](<https://arxiv.org/abs/2609.24984>) — Temporal memory
+- [WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon](<https://arxiv.org/abs/2609.35560>) — Temporal memory
+- [Write Back the $\\Delta$: Revisiting the Same Tokens with Fresh Representations](<https://arxiv.org/abs/2609.32457>) — Latent feedback
+- [X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving](<https://arxiv.org/abs/2606.28758>) — Agent feedback
+- [ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation](<https://arxiv.org/abs/2609.21712>) — Temporal memory
 ## 2025
 
-- [A Formal Comparison Between Chain of Thought and Latent Thought](<https://arxiv.org/abs/2509.25239>)
-- [A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers](<https://arxiv.org/abs/2503.03961>)
-- [A Survey on Latent Reasoning](<https://arxiv.org/abs/2507.06203>)
-- [A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?](<https://arxiv.org/abs/2503.24235>)
-- [A-MEM: Agentic Memory for LLM Agents](<https://arxiv.org/abs/2502.12110>)
-- [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](<https://arxiv.org/abs/2510.04618>)
-- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](<https://arxiv.org/abs/2503.09573>)
-- [Boosting Generative Image Modeling via Joint Image-Feature Synthesis](<https://arxiv.org/abs/2504.16064>)
-- [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](<https://arxiv.org/abs/2510.03215>)
-- [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](<https://arxiv.org/abs/2507.11473>)
-- [Code World Models for General Game Playing](<https://arxiv.org/abs/2510.04542>)
-- [Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](<https://arxiv.org/abs/2510.03206>)
-- [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](<https://arxiv.org/abs/2506.03141>)
-- [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](<https://arxiv.org/abs/2505.22954>)
-- [Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](<https://arxiv.org/abs/2512.05081>)
-- [DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products](<https://arxiv.org/abs/2502.10297>)
-- [Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models](<https://arxiv.org/abs/2509.23653>)
-- [Dynamic Rebatching for Efficient Early-Exit Inference with DREX](<https://arxiv.org/abs/2512.15705>)
-- [Effective Test-Time Scaling of Discrete Diffusion through Iterative Refinement](<https://arxiv.org/abs/2511.05562>)
-- [Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models](<https://arxiv.org/abs/2510.14961>)
-- [Enabling Agents to Communicate Entirely in Latent Space](<https://arxiv.org/abs/2511.09149>)
-- [Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts](<https://arxiv.org/abs/2510.07358>)
-- [End-to-End Test-Time Training for Long Context](<https://arxiv.org/abs/2512.23675>)
-- [Energy-Based Transformers are Scalable Learners and Thinkers](<https://arxiv.org/abs/2507.02092>)
-- [Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models](<https://arxiv.org/abs/2504.12626>)
-- [GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control](<https://arxiv.org/abs/2503.03751>)
-- [Hierarchical Reasoning Model](<https://arxiv.org/abs/2506.21734>)
-- [Hierarchical Reasoning Models: Perspectives and Misconceptions](<https://arxiv.org/abs/2510.00355>)
-- [Hybrid Latent Reasoning via Reinforcement Learning](<https://arxiv.org/abs/2505.18454>)
-- [Improving Recursive Transformers with Mixture of LoRAs](<https://arxiv.org/abs/2512.12880>)
-- [Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout](<https://arxiv.org/abs/2511.20649>)
-- [KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](<https://arxiv.org/abs/2510.12872>)
-- [Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer](<https://arxiv.org/abs/2507.02199>)
-- [Latent Collaboration in Multi-Agent Systems](<https://arxiv.org/abs/2511.20639>)
-- [Less is More: Recursive Reasoning with Tiny Networks](<https://arxiv.org/abs/2510.04871>)
-- [Long-Context State-Space Video World Models](<https://arxiv.org/abs/2505.20171>)
-- [Look Back to Reason Forward: Revisitable Memory for Long-Context LLM Agents](<https://arxiv.org/abs/2509.23040>)
-- [Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models](<https://arxiv.org/abs/2511.05563>)
-- [Looped Transformers for Length Generalization](<https://arxiv.org/abs/2409.15647>)
-- [LoopNav: Benchmarking Spatial Consistency in World Models](<https://arxiv.org/abs/2505.22976>)
-- [Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration](<https://arxiv.org/abs/2509.10704>)
-- [MAGI-1: Autoregressive Video Generation at Scale](<https://arxiv.org/abs/2505.13211>)
-- [Mean Flows for One-step Generative Modeling](<https://arxiv.org/abs/2505.13447>)
-- [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](<https://arxiv.org/abs/2507.02259>)
-- [Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](<https://arxiv.org/abs/2510.03198>)
-- [MeSH: Memory-as-State-Highways for Recursive Transformers](<https://arxiv.org/abs/2510.07739>)
-- [Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation](<https://arxiv.org/abs/2507.10524>)
-- [Monitoring Monitorability](<https://arxiv.org/abs/2512.18311>)
-- [Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation](<https://arxiv.org/abs/2503.11926>)
-- [Next-Latent Prediction Transformers Learn Compact World Models](<https://arxiv.org/abs/2511.05963>)
-- [On Expressive Power of Looped Transformers: Theoretical Analysis and Enhancement via Timestep Encoding](<https://arxiv.org/abs/2410.01405>)
-- [One-Minute Video Generation with Test-Time Training](<https://arxiv.org/abs/2504.05298>)
-- [Optimizing generative AI by backpropagating language model feedback](<https://www.nature.com/articles/s41586-025-08661-4>)
-- [Parallel Loop Transformer for Efficient Test-Time Computation Scaling](<https://arxiv.org/abs/2510.24824>)
-- [PoE-World: Compositional World Modeling with Products of Programmatic Experts](<https://arxiv.org/abs/2505.10819>)
-- [PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space](<https://arxiv.org/abs/2509.23184>)
-- [PonderLM: Pretraining Language Models to Ponder in Continuous Space](<https://arxiv.org/abs/2505.20674>)
-- [Pusa V1.0: Unlocking Temporal Control in Pretrained Video Diffusion Models via Vectorized Timestep Adaptation](<https://arxiv.org/abs/2507.16116>)
-- [Racing Thoughts: Explaining Contextualization Errors in Large Language Models](<https://aclanthology.org/2025.naacl-long.155/>)
-- [Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](<https://arxiv.org/abs/2505.12514>)
-- [Reasoning Models Don't Always Say What They Think](<https://arxiv.org/abs/2505.05410>)
-- [Reasoning with Latent Thoughts: On the Power of Looped Transformers](<https://arxiv.org/abs/2502.17416>)
-- [Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention](<https://arxiv.org/abs/2511.12940>)
-- [Recursive Inference Scaling: A Winning Path to Scalable Inference in Language and Multimodal Systems](<https://arxiv.org/abs/2502.07503>)
-- [Recursive Language Models](<https://arxiv.org/abs/2512.24601>)
-- [Region-Adaptive Sampling for Diffusion Transformers](<https://arxiv.org/abs/2502.10389>)
-- [REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion](<https://arxiv.org/abs/2512.16636>)
-- [RELIC: Interactive Video World Model with Long-Horizon Memory](<https://arxiv.org/abs/2512.04040>)
-- [Remasking Discrete Diffusion Models with Inference-Time Scaling](<https://arxiv.org/abs/2503.00307>)
-- [Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think](<https://arxiv.org/abs/2507.01467>)
-- [RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers](<https://arxiv.org/abs/2502.15894>)
-- [Rolling Forcing: Autoregressive Long Video Diffusion in Real Time](<https://arxiv.org/abs/2509.25161>)
-- [Scaling Image and Video Generation via Test-Time Evolutionary Search](<https://arxiv.org/abs/2505.17618>)
-- [Scaling Latent Reasoning via Looped Language Models](<https://arxiv.org/abs/2510.25741>)
-- [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](<https://arxiv.org/abs/2502.05171>)
-- [Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](<https://arxiv.org/abs/2506.08009>)
-- [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](<https://arxiv.org/abs/2510.02283>)
-- [Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](<https://arxiv.org/abs/2512.04926>)
-- [Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs](<https://arxiv.org/abs/2507.07996>)
-- [SkyReels-V2: Infinite-length Film Generative Model](<https://arxiv.org/abs/2504.13074>)
-- [Spatia: Video Generation with Updatable Spatial Memory](<https://arxiv.org/abs/2512.15716>)
-- [Stable Video Infinity: Infinite-Length Video Generation with Error Recycling](<https://arxiv.org/abs/2510.09212>)
-- [Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence](<https://arxiv.org/abs/2511.07384>)
-- [Test-time regression: a unifying framework for designing sequence models with associative memory](<https://arxiv.org/abs/2501.12352>)
-- [The Belief State Transformer](<https://arxiv.org/abs/2410.23506>)
-- [To CoT or To Loop? A Formal Comparison Between Chain-of-Thought and Looped Transformers](<https://arxiv.org/abs/2505.19245>)
-- [Training Large Language Models to Reason in a Continuous Latent Space](<https://arxiv.org/abs/2412.06769>)
-- [Two-Scale Latent Dynamics for Recurrent-Depth Transformers](<https://arxiv.org/abs/2509.23314>)
-- [UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers](<https://arxiv.org/abs/2511.20123>)
-- [Universal Reasoning Model](<https://arxiv.org/abs/2512.14693>)
-- [Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues](<https://arxiv.org/abs/2411.12537>)
-- [VChain: Chain-of-Visual-Thought for Reasoning in Video Generation](<https://arxiv.org/abs/2510.05094>)
-- [Video World Models with Long-term Spatial Memory](<https://arxiv.org/abs/2506.05284>)
-- [Video-T1: Test-Time Scaling for Video Generation](<https://arxiv.org/abs/2503.18942>)
-- [VideoCoF: Unified Video Editing with Temporal Reasoner](<https://arxiv.org/abs/2512.07469>)
-- [VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory](<https://arxiv.org/abs/2512.04519>)
-- [VISTA: A Test-Time Self-Improving Video Generation Agent](<https://arxiv.org/abs/2510.15831>)
-- [VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory](<https://arxiv.org/abs/2506.18903>)
-- [VRAG: Learning World Models for Interactive Video Generation](<https://arxiv.org/abs/2505.21996>)
-- [What Makes Looped Transformers Perform Better Than Non-Recursive Ones](<https://arxiv.org/abs/2510.10089>)
-- [WORLDMEM: Long-term Consistent World Simulation with Memory](<https://arxiv.org/abs/2504.12369>)
-- [WorldPack: Dynamic Frame Compression for Long-context Video World Modeling](<https://arxiv.org/abs/2512.02473>)
-- [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](<https://arxiv.org/abs/2512.14614>)
+- [A Formal Comparison Between Chain of Thought and Latent Thought](<https://arxiv.org/abs/2509.25239>) — Foundations and related models
+- [A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers](<https://arxiv.org/abs/2503.03961>) — Foundations and related models
+- [A Survey on Latent Reasoning](<https://arxiv.org/abs/2507.06203>) — Foundations and related models
+- [A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?](<https://arxiv.org/abs/2503.24235>) — Foundations and related models
+- [A-MEM: Agentic Memory for LLM Agents](<https://arxiv.org/abs/2502.12110>) — Agent feedback
+- [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](<https://arxiv.org/abs/2510.04618>) — Agent feedback
+- [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](<https://arxiv.org/abs/2503.09573>) — Sample refinement
+- [Boosting Generative Image Modeling via Joint Image-Feature Synthesis](<https://arxiv.org/abs/2504.16064>) — Sample refinement
+- [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](<https://arxiv.org/abs/2510.03215>) — Agent feedback
+- [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](<https://arxiv.org/abs/2507.11473>) — Evaluation and interpretability
+- [Code World Models for General Game Playing](<https://arxiv.org/abs/2510.04542>) — Agent feedback
+- [Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](<https://arxiv.org/abs/2510.03206>) — Sample refinement
+- [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](<https://arxiv.org/abs/2506.03141>) — Temporal memory
+- [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](<https://arxiv.org/abs/2505.22954>) — Agent feedback
+- [Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](<https://arxiv.org/abs/2512.05081>) — Training and execution
+- [DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products](<https://arxiv.org/abs/2502.10297>) — Temporal memory
+- [Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models](<https://arxiv.org/abs/2509.23653>) — Sample refinement
+- [Dynamic Rebatching for Efficient Early-Exit Inference with DREX](<https://arxiv.org/abs/2512.15705>) — Training and execution
+- [Effective Test-Time Scaling of Discrete Diffusion through Iterative Refinement](<https://arxiv.org/abs/2511.05562>) — Sample refinement
+- [Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models](<https://arxiv.org/abs/2510.14961>) — Training and execution
+- [Enabling Agents to Communicate Entirely in Latent Space](<https://arxiv.org/abs/2511.09149>) — Agent feedback
+- [Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts](<https://arxiv.org/abs/2510.07358>) — Recurrent depth
+- [End-to-End Test-Time Training for Long Context](<https://arxiv.org/abs/2512.23675>) — Temporal memory
+- [Energy-Based Transformers are Scalable Learners and Thinkers](<https://arxiv.org/abs/2507.02092>) — Sample refinement
+- [Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models](<https://arxiv.org/abs/2504.12626>) — Temporal memory
+- [GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control](<https://arxiv.org/abs/2503.03751>) — Temporal memory
+- [Hierarchical Reasoning Model](<https://arxiv.org/abs/2506.21734>) — Recurrent depth
+- [Hierarchical Reasoning Models: Perspectives and Misconceptions](<https://arxiv.org/abs/2510.00355>) — Recurrent depth
+- [Hybrid Latent Reasoning via Reinforcement Learning](<https://arxiv.org/abs/2505.18454>) — Latent feedback
+- [Improving Recursive Transformers with Mixture of LoRAs](<https://arxiv.org/abs/2512.12880>) — Recurrent depth
+- [Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout](<https://arxiv.org/abs/2511.20649>) — Temporal memory
+- [KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](<https://arxiv.org/abs/2510.12872>) — Agent feedback
+- [Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer](<https://arxiv.org/abs/2507.02199>) — Training and execution
+- [Latent Collaboration in Multi-Agent Systems](<https://arxiv.org/abs/2511.20639>) — Agent feedback
+- [Less is More: Recursive Reasoning with Tiny Networks](<https://arxiv.org/abs/2510.04871>) — Recurrent depth
+- [Long-Context State-Space Video World Models](<https://arxiv.org/abs/2505.20171>) — Temporal memory
+- [Look Back to Reason Forward: Revisitable Memory for Long-Context LLM Agents](<https://arxiv.org/abs/2509.23040>) — Temporal memory
+- [Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models](<https://arxiv.org/abs/2511.05563>) — Sample refinement
+- [Looped Transformers for Length Generalization](<https://arxiv.org/abs/2409.15647>) — Foundations and related models
+- [LoopNav: Benchmarking Spatial Consistency in World Models](<https://arxiv.org/abs/2505.22976>) — Evaluation and interpretability
+- [Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration](<https://arxiv.org/abs/2509.10704>) — Agent feedback
+- [MAGI-1: Autoregressive Video Generation at Scale](<https://arxiv.org/abs/2505.13211>) — Training and execution
+- [Mean Flows for One-step Generative Modeling](<https://arxiv.org/abs/2505.13447>) — Training and execution
+- [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](<https://arxiv.org/abs/2507.02259>) — Temporal memory
+- [Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](<https://arxiv.org/abs/2510.03198>) — Training and execution
+- [MeSH: Memory-as-State-Highways for Recursive Transformers](<https://arxiv.org/abs/2510.07739>) — Recurrent depth
+- [Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation](<https://arxiv.org/abs/2507.10524>) — Recurrent depth
+- [Monitoring Monitorability](<https://arxiv.org/abs/2512.18311>) — Evaluation and interpretability
+- [Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation](<https://arxiv.org/abs/2503.11926>) — Evaluation and interpretability
+- [Next-Latent Prediction Transformers Learn Compact World Models](<https://arxiv.org/abs/2511.05963>) — Training and execution
+- [On Expressive Power of Looped Transformers: Theoretical Analysis and Enhancement via Timestep Encoding](<https://arxiv.org/abs/2410.01405>) — Foundations and related models
+- [One-Minute Video Generation with Test-Time Training](<https://arxiv.org/abs/2504.05298>) — Temporal memory
+- [Optimizing generative AI by backpropagating language model feedback](<https://www.nature.com/articles/s41586-025-08661-4>) — Agent feedback
+- [Parallel Loop Transformer for Efficient Test-Time Computation Scaling](<https://arxiv.org/abs/2510.24824>) — Training and execution
+- [PoE-World: Compositional World Modeling with Products of Programmatic Experts](<https://arxiv.org/abs/2505.10819>) — Agent feedback
+- [PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space](<https://arxiv.org/abs/2509.23184>) — Latent feedback
+- [PonderLM: Pretraining Language Models to Ponder in Continuous Space](<https://arxiv.org/abs/2505.20674>) — Latent feedback
+- [Pusa V1.0: Unlocking Temporal Control in Pretrained Video Diffusion Models via Vectorized Timestep Adaptation](<https://arxiv.org/abs/2507.16116>) — Training and execution
+- [Racing Thoughts: Explaining Contextualization Errors in Large Language Models](<https://aclanthology.org/2025.naacl-long.155/>) — Evaluation and interpretability
+- [Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](<https://arxiv.org/abs/2505.12514>) — Foundations and related models
+- [Reasoning Models Don't Always Say What They Think](<https://arxiv.org/abs/2505.05410>) — Evaluation and interpretability
+- [Reasoning with Latent Thoughts: On the Power of Looped Transformers](<https://arxiv.org/abs/2502.17416>) — Foundations and related models
+- [Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention](<https://arxiv.org/abs/2511.12940>) — Temporal memory
+- [Recursive Inference Scaling: A Winning Path to Scalable Inference in Language and Multimodal Systems](<https://arxiv.org/abs/2502.07503>) — Recurrent depth
+- [Recursive Language Models](<https://arxiv.org/abs/2512.24601>) — Agent feedback
+- [Region-Adaptive Sampling for Diffusion Transformers](<https://arxiv.org/abs/2502.10389>) — Training and execution
+- [REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion](<https://arxiv.org/abs/2512.16636>) — Sample refinement
+- [RELIC: Interactive Video World Model with Long-Horizon Memory](<https://arxiv.org/abs/2512.04040>) — Temporal memory
+- [Remasking Discrete Diffusion Models with Inference-Time Scaling](<https://arxiv.org/abs/2503.00307>) — Sample refinement
+- [Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think](<https://arxiv.org/abs/2507.01467>) — Sample refinement
+- [RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers](<https://arxiv.org/abs/2502.15894>) — Temporal memory
+- [Rolling Forcing: Autoregressive Long Video Diffusion in Real Time](<https://arxiv.org/abs/2509.25161>) — Training and execution
+- [Scaling Image and Video Generation via Test-Time Evolutionary Search](<https://arxiv.org/abs/2505.17618>) — Agent feedback
+- [Scaling Latent Reasoning via Looped Language Models](<https://arxiv.org/abs/2510.25741>) — Recurrent depth
+- [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](<https://arxiv.org/abs/2502.05171>) — Recurrent depth
+- [Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](<https://arxiv.org/abs/2506.08009>) — Training and execution
+- [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](<https://arxiv.org/abs/2510.02283>) — Training and execution
+- [Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](<https://arxiv.org/abs/2512.04926>) — Sample refinement
+- [Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs](<https://arxiv.org/abs/2507.07996>) — Recurrent depth
+- [SkyReels-V2: Infinite-length Film Generative Model](<https://arxiv.org/abs/2504.13074>) — Training and execution
+- [Spatia: Video Generation with Updatable Spatial Memory](<https://arxiv.org/abs/2512.15716>) — Temporal memory
+- [Stable Video Infinity: Infinite-Length Video Generation with Error Recycling](<https://arxiv.org/abs/2510.09212>) — Training and execution
+- [Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence](<https://arxiv.org/abs/2511.07384>) — Recurrent depth
+- [Test-time regression: a unifying framework for designing sequence models with associative memory](<https://arxiv.org/abs/2501.12352>) — Temporal memory
+- [The Belief State Transformer](<https://arxiv.org/abs/2410.23506>) — Training and execution
+- [To CoT or To Loop? A Formal Comparison Between Chain-of-Thought and Looped Transformers](<https://arxiv.org/abs/2505.19245>) — Foundations and related models
+- [Training Large Language Models to Reason in a Continuous Latent Space](<https://arxiv.org/abs/2412.06769>) — Latent feedback
+- [Two-Scale Latent Dynamics for Recurrent-Depth Transformers](<https://arxiv.org/abs/2509.23314>) — Evaluation and interpretability
+- [UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers](<https://arxiv.org/abs/2511.20123>) — Temporal memory
+- [Universal Reasoning Model](<https://arxiv.org/abs/2512.14693>) — Recurrent depth
+- [Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues](<https://arxiv.org/abs/2411.12537>) — Temporal memory
+- [VChain: Chain-of-Visual-Thought for Reasoning in Video Generation](<https://arxiv.org/abs/2510.05094>) — Agent feedback
+- [Video World Models with Long-term Spatial Memory](<https://arxiv.org/abs/2506.05284>) — Temporal memory
+- [Video-T1: Test-Time Scaling for Video Generation](<https://arxiv.org/abs/2503.18942>) — Agent feedback
+- [VideoCoF: Unified Video Editing with Temporal Reasoner](<https://arxiv.org/abs/2512.07469>) — Agent feedback
+- [VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory](<https://arxiv.org/abs/2512.04519>) — Temporal memory
+- [VISTA: A Test-Time Self-Improving Video Generation Agent](<https://arxiv.org/abs/2510.15831>) — Agent feedback
+- [VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory](<https://arxiv.org/abs/2506.18903>) — Temporal memory
+- [VRAG: Learning World Models for Interactive Video Generation](<https://arxiv.org/abs/2505.21996>) — Temporal memory
+- [What Makes Looped Transformers Perform Better Than Non-Recursive Ones](<https://arxiv.org/abs/2510.10089>) — Foundations and related models
+- [WORLDMEM: Long-term Consistent World Simulation with Memory](<https://arxiv.org/abs/2504.12369>) — Temporal memory
+- [WorldPack: Dynamic Frame Compression for Long-context Video World Modeling](<https://arxiv.org/abs/2512.02473>) — Temporal memory
+- [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](<https://arxiv.org/abs/2512.14614>) — Temporal memory
 ## 2024
 
-- [Accelerating Diffusion Transformers with Token-wise Feature Caching](<https://arxiv.org/abs/2410.05317>)
-- [AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures](<https://arxiv.org/abs/2402.13572>)
-- [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](<https://arxiv.org/abs/2404.17672>)
-- [Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing](<https://arxiv.org/abs/2411.16375>)
-- [Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?](<https://arxiv.org/abs/2410.08292>)
-- [Causal Diffusion Transformers for Generative Modeling](<https://arxiv.org/abs/2412.12095>)
-- [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](<https://arxiv.org/abs/2407.01392>)
-- [Diffusion Models and Representation Learning: A Survey](<https://arxiv.org/abs/2407.00783>)
-- [FIFO-Diffusion: Generating Infinite Videos from Text without Training](<https://arxiv.org/abs/2405.11473>)
-- [Fixed Point Diffusion Models](<https://arxiv.org/abs/2401.08741>)
-- [Flow map matching with stochastic interpolants: A mathematical framework for consistency models](<https://arxiv.org/abs/2406.07507>)
-- [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](<https://arxiv.org/abs/2405.14838>)
-- [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](<https://arxiv.org/abs/2412.07772>)
-- [Gated Delta Networks: Improving Mamba2 with Delta Rule](<https://arxiv.org/abs/2412.06464>)
-- [Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search](<https://arxiv.org/abs/2405.15383>)
-- [Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries](<https://aclanthology.org/2024.emnlp-main.781/>)
-- [Improved Distribution Matching Distillation for Fast Image Synthesis](<https://arxiv.org/abs/2405.14867>)
-- [Investigating Recurrent Transformers with Dynamic Halt](<https://arxiv.org/abs/2402.00976>)
-- [Large Language Models have Intrinsic Self-Correction Ability](<https://arxiv.org/abs/2406.15673>)
-- [LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding](<https://arxiv.org/abs/2404.16710>)
-- [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](<https://arxiv.org/abs/2407.04620>)
-- [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](<https://arxiv.org/abs/2404.07143>)
-- [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](<https://arxiv.org/abs/2404.15758>)
-- [Looped Transformers are Better at Learning Learning Algorithms](<https://arxiv.org/abs/2311.12424>)
-- [MoEUT: Mixture-of-Experts Universal Transformers](<https://arxiv.org/abs/2405.16039>)
-- [On the Role of Depth and Looping for In-Context Learning with Task Diversity](<https://arxiv.org/abs/2410.21698>)
-- [One Step Diffusion via Shortcut Models](<https://arxiv.org/abs/2410.12557>)
-- [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](<https://arxiv.org/abs/2406.06484>)
-- [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](<https://arxiv.org/abs/2412.00596>)
-- [Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA](<https://arxiv.org/abs/2410.20672>)
-- [Rolling Diffusion Models](<https://arxiv.org/abs/2402.09470>)
-- [Searching Latent Program Spaces](<https://arxiv.org/abs/2411.08706>)
-- [Simulation of Graph Algorithms with Looped Transformers](<https://arxiv.org/abs/2402.01107>)
-- [The Illusion of State in State-Space Models](<https://proceedings.mlr.press/v235/merrill24a.html>)
-- [Titans: Learning to Memorize at Test Time](<https://arxiv.org/abs/2501.00663>)
-- [Training Language Models to Self-Correct via Reinforcement Learning](<https://arxiv.org/abs/2409.12917>)
-- [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](<https://arxiv.org/abs/2405.21060>)
-- [VideoAgent: Self-Improving Video Generation](<https://arxiv.org/abs/2410.10076>)
-- [WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment](<https://arxiv.org/abs/2402.12275>)
+- [Accelerating Diffusion Transformers with Token-wise Feature Caching](<https://arxiv.org/abs/2410.05317>) — Training and execution
+- [AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures](<https://arxiv.org/abs/2402.13572>) — Foundations and related models
+- [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](<https://arxiv.org/abs/2404.17672>) — Agent feedback
+- [Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing](<https://arxiv.org/abs/2411.16375>) — Training and execution
+- [Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?](<https://arxiv.org/abs/2410.08292>) — Foundations and related models
+- [Causal Diffusion Transformers for Generative Modeling](<https://arxiv.org/abs/2412.12095>) — Training and execution
+- [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](<https://arxiv.org/abs/2407.01392>) — Training and execution
+- [Diffusion Models and Representation Learning: A Survey](<https://arxiv.org/abs/2407.00783>) — Foundations and related models
+- [FIFO-Diffusion: Generating Infinite Videos from Text without Training](<https://arxiv.org/abs/2405.11473>) — Training and execution
+- [Fixed Point Diffusion Models](<https://arxiv.org/abs/2401.08741>) — Recurrent depth
+- [Flow map matching with stochastic interpolants: A mathematical framework for consistency models](<https://arxiv.org/abs/2406.07507>) — Training and execution
+- [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](<https://arxiv.org/abs/2405.14838>) — Latent feedback
+- [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](<https://arxiv.org/abs/2412.07772>) — Training and execution
+- [Gated Delta Networks: Improving Mamba2 with Delta Rule](<https://arxiv.org/abs/2412.06464>) — Temporal memory
+- [Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search](<https://arxiv.org/abs/2405.15383>) — Agent feedback
+- [Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries](<https://aclanthology.org/2024.emnlp-main.781/>) — Latent feedback
+- [Improved Distribution Matching Distillation for Fast Image Synthesis](<https://arxiv.org/abs/2405.14867>) — Training and execution
+- [Investigating Recurrent Transformers with Dynamic Halt](<https://arxiv.org/abs/2402.00976>) — Recurrent depth
+- [Large Language Models have Intrinsic Self-Correction Ability](<https://arxiv.org/abs/2406.15673>) — Agent feedback
+- [LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding](<https://arxiv.org/abs/2404.16710>) — Training and execution
+- [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](<https://arxiv.org/abs/2407.04620>) — Temporal memory
+- [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](<https://arxiv.org/abs/2404.07143>) — Temporal memory
+- [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](<https://arxiv.org/abs/2404.15758>) — Latent feedback
+- [Looped Transformers are Better at Learning Learning Algorithms](<https://arxiv.org/abs/2311.12424>) — Foundations and related models
+- [MoEUT: Mixture-of-Experts Universal Transformers](<https://arxiv.org/abs/2405.16039>) — Recurrent depth
+- [On the Role of Depth and Looping for In-Context Learning with Task Diversity](<https://arxiv.org/abs/2410.21698>) — Foundations and related models
+- [One Step Diffusion via Shortcut Models](<https://arxiv.org/abs/2410.12557>) — Training and execution
+- [Parallelizing Linear Transformers with the Delta Rule over Sequence Length](<https://arxiv.org/abs/2406.06484>) — Temporal memory
+- [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](<https://arxiv.org/abs/2412.00596>) — Agent feedback
+- [Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA](<https://arxiv.org/abs/2410.20672>) — Recurrent depth
+- [Rolling Diffusion Models](<https://arxiv.org/abs/2402.09470>) — Training and execution
+- [Searching Latent Program Spaces](<https://arxiv.org/abs/2411.08706>) — Sample refinement
+- [Simulation of Graph Algorithms with Looped Transformers](<https://arxiv.org/abs/2402.01107>) — Foundations and related models
+- [The Illusion of State in State-Space Models](<https://proceedings.mlr.press/v235/merrill24a.html>) — Temporal memory
+- [Titans: Learning to Memorize at Test Time](<https://arxiv.org/abs/2501.00663>) — Temporal memory
+- [Training Language Models to Self-Correct via Reinforcement Learning](<https://arxiv.org/abs/2409.12917>) — Agent feedback
+- [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](<https://arxiv.org/abs/2405.21060>) — Temporal memory
+- [VideoAgent: Self-Improving Video Generation](<https://arxiv.org/abs/2410.10076>) — Agent feedback
+- [WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment](<https://arxiv.org/abs/2402.12275>) — Agent feedback
 ## 2023
 
-- [Consistency Models](<https://proceedings.mlr.press/v202/song23a.html>)
-- [Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent](<https://arxiv.org/abs/2302.09057>)
-- [CoTFormer: A Chain-of-Thought Driven Architecture with Budget-Adaptive Computation Cost at Inference](<https://arxiv.org/abs/2310.10845>)
-- [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](<https://arxiv.org/abs/2305.11738>)
-- [EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism](<https://arxiv.org/abs/2312.04916>)
-- [Elucidating the Exposure Bias in Diffusion Models](<https://arxiv.org/abs/2308.15321>)
-- [Flow Matching for Generative Modeling](<https://openreview.net/forum?id=PqvMRDCJT9t>)
-- [Implicit Chain of Thought Reasoning via Knowledge Distillation](<https://arxiv.org/abs/2311.01460>)
-- [Large Language Models Cannot Self-Correct Reasoning Yet](<https://arxiv.org/abs/2310.01798>)
-- [Let Models Speak Ciphers: Multiagent Debate through Embeddings](<https://arxiv.org/abs/2310.06272>)
-- [Looped Transformers as Programmable Computers](<https://arxiv.org/abs/2301.13196>)
-- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](<https://arxiv.org/abs/2312.00752>)
-- [MemGPT: Towards LLMs as Operating Systems](<https://arxiv.org/abs/2310.08560>)
-- [One-Step Diffusion Distillation via Deep Equilibrium Models](<https://arxiv.org/abs/2401.08639>)
-- [One-step Diffusion with Distribution Matching Distillation](<https://arxiv.org/abs/2311.18828>)
-- [RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text](<https://arxiv.org/abs/2305.13304>)
-- [Reflexion: Language Agents with Verbal Reinforcement Learning](<https://arxiv.org/abs/2303.11366>)
-- [Scalable Diffusion Models with Transformers](<https://openaccess.thecvf.com/content/ICCV2023/html/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.html>)
-- [Self-Refine: Iterative Refinement with Self-Feedback](<https://papers.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html>)
-- [Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation](<https://arxiv.org/abs/2310.02304>)
-- [Sparse Universal Transformer](<https://aclanthology.org/2023.emnlp-main.12/>)
-- [Teaching Large Language Models to Self-Debug](<https://arxiv.org/abs/2304.05128>)
-- [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](<https://arxiv.org/abs/2305.08379>)
-- [The Parallelism Tradeoff: Limitations of Log-Precision Transformers](<https://aclanthology.org/2023.tacl-1.31/>)
-- [Think before you speak: Training Language Models With Pause Tokens](<https://arxiv.org/abs/2310.02226>)
-- [Transformers Learn Shortcuts to Automata](<https://openreview.net/forum?id=De4FYqjFueZ>)
-- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](<https://arxiv.org/abs/2305.10601>)
+- [Consistency Models](<https://proceedings.mlr.press/v202/song23a.html>) — Sample refinement
+- [Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent](<https://arxiv.org/abs/2302.09057>) — Training and execution
+- [CoTFormer: A Chain-of-Thought Driven Architecture with Budget-Adaptive Computation Cost at Inference](<https://arxiv.org/abs/2310.10845>) — Recurrent depth
+- [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](<https://arxiv.org/abs/2305.11738>) — Agent feedback
+- [EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism](<https://arxiv.org/abs/2312.04916>) — Training and execution
+- [Elucidating the Exposure Bias in Diffusion Models](<https://arxiv.org/abs/2308.15321>) — Training and execution
+- [Flow Matching for Generative Modeling](<https://openreview.net/forum?id=PqvMRDCJT9t>) — Sample refinement
+- [Implicit Chain of Thought Reasoning via Knowledge Distillation](<https://arxiv.org/abs/2311.01460>) — Latent feedback
+- [Large Language Models Cannot Self-Correct Reasoning Yet](<https://arxiv.org/abs/2310.01798>) — Agent feedback
+- [Let Models Speak Ciphers: Multiagent Debate through Embeddings](<https://arxiv.org/abs/2310.06272>) — Agent feedback
+- [Looped Transformers as Programmable Computers](<https://arxiv.org/abs/2301.13196>) — Foundations and related models
+- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](<https://arxiv.org/abs/2312.00752>) — Temporal memory
+- [MemGPT: Towards LLMs as Operating Systems](<https://arxiv.org/abs/2310.08560>) — Agent feedback
+- [One-Step Diffusion Distillation via Deep Equilibrium Models](<https://arxiv.org/abs/2401.08639>) — Recurrent depth
+- [One-step Diffusion with Distribution Matching Distillation](<https://arxiv.org/abs/2311.18828>) — Training and execution
+- [RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text](<https://arxiv.org/abs/2305.13304>) — Temporal memory
+- [Reflexion: Language Agents with Verbal Reinforcement Learning](<https://arxiv.org/abs/2303.11366>) — Agent feedback
+- [Scalable Diffusion Models with Transformers](<https://openaccess.thecvf.com/content/ICCV2023/html/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.html>) — Foundations and related models
+- [Self-Refine: Iterative Refinement with Self-Feedback](<https://papers.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html>) — Agent feedback
+- [Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation](<https://arxiv.org/abs/2310.02304>) — Agent feedback
+- [Sparse Universal Transformer](<https://aclanthology.org/2023.emnlp-main.12/>) — Recurrent depth
+- [Teaching Large Language Models to Self-Debug](<https://arxiv.org/abs/2304.05128>) — Agent feedback
+- [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](<https://arxiv.org/abs/2305.08379>) — Sample refinement
+- [The Parallelism Tradeoff: Limitations of Log-Precision Transformers](<https://aclanthology.org/2023.tacl-1.31/>) — Foundations and related models
+- [Think before you speak: Training Language Models With Pause Tokens](<https://arxiv.org/abs/2310.02226>) — Latent feedback
+- [Transformers Learn Shortcuts to Automata](<https://openreview.net/forum?id=De4FYqjFueZ>) — Foundations and related models
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](<https://arxiv.org/abs/2305.10601>) — Agent feedback
 ## 2022
 
-- [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning](<https://arxiv.org/abs/2208.04202>)
-- [Block-Recurrent Transformers](<https://arxiv.org/abs/2203.07852>)
-- [Deep Equilibrium Approaches to Diffusion Models](<https://arxiv.org/abs/2210.12867>)
-- [End-to-end Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking](<https://arxiv.org/abs/2202.05826>)
-- [Generating Sequences by Learning to Self-Correct](<https://arxiv.org/abs/2211.00053>)
-- [MaskGIT: Masked Generative Image Transformer](<https://openaccess.thecvf.com/content/CVPR2022/html/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.html>)
-- [Memorizing Transformers](<https://arxiv.org/abs/2203.08913>)
-- [Path Independent Equilibrium Models Can Better Exploit Test-Time Computation](<https://arxiv.org/abs/2211.09961>)
-- [PEER: A Collaborative Language Model](<https://arxiv.org/abs/2208.11663>)
-- [Progressive Distillation for Fast Sampling of Diffusion Models](<https://arxiv.org/abs/2202.00512>)
-- [Re3: Generating Longer Stories With Recursive Reprompting and Revision](<https://arxiv.org/abs/2210.06774>)
-- [ReAct: Synergizing Reasoning and Acting in Language Models](<https://arxiv.org/abs/2210.03629>)
-- [Recurrent Memory Transformer](<https://arxiv.org/abs/2207.06881>)
-- [Scalable Adaptive Computation for Iterative Generation](<https://arxiv.org/abs/2212.11972>)
-- [Self-conditioned Embedding Diffusion for Text Generation](<https://arxiv.org/abs/2211.04236>)
+- [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning](<https://arxiv.org/abs/2208.04202>) — Sample refinement
+- [Block-Recurrent Transformers](<https://arxiv.org/abs/2203.07852>) — Temporal memory
+- [Deep Equilibrium Approaches to Diffusion Models](<https://arxiv.org/abs/2210.12867>) — Recurrent depth
+- [End-to-end Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking](<https://arxiv.org/abs/2202.05826>) — Foundations and related models
+- [Generating Sequences by Learning to Self-Correct](<https://arxiv.org/abs/2211.00053>) — Agent feedback
+- [MaskGIT: Masked Generative Image Transformer](<https://openaccess.thecvf.com/content/CVPR2022/html/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.html>) — Sample refinement
+- [Memorizing Transformers](<https://arxiv.org/abs/2203.08913>) — Temporal memory
+- [Path Independent Equilibrium Models Can Better Exploit Test-Time Computation](<https://arxiv.org/abs/2211.09961>) — Foundations and related models
+- [PEER: A Collaborative Language Model](<https://arxiv.org/abs/2208.11663>) — Agent feedback
+- [Progressive Distillation for Fast Sampling of Diffusion Models](<https://arxiv.org/abs/2202.00512>) — Training and execution
+- [Re3: Generating Longer Stories With Recursive Reprompting and Revision](<https://arxiv.org/abs/2210.06774>) — Agent feedback
+- [ReAct: Synergizing Reasoning and Acting in Language Models](<https://arxiv.org/abs/2210.03629>) — Agent feedback
+- [Recurrent Memory Transformer](<https://arxiv.org/abs/2207.06881>) — Temporal memory
+- [Scalable Adaptive Computation for Iterative Generation](<https://arxiv.org/abs/2212.11972>) — Sample refinement
+- [Self-conditioned Embedding Diffusion for Text Generation](<https://arxiv.org/abs/2211.04236>) — Sample refinement
 ## 2021
 
-- [Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks](<https://arxiv.org/abs/2106.04537>)
-- [Learning to Repair: Repairing model output errors after deployment using a dynamic memory of feedback](<https://arxiv.org/abs/2112.09737>)
-- [Lessons on Parameter Sharing across Layers in Transformers](<https://arxiv.org/abs/2104.06022>)
-- [Linear Transformers Are Secretly Fast Weight Memory Systems](<https://arxiv.org/abs/2102.11174>)
-- [PonderNet: Learning to Ponder](<https://arxiv.org/abs/2107.05407>)
-- [Stabilizing Equilibrium Models by Jacobian Regularization](<https://arxiv.org/abs/2106.14342>)
-- [Subformer: Exploring Weight Sharing for Parameter Efficiency in Generative Transformers](<https://arxiv.org/abs/2101.00234>)
+- [Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks](<https://arxiv.org/abs/2106.04537>) — Foundations and related models
+- [Learning to Repair: Repairing model output errors after deployment using a dynamic memory of feedback](<https://arxiv.org/abs/2112.09737>) — Agent feedback
+- [Lessons on Parameter Sharing across Layers in Transformers](<https://arxiv.org/abs/2104.06022>) — Foundations and related models
+- [Linear Transformers Are Secretly Fast Weight Memory Systems](<https://arxiv.org/abs/2102.11174>) — Temporal memory
+- [PonderNet: Learning to Ponder](<https://arxiv.org/abs/2107.05407>) — Foundations and related models
+- [Stabilizing Equilibrium Models by Jacobian Regularization](<https://arxiv.org/abs/2106.14342>) — Foundations and related models
+- [Subformer: Exploring Weight Sharing for Parameter Efficiency in Generative Transformers](<https://arxiv.org/abs/2101.00234>) — Foundations and related models
 ## 2020
 
-- [Addressing Some Limitations of Transformers with Feedback Memory](<https://arxiv.org/abs/2002.09402>)
-- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](<https://arxiv.org/abs/1909.11942>)
-- [Denoising Diffusion Probabilistic Models](<https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html>)
-- [Memformer: The Memory-Augmented Transformer](<https://arxiv.org/abs/2010.06891>)
-- [Monotone operator equilibrium networks](<https://arxiv.org/abs/2006.08591>)
-- [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](<https://arxiv.org/abs/2006.16236>)
+- [Addressing Some Limitations of Transformers with Feedback Memory](<https://arxiv.org/abs/2002.09402>) — Latent feedback
+- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](<https://arxiv.org/abs/1909.11942>) — Foundations and related models
+- [Denoising Diffusion Probabilistic Models](<https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html>) — Sample refinement
+- [Memformer: The Memory-Augmented Transformer](<https://arxiv.org/abs/2010.06891>) — Temporal memory
+- [Monotone operator equilibrium networks](<https://arxiv.org/abs/2006.08591>) — Foundations and related models
+- [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](<https://arxiv.org/abs/2006.16236>) — Temporal memory
 ## 2019
 
-- [Compressive Transformers for Long-Range Sequence Modelling](<https://arxiv.org/abs/1911.05507>)
-- [Deep Equilibrium Models](<https://arxiv.org/abs/1909.01377>)
-- [Levenshtein Transformer](<https://arxiv.org/abs/1905.11006>)
-- [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](<https://aclanthology.org/D19-1633/>)
-- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](<https://arxiv.org/abs/1901.02860>)
-- [Universal Transformers](<https://arxiv.org/abs/1807.03819>)
+- [Compressive Transformers for Long-Range Sequence Modelling](<https://arxiv.org/abs/1911.05507>) — Temporal memory
+- [Deep Equilibrium Models](<https://arxiv.org/abs/1909.01377>) — Recurrent depth
+- [Levenshtein Transformer](<https://arxiv.org/abs/1905.11006>) — Sample refinement
+- [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](<https://aclanthology.org/D19-1633/>) — Sample refinement
+- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](<https://arxiv.org/abs/1901.02860>) — Temporal memory
+- [Universal Transformers](<https://arxiv.org/abs/1807.03819>) — Recurrent depth
 ## 2018
 
-- [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](<https://arxiv.org/abs/1802.06901>)
-- [Recurrent World Models Facilitate Policy Evolution](<https://arxiv.org/abs/1809.01999>)
+- [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](<https://arxiv.org/abs/1802.06901>) — Sample refinement
+- [Recurrent World Models Facilitate Policy Evolution](<https://arxiv.org/abs/1809.01999>) — Temporal memory
 ## 2017
 
-- [Learning to Generate Samples from Noise through Infusion Training](<https://arxiv.org/abs/1703.06975>)
-- [Recurrent Environment Simulators](<https://arxiv.org/abs/1704.02254>)
-- [Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net](<https://arxiv.org/abs/1711.02282>)
+- [Learning to Generate Samples from Noise through Infusion Training](<https://arxiv.org/abs/1703.06975>) — Sample refinement
+- [Recurrent Environment Simulators](<https://arxiv.org/abs/1704.02254>) — Temporal memory
+- [Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net](<https://arxiv.org/abs/1711.02282>) — Sample refinement
 ## 2016
 
-- [Adaptive Computation Time for Recurrent Neural Networks](<https://arxiv.org/abs/1603.08983>)
-- [Professor Forcing: A New Algorithm for Training Recurrent Networks](<https://arxiv.org/abs/1610.09038>)
-- [Using Fast Weights to Attend to the Recent Past](<https://arxiv.org/abs/1610.06258>)
+- [Adaptive Computation Time for Recurrent Neural Networks](<https://arxiv.org/abs/1603.08983>) — Foundations and related models
+- [Professor Forcing: A New Algorithm for Training Recurrent Networks](<https://arxiv.org/abs/1610.09038>) — Training and execution
+- [Using Fast Weights to Attend to the Recent Past](<https://arxiv.org/abs/1610.06258>) — Temporal memory
 ## 2015
 
-- [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](<https://arxiv.org/abs/1503.03585>)
-- [DRAW: A Recurrent Neural Network For Image Generation](<https://proceedings.mlr.press/v37/gregor15.html>)
-- [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](<https://arxiv.org/abs/1506.03099>)
+- [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](<https://arxiv.org/abs/1503.03585>) — Sample refinement
+- [DRAW: A Recurrent Neural Network For Image Generation](<https://proceedings.mlr.press/v37/gregor15.html>) — Sample refinement
+- [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](<https://arxiv.org/abs/1506.03099>) — Training and execution
 ## 2014
 
-- [Iterative Neural Autoregressive Distribution Estimator (NADE-k)](<https://arxiv.org/abs/1406.1485>)
+- [Iterative Neural Autoregressive Distribution Estimator (NADE-k)](<https://arxiv.org/abs/1406.1485>) — Sample refinement
 ## 2013
 
-- [Deep Generative Stochastic Networks Trainable by Backprop](<https://arxiv.org/abs/1306.1091>)
+- [Deep Generative Stochastic Networks Trainable by Backprop](<https://arxiv.org/abs/1306.1091>) — Sample refinement
 ## 1992
 
-- [Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks](<https://people.idsia.ch/~juergen/fastweights/>)
+- [Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks](<https://people.idsia.ch/~juergen/fastweights/>) — Temporal memory
