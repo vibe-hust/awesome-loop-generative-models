@@ -5,9 +5,11 @@ from pathlib import Path
 import re
 import subprocess
 import urllib.request
+from datetime import datetime, timezone
+from readme import update_readme
 
 ROOT = Path(__file__).resolve().parents[1]
-MANAGED = ['data/papers.json', 'data/candidates.json', 'PAPERS.md', 'CANDIDATES.md']
+MANAGED = ['data/papers.json', 'data/candidates.json', 'PAPERS.md', 'CANDIDATES.md', 'README.md']
 FAMILIES = ['Recurrent depth', 'Latent feedback', 'Sample refinement', 'Temporal memory', 'Agent feedback']
 
 
@@ -54,15 +56,16 @@ def validate(paper):
     return paper
 
 
-def merge(papers, candidates, additions, excluded):
+def merge(papers, candidates, additions, excluded, added_on=None):
     accepted = {p['id']: p for p in papers}
     waiting = {p['id']: p for p in candidates}
     for raw in additions:
         p = validate(raw)
         if p['id'] in excluded or p['id'] in accepted:
             continue
+        p = dict(p, added_on=added_on or datetime.now(timezone.utc).date().isoformat())
         if p['curation'] == 'automatic':
-            accepted[p['id']] = p
+            accepted[p['id']] = dict(p, added_on=waiting.get(p['id'], {}).get('added_on', p['added_on']))
             waiting.pop(p['id'], None)
         else:
             waiting.setdefault(p['id'], p)
@@ -108,7 +111,8 @@ def main():
         raise ValueError('Invalid batch')
     papers, candidates = merge(papers, candidates, additions, excluded)
     outputs = [json.dumps(papers, indent=2, ensure_ascii=False) + '\n',
-               json.dumps(candidates, indent=2, ensure_ascii=False) + '\n', render(papers), render(candidates, True)]
+               json.dumps(candidates, indent=2, ensure_ascii=False) + '\n', render(papers), render(candidates, True),
+               update_readme((ROOT / 'README.md').read_text(), papers, candidates, read('reading_map'))]
     for path, text in zip(MANAGED, outputs):
         target = ROOT / path
         if target.is_symlink():

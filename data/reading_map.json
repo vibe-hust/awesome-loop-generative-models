@@ -1,0 +1,7 @@
+[
+  {"family":"Recurrent depth","question":"How many times should a shared block refine the same prediction?","state":"Hidden state at a fixed prediction","papers":["arxiv:1807.03819","arxiv:1909.01377","arxiv:2502.05171","arxiv:2604.09168"]},
+  {"family":"Latent feedback","question":"Can a completed hidden representation become the next reasoning input?","state":"Hidden representations passed across positions","papers":["arxiv:2412.06769","arxiv:2609.38149"]},
+  {"family":"Sample refinement","question":"What information should survive between successive sample updates?","state":"A sample and its auxiliary predictions","papers":["arxiv:2208.04202","arxiv:2211.04236","arxiv:2605.26106"]},
+  {"family":"Temporal memory","question":"What should a model retain and update as new observations arrive?","state":"Persistent state across inputs or observations","papers":["arxiv:2203.07852","arxiv:2604.17121"]},
+  {"family":"Agent feedback","question":"How can critique or experience improve the next model call?","state":"Feedback passed between model invocations","papers":["arxiv:2303.11366","source:ecfc615753e5989e"]}
+]

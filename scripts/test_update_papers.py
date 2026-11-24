@@ -15,9 +15,9 @@ class Updates(unittest.TestCase):
 
     def test_candidates_and_exclusions(self):
         pending = dict(PAPER, curation='needs-review', family=None)
-        self.assertEqual(merge([], [], [pending], []), ([], [pending]))
+        self.assertEqual(merge([], [], [pending], [], added_on='2026-11-24'), ([], [dict(pending, added_on='2026-11-24')]))
         self.assertEqual(merge([], [], [PAPER], [PAPER['id']]), ([], []))
-        self.assertEqual(merge([], [pending], [PAPER], []), ([PAPER], []))
+        self.assertEqual(merge([], [dict(pending, added_on='2026-11-20')], [PAPER], [], added_on='2026-11-24'), ([dict(PAPER, added_on='2026-11-20')], []))
 
     def test_rejects_private_fields_or_unmatched_url(self):
         for invalid in [dict(PAPER, channel_id='private'), dict(PAPER, url='https://evil.invalid'), dict(PAPER, year='2026')]:

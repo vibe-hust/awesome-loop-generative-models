@@ -17,7 +17,7 @@ jobs:
         with:
           ref: main
       - name: Check update rules
-        run: python3 scripts/test_update_papers.py
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
       - name: Sync verified metadata and publish
         env:
           LOOP_PAPERS_FEED_URL: ${{ vars.LOOP_PAPERS_FEED_URL }}
