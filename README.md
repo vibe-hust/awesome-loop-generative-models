@@ -82,7 +82,6 @@ What information should survive between successive sample updates?
 
 - **2022** · [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning](<https://arxiv.org/abs/2208.04202>)
 - **2022** · [Self-conditioned Embedding Diffusion for Text Generation](<https://arxiv.org/abs/2211.04236>)
-- **2026** · [Looped Diffusion Language Models](<https://arxiv.org/abs/2605.26106>)
 
 ### 4. Temporal memory
 
