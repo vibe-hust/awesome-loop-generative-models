@@ -1,0 +1,3778 @@
+[
+  {
+    "id": "arxiv:2605.12357",
+    "title": "$\\delta$-mem: Efficient Online Memory for Large Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.12357",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.15178",
+    "title": "$T^2$MLR: Transformer with Temporal Middle-Layer Recurrence",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.15178",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:11db003c78d9754b",
+    "title": "2DSD: Two-Dimensional Speculative Decoding for Looped Language Models",
+    "year": 2026,
+    "url": "https://github.com/SqueezeAILab/2DSD/blob/main/paper/2DSD.pdf",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.03715",
+    "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.03715",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.11791",
+    "title": "A Mechanistic Analysis of Looped Reasoning Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.11791",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.17730",
+    "title": "ActWorld: From Explorable to Interactive World Model via Action-Aware Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.17730",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.01914",
+    "title": "AdaPonderLM: Gated Pondering Language Models with Token-Wise Adaptive Depth",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.01914",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.30349",
+    "title": "AdaState: Self-Evolving Anchors for Streaming Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.30349",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.07408",
+    "title": "Addressable Memory for Video World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.07408",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.04198",
+    "title": "ALoDLM: Adaptively Looped Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.04198",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.12495",
+    "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.12495",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.13405",
+    "title": "Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.13405",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.14941",
+    "title": "AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.14941",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.13724",
+    "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.13724",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.10679",
+    "title": "Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.10679",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2611.05234",
+    "title": "ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2611.05234",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.03329",
+    "title": "AutoHarness: improving LLM agents by automatically synthesizing a code harness",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.03329",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.33144",
+    "title": "Beyond the Training Horizon: Mechanisms and Limits of Length Generalization in Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.33144",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.31779",
+    "title": "Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.31779",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.12307",
+    "title": "BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.12307",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.30692",
+    "title": "Can Video World Models Track Unobserved World States?",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.30692",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.01495",
+    "title": "CART: Context-Anchored Recurrent Transformer -- A Parameter-Efficient Architecture with Learned Stability",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.01495",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.12233",
+    "title": "Categorical Flow Maps",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.12233",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.02214",
+    "title": "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.02214",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.15141",
+    "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.15141",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.25473",
+    "title": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.25473",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.30757",
+    "title": "Chain-of-Thought and Compressed Looped Transformers: A Memory-Budget Separation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.30757",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.31796",
+    "title": "CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.31796",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.14398",
+    "title": "ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.14398",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2611.17309",
+    "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2611.17309",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.26458",
+    "title": "Code Plans, Diffusion Renders: Open-Ended Generative World Modeling",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.26458",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:d7197d1d54e8765e",
+    "title": "Code Video Model",
+    "year": 2026,
+    "url": "https://code-video-model.github.io/tech_report.pdf",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.25927",
+    "title": "Code World Model: Coding Agent as World Brain",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.25927",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.17492",
+    "title": "Coevolving Representations in Joint Image-Feature Diffusion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.17492",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.18813",
+    "title": "Composition of Memory Experts for Diffusion World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.18813",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.21562",
+    "title": "Compressing History into Memory: Distilling Transformers into Recurrent Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.21562",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.03024",
+    "title": "Consistency Deep Equilibrium Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.03024",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.06028",
+    "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.06028",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.13391",
+    "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.13391",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.18530",
+    "title": "Continuous Diffusion Scales Competitively with Discrete Diffusion for Language",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.18530",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.07907",
+    "title": "Continuous Memory Machines",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.07907",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.04096",
+    "title": "CORE: Context-Robust Remasking for Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.04096",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.05204",
+    "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.05204",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.02185",
+    "title": "Decoding Looped Transformers Better for (Almost) Free",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.02185",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.13491",
+    "title": "DeepLoop: Depth Scaling for Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.13491",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.24898",
+    "title": "Dense Supervision Is Not Enough: The Readout Blind Spot in Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.24898",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.18809",
+    "title": "Depth Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.18809",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.29768",
+    "title": "Depth through recurrence: Looped transformers for flow-matching TTS",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.29768",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.09444",
+    "title": "Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.09444",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.21582",
+    "title": "Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.21582",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.32534",
+    "title": "DepthBench: Measuring How Residual Connections Enable More Computational Depth",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.32534",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.15055",
+    "title": "DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.15055",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.11751",
+    "title": "Dino Forcing Flow Models: Do not denoise what you can predict",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.11751",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.00341",
+    "title": "DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.00341",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.09784",
+    "title": "Discrete Flow Maps",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.09784",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.40235",
+    "title": "Distribution Matching Distillation for Continuous Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.40235",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.07659",
+    "title": "DLoop: Looped Speculative Decoding",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.07659",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2611.03998",
+    "title": "Dory1.0-4B: A Looped Normalized-GPT",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2611.03998",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.04432",
+    "title": "DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.04432",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.17896",
+    "title": "Dynamic Compression in Recurrent Networks",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.17896",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.35704",
+    "title": "DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.35704",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.37533",
+    "title": "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.37533",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.09803",
+    "title": "Echo-Memory: A Controlled Study of Memory in Action World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.09803",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.09168",
+    "title": "ELT: Elastic Looped Transformers for Visual Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.09168",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2611.08977",
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2611.08977",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.14706",
+    "title": "Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.14706",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.21488",
+    "title": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.21488",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.01801",
+    "title": "Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.01801",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.27763",
+    "title": "Fast Weight Attention for Continual Learning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.27763",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:ea754d3b48879be3",
+    "title": "Feedback Shortcut: Speculative Decoding for Latent Feedback Transformers",
+    "year": 2026,
+    "url": "https://www.alphaxiv.org/abs/2611.feedback-shortcut-speculative-decoding",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.31215",
+    "title": "Fixed-Point Masked Generative Modeling",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.31215",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.18206",
+    "title": "Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.18206",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.29812",
+    "title": "FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.29812",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.01075",
+    "title": "Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.01075",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.16813",
+    "title": "Flow Map Language Models: One-step Language Modeling via Continuous Denoising",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.16813",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.29150",
+    "title": "Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.29150",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.08063",
+    "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.08063",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.08888",
+    "title": "Full-bandwidth transformer",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.08888",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.15062",
+    "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.15062",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.28767",
+    "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.28767",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.19376",
+    "title": "Generative Recursive Reasoning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.19376",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:f1db7ce98881d890",
+    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "year": 2026,
+    "url": "https://z.ai/blog/glm-5.4",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.06939",
+    "title": "Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.06939",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.35738",
+    "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.35738",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.31421",
+    "title": "How Depth Growth and Looping Shape In-Context Learning in Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.31421",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.19107",
+    "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.19107",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.21106",
+    "title": "How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.21106",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.35751",
+    "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.35751",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.40325",
+    "title": "How to Loop Your Transformer: Loop Scaling, Specialization, and Parallel Inference",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.40325",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:6265d7e8de59f16b",
+    "title": "How to train a frontier-level world model",
+    "year": 2026,
+    "url": "https://next-state.github.io/open-dreamer/",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.20613",
+    "title": "HRM-Text: Efficient Pretraining Beyond Scaling",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.20613",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.07940",
+    "title": "Hybrid Latent Attention for Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.07940",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.21254",
+    "title": "Hyperloop Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.21254",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.37147",
+    "title": "Improved Distributional Diffusion Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.37147",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.35748",
+    "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.35748",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.07389",
+    "title": "Inference and learning in sparse autoencoders as natural gradient flow",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.07389",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.02393",
+    "title": "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.02393",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:6abdbaece9063d24",
+    "title": "Inkling 2 Mini Model Card",
+    "year": 2026,
+    "url": "https://thinkingmachines.ai/model-card/inkling-2-mini/",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:5b2b8fd822fb8467",
+    "title": "KV Caching in Flow Models",
+    "year": 2026,
+    "url": "https://sayak.dev/posts/kv-flow.html",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.14278",
+    "title": "KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.14278",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.17224",
+    "title": "LASER: Low-Rank Activation SVD for Efficient Recursion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.17224",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.11401",
+    "title": "Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.11401",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.26797",
+    "title": "Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.26797",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.09828",
+    "title": "Latent Spatial Memory for Video World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.09828",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.34677",
+    "title": "Learning What to Recall: Adaptive Multi-Cue Episodic Memory for World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.34677",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.26035",
+    "title": "Length Generalization with Log-Depth Recurrent Units",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.26035",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.05816",
+    "title": "Level-of-Token Diffusion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.05816",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.05538",
+    "title": "LiFT: Loop Flow Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.05538",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.31158",
+    "title": "Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.31158",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.07145",
+    "title": "LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.07145",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.28212",
+    "title": "Log-Depth Recurrent Language Modeling",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.28212",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.03636",
+    "title": "LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.03636",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.16914",
+    "title": "LoL: Longer than Longer, Scaling Video Generation to Hour",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.16914",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.10103",
+    "title": "Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.10103",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.38562",
+    "title": "LongTake: Learning to Sustain Dynamics in Long-Horizon Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.38562",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.10242",
+    "title": "Loop as a Bridge: Can Looped Transformers Truly Link Representation Space and Natural Language Outputs?",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.10242",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.34218",
+    "title": "Loop Dropout: Regularizing Shared Updates in Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.34218",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.16051",
+    "title": "Loop the Loopies!",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.16051",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.07822",
+    "title": "Loop, Think, \\& Generalize: Implicit Reasoning in Recurrent-Depth Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.07822",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2611.07226",
+    "title": "Loopback Transformer: Towards a Unified View of Residual Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2611.07226",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.24196",
+    "title": "LoopCD: Loop-wise Contrastive Decoding for Improving Reasoning in Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.24196",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.26106",
+    "title": "Looped Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.26106",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.40305",
+    "title": "Looped Diffusion Transformer",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.40305",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.15456",
+    "title": "Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.15456",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.00605",
+    "title": "Looped Transformers with Layer Normalization Provably Learn the Power Method",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.00605",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.18208",
+    "title": "Looped World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.18208",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.11451",
+    "title": "LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.11451",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.09080",
+    "title": "Looping Back to Move Forward: Recursive Transformers for Efficient and Flexible Large Multimodal Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.09080",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.01153",
+    "title": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.01153",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.04438",
+    "title": "LoopMoE: Unifying Iterative Computation with Mixture-of-Experts for Language Modeling",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.04438",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.17877",
+    "title": "LoopREG: Representation Supervision Enables Test-Time Recurrent Depth in Diffusion Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.17877",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.19714",
+    "title": "LoopRPT: Reinforcement Pre-Training for Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.19714",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.18162",
+    "title": "LoOPSD: On-Policy Self-Distillation with Looped Teachers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.18162",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.17184",
+    "title": "LoopSpec: Pipelined Self-Speculative Decoding for Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.17184",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.11011",
+    "title": "LoopUS: Recasting Pretrained LLMs into Looped Latent Refinement Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.11011",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.02156",
+    "title": "LoopViT: Scaling Visual ARC with Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.02156",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.38426",
+    "title": "LoopVL: Recurrent Visual Intelligence",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.38426",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.20670",
+    "title": "LT2: Linear-Time Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.20670",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.02870",
+    "title": "Maglev: Sliding Recurrent Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.02870",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.14530",
+    "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.14530",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.08995",
+    "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.08995",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.29910",
+    "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.29910",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.26193",
+    "title": "MemCam: Memory-Augmented Camera Control for Consistent Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.26193",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.31734",
+    "title": "MemLearner: Learning to Query Context memory for Video World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.31734",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.27537",
+    "title": "MemoBench: Benchmarking World Modeling in Dynamically Changing Environments",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.27537",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.18215",
+    "title": "Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.18215",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.00544",
+    "title": "Memorizon: Training World Models Beyond Their Context Window",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.00544",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.07721",
+    "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.07721",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.12513",
+    "title": "MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.12513",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.28052",
+    "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.28052",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.09056",
+    "title": "MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.09056",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.08025",
+    "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.08025",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.07110",
+    "title": "Modular TTT: Rethinking Test-Time Training as Composable Modules",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.07110",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.17117",
+    "title": "MosaicMem: Hybrid Spatial Memory for Controllable Video World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.17117",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.01523",
+    "title": "Multi-Head Recurrent Memory Agents",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.01523",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.16700",
+    "title": "Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.16700",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.40362",
+    "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.40362",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.18396",
+    "title": "NEWTON: Agentic Planning for Physically Grounded Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.18396",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.13834",
+    "title": "On the Design Space of Continuous Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.13834",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.18524",
+    "title": "On the Residual Scaling of Looped Transformers: Stability and Transferability",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.18524",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.12582",
+    "title": "One Model to Loop Them All: Elastic Latent Recurrence for Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.12582",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.18839",
+    "title": "One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.18839",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.23458",
+    "title": "One-Forcing: Towards Stable One-Step Autoregressive Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.23458",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.08766",
+    "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.08766",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.13215",
+    "title": "Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.13215",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.04359",
+    "title": "PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.04359",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.25730",
+    "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.25730",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.26004",
+    "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.26004",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.12946",
+    "title": "Parcae: Scaling Laws For Stable Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.12946",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.21896",
+    "title": "Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.21896",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.27345",
+    "title": "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.27345",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.02023",
+    "title": "PonderLM-3: Adaptive Token-Wise Pondering with Differentiable Masking",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.02023",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.09242",
+    "title": "Pooling Representation Autoencoders for Efficient Diffusion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.09242",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.24773",
+    "title": "Posterior Refinement: Fast Language Generation via Any-Order Flow Maps",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.24773",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.26070",
+    "title": "Prefix Sliding for efficient test-time scaling",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.26070",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.38149",
+    "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.38149",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.06479",
+    "title": "Pretraining Recurrent Networks without Recurrence",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.06479",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.10520",
+    "title": "Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.10520",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.19943",
+    "title": "Probabilistic Tiny Recursive Model",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.19943",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.10540",
+    "title": "Programmable World Model",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.10540",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.16844",
+    "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.16844",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.09241",
+    "title": "RAE-NWM: Navigation World Model in Dense Visual Representation Space",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.09241",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.15190",
+    "title": "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.15190",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.33540",
+    "title": "Reasoning on the Simplex: Geometric Fixed-Point Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.33540",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.03769",
+    "title": "Reasoning with Latent Tokens in Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.03769",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.17981",
+    "title": "Recirculation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.17981",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.07591",
+    "title": "Recurrent Looped Transformer",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.07591",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.26535",
+    "title": "Recursive Flow Matching",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.26535",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.05234",
+    "title": "Recursive Inference Machines for Neural Reasoning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.05234",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.25917",
+    "title": "Recursive Multi-Agent Systems",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.25917",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.18022",
+    "title": "Recursive Scaling in Masked Diffusion Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.18022",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.16372",
+    "title": "Register Tokens for Bounded-State Reasoning in Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.16372",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.21366",
+    "title": "Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.21366",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.22954",
+    "title": "Residual Context Diffusion Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.22954",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.12227",
+    "title": "Rethinking the Evaluation of Harness Evolution for Agents",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.12227",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.22075",
+    "title": "Retrofitting Recurrent Vision-Language Models from Pretrained Backbones",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.22075",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.16933",
+    "title": "Reward-Forcing: Autoregressive Video Generation with Reward Feedback",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.16933",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.23565",
+    "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.23565",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.07775",
+    "title": "Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.07775",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.36995",
+    "title": "Salt++: Context-Aligned Post-Training for Few-Step Streaming Multimodal Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.36995",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.15178",
+    "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.15178",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.40316",
+    "title": "Scaling Laws for Looped Mixture of Experts",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.40316",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.11570",
+    "title": "Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.11570",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.20368",
+    "title": "Self Gradient Forcing: Native Long Video Extrapolation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.20368",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.00714",
+    "title": "Self-conditioned Flow Map Language Models via Fixed-point Flows",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.00714",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.06507",
+    "title": "Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.06507",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.00686",
+    "title": "SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.00686",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.34538",
+    "title": "Shallow Queries, Mature Values: Depth-Asynchronous Self-Speculation for Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.34538",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.39892",
+    "title": "Shared Weights, Selected Computations: How Looped Transformers Route What Each Loop Does",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.39892",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.26985",
+    "title": "Simple Self-Conditioning Adaptation for Masked Diffusion Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.26985",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.18797",
+    "title": "Simply Stabilizing the Loop via Fully Looped Transformer",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.18797",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.10027",
+    "title": "SinkTrack: Attention Sink based Context Anchoring for Large Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.10027",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.06574",
+    "title": "Skip a Layer or Loop It? Learning Program-of-Layers in LLMs",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.06574",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.28444",
+    "title": "Sliding-window beats linear attention",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.28444",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.01343",
+    "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.01343",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.12466",
+    "title": "Solve the Loop: Attractor Models for Language and Reasoning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.12466",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.21221",
+    "title": "Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.21221",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.09165",
+    "title": "Sparse Layers are Critical to Scaling Looped Language Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.09165",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.02521",
+    "title": "Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.02521",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.22347",
+    "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.22347",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.25646",
+    "title": "Spherical Fixed-Point Reasoners: Adaptive Loop Halting on the Hypersphere",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.25646",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.11698",
+    "title": "SpiralFormer: Looped Transformers Can Learn Hierarchical Dependencies via Multi-Resolution Recursion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.11698",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.15259",
+    "title": "Stability and Generalization in Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.15259",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.29983",
+    "title": "Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.29983",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.10097",
+    "title": "Step-resolved data attribution for looped transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.10097",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.21594",
+    "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.21594",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.39034",
+    "title": "Switching Linear Attention",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.39034",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.25333",
+    "title": "Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.25333",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.13861",
+    "title": "Temporal Backtracking Search for Test-time Generative Video Reasoning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.13861",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.21215",
+    "title": "The Recurrent Transformer: Greater Effective Depth and Efficient Decoding",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.21215",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.02383",
+    "title": "The Surprising Effectiveness of Shared Memory in Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.02383",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.17121",
+    "title": "The Topological Trouble With Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.17121",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.38147",
+    "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.38147",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.11801",
+    "title": "Thinking with Looped Flows",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.11801",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.08082",
+    "title": "Tiny Autoregressive Recursive Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.08082",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:74e9dbf041db7525",
+    "title": "Towards Looped Models Done Right. Part I: Topology, Input Injection, Recurrent-State Design",
+    "year": 2026,
+    "url": "https://huskydoge.github.io/husky-blog/posts/recursive_models/towards-looped-models-done-right/",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:540e345055b15171",
+    "title": "Towards Looped Models Done Right. Part II: Rethinking at Fixed Points",
+    "year": 2026,
+    "url": "https://www.alphaxiv.org/abs/2610.looped-models-fixed-points",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2605.23872",
+    "title": "Training-Free Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2605.23872",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2610.26030",
+    "title": "Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2610.26030",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.08124",
+    "title": "TTHE: Test-Time Harness Evolution",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.08124",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.22960",
+    "title": "UCM: Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.22960",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.32831",
+    "title": "UniCache: Task- and Type-Aware KV Cache Compression for Unified Multimodal Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.32831",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2604.01220",
+    "title": "Universal YOCO for Efficient Depth Scaling",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2604.01220",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.04010",
+    "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.04010",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2603.16792",
+    "title": "V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2603.16792",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2608.13556",
+    "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2608.13556",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.20744",
+    "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.20744",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.27380",
+    "title": "VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.27380",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.24997",
+    "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.24997",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2601.11109",
+    "title": "Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2601.11109",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.36636",
+    "title": "What Makes Recurrence Effective in Looped Language Models?",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.36636",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2607.20594",
+    "title": "When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2607.20594",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.34606",
+    "title": "WorldAttention: An Efficient Attention Architecture for Interactive Video World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.34606",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2602.09022",
+    "title": "WorldCompass: Reinforcement Learning for Long-Horizon World Models",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2602.09022",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.24984",
+    "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.24984",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.35560",
+    "title": "WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.35560",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.32457",
+    "title": "Write Back the $\\Delta$: Revisiting the Same Tokens with Fresh Representations",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.32457",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2606.28758",
+    "title": "X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2606.28758",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2609.21712",
+    "title": "ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.21712",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2509.25239",
+    "title": "A Formal Comparison Between Chain of Thought and Latent Thought",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2509.25239",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2503.03961",
+    "title": "A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2503.03961",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2507.06203",
+    "title": "A Survey on Latent Reasoning",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2507.06203",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2503.24235",
+    "title": "A Survey on Test-Time Scaling in Large Language Models: What, How, Where, and How Well?",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2503.24235",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2502.12110",
+    "title": "A-MEM: Agentic Memory for LLM Agents",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2502.12110",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.04618",
+    "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.04618",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2503.09573",
+    "title": "Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2503.09573",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2504.16064",
+    "title": "Boosting Generative Image Modeling via Joint Image-Feature Synthesis",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2504.16064",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.03215",
+    "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.03215",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.04542",
+    "title": "Code World Models for General Game Playing",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.04542",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.03206",
+    "title": "Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.03206",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2506.03141",
+    "title": "Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2506.03141",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.22954",
+    "title": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.22954",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.05081",
+    "title": "Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.05081",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2502.10297",
+    "title": "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2502.10297",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2509.23653",
+    "title": "Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2509.23653",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.15705",
+    "title": "Dynamic Rebatching for Efficient Early-Exit Inference with DREX",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.15705",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.05562",
+    "title": "Effective Test-Time Scaling of Discrete Diffusion through Iterative Refinement",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.05562",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.14961",
+    "title": "Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.14961",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.09149",
+    "title": "Enabling Agents to Communicate Entirely in Latent Space",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.09149",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.07358",
+    "title": "Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.07358",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.23675",
+    "title": "End-to-End Test-Time Training for Long Context",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.23675",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2507.02092",
+    "title": "Energy-Based Transformers are Scalable Learners and Thinkers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2507.02092",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2504.12626",
+    "title": "Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2504.12626",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2503.03751",
+    "title": "GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2503.03751",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2506.21734",
+    "title": "Hierarchical Reasoning Model",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2506.21734",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.00355",
+    "title": "Hierarchical Reasoning Models: Perspectives and Misconceptions",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.00355",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.18454",
+    "title": "Hybrid Latent Reasoning via Reinforcement Learning",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.18454",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.12880",
+    "title": "Improving Recursive Transformers with Mixture of LoRAs",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.12880",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.20649",
+    "title": "Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.20649",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.12872",
+    "title": "KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.12872",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2507.02199",
+    "title": "Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2507.02199",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.20639",
+    "title": "Latent Collaboration in Multi-Agent Systems",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.20639",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.04871",
+    "title": "Less is More: Recursive Reasoning with Tiny Networks",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.04871",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.20171",
+    "title": "Long-Context State-Space Video World Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.20171",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2509.23040",
+    "title": "Look Back to Reason Forward: Revisitable Memory for Long-Context LLM Agents",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2509.23040",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.05563",
+    "title": "Lookahead Unmasking Elicits Accurate Decoding in Diffusion Language Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.05563",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2409.15647",
+    "title": "Looped Transformers for Length Generalization",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2409.15647",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.22976",
+    "title": "LoopNav: Benchmarking Spatial Consistency in World Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.22976",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2509.10704",
+    "title": "Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2509.10704",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.13211",
+    "title": "MAGI-1: Autoregressive Video Generation at Scale",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.13211",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.13447",
+    "title": "Mean Flows for One-step Generative Modeling",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.13447",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2507.02259",
+    "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2507.02259",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.03198",
+    "title": "Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.03198",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.07739",
+    "title": "MeSH: Memory-as-State-Highways for Recursive Transformers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.07739",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2507.10524",
+    "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2507.10524",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.05963",
+    "title": "Next-Latent Prediction Transformers Learn Compact World Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.05963",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2410.01405",
+    "title": "On Expressive Power of Looped Transformers: Theoretical Analysis and Enhancement via Timestep Encoding",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2410.01405",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2504.05298",
+    "title": "One-Minute Video Generation with Test-Time Training",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2504.05298",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:109ce574b18fbf9a",
+    "title": "Optimizing generative AI by backpropagating language model feedback",
+    "year": 2025,
+    "url": "https://www.nature.com/articles/s41586-025-08661-4",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.24824",
+    "title": "Parallel Loop Transformer for Efficient Test-Time Computation Scaling",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.24824",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.10819",
+    "title": "PoE-World: Compositional World Modeling with Products of Programmatic Experts",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.10819",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2509.23184",
+    "title": "PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2509.23184",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.20674",
+    "title": "PonderLM: Pretraining Language Models to Ponder in Continuous Space",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.20674",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2507.16116",
+    "title": "Pusa V1.0: Unlocking Temporal Control in Pretrained Video Diffusion Models via Vectorized Timestep Adaptation",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2507.16116",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:f98360f22888e2af",
+    "title": "Racing Thoughts: Explaining Contextualization Errors in Large Language Models",
+    "year": 2025,
+    "url": "https://aclanthology.org/2025.naacl-long.155/",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.12514",
+    "title": "Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.12514",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2502.17416",
+    "title": "Reasoning with Latent Thoughts: On the Power of Looped Transformers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2502.17416",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.12940",
+    "title": "Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.12940",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2502.07503",
+    "title": "Recursive Inference Scaling: A Winning Path to Scalable Inference in Language and Multimodal Systems",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2502.07503",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.24601",
+    "title": "Recursive Language Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.24601",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2502.10389",
+    "title": "Region-Adaptive Sampling for Diffusion Transformers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2502.10389",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.16636",
+    "title": "REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.16636",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.04040",
+    "title": "RELIC: Interactive Video World Model with Long-Horizon Memory",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.04040",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2503.00307",
+    "title": "Remasking Discrete Diffusion Models with Inference-Time Scaling",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2503.00307",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2507.01467",
+    "title": "Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2507.01467",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2502.15894",
+    "title": "RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2502.15894",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2509.25161",
+    "title": "Rolling Forcing: Autoregressive Long Video Diffusion in Real Time",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2509.25161",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.17618",
+    "title": "Scaling Image and Video Generation via Test-Time Evolutionary Search",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.17618",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.25741",
+    "title": "Scaling Latent Reasoning via Looped Language Models",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.25741",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2502.05171",
+    "title": "Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2502.05171",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2506.08009",
+    "title": "Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2506.08009",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.02283",
+    "title": "Self-Forcing++: Towards Minute-Scale High-Quality Video Generation",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.02283",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.04926",
+    "title": "Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.04926",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2507.07996",
+    "title": "Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2507.07996",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2504.13074",
+    "title": "SkyReels-V2: Infinite-length Film Generative Model",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2504.13074",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.15716",
+    "title": "Spatia: Video Generation with Updatable Spatial Memory",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.15716",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.09212",
+    "title": "Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.09212",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.07384",
+    "title": "Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.07384",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2501.12352",
+    "title": "Test-time regression: a unifying framework for designing sequence models with associative memory",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2501.12352",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2410.23506",
+    "title": "The Belief State Transformer",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2410.23506",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.19245",
+    "title": "To CoT or To Loop? A Formal Comparison Between Chain-of-Thought and Looped Transformers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.19245",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2412.06769",
+    "title": "Training Large Language Models to Reason in a Continuous Latent Space",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2412.06769",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2509.23314",
+    "title": "Two-Scale Latent Dynamics for Recurrent-Depth Transformers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2509.23314",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2511.20123",
+    "title": "UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2511.20123",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.14693",
+    "title": "Universal Reasoning Model",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.14693",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2411.12537",
+    "title": "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2411.12537",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.05094",
+    "title": "VChain: Chain-of-Visual-Thought for Reasoning in Video Generation",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.05094",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2506.05284",
+    "title": "Video World Models with Long-term Spatial Memory",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2506.05284",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2503.18942",
+    "title": "Video-T1: Test-Time Scaling for Video Generation",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2503.18942",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.07469",
+    "title": "VideoCoF: Unified Video Editing with Temporal Reasoner",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.07469",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.04519",
+    "title": "VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.04519",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.15831",
+    "title": "VISTA: A Test-Time Self-Improving Video Generation Agent",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.15831",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2506.18903",
+    "title": "VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2506.18903",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2505.21996",
+    "title": "VRAG: Learning World Models for Interactive Video Generation",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2505.21996",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2510.10089",
+    "title": "What Makes Looped Transformers Perform Better Than Non-Recursive Ones",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.10089",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2504.12369",
+    "title": "WORLDMEM: Long-term Consistent World Simulation with Memory",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2504.12369",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.02473",
+    "title": "WorldPack: Dynamic Frame Compression for Long-context Video World Modeling",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.02473",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2512.14614",
+    "title": "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2512.14614",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2410.05317",
+    "title": "Accelerating Diffusion Transformers with Token-wise Feature Caching",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2410.05317",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2402.13572",
+    "title": "AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2402.13572",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2404.17672",
+    "title": "BlenderAlchemy: Editing 3D Graphics with Vision-Language Models",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2404.17672",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2411.16375",
+    "title": "Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2411.16375",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2410.08292",
+    "title": "Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2410.08292",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2412.12095",
+    "title": "Causal Diffusion Transformers for Generative Modeling",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2412.12095",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2407.01392",
+    "title": "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2407.01392",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2407.00783",
+    "title": "Diffusion Models and Representation Learning: A Survey",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2407.00783",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2405.11473",
+    "title": "FIFO-Diffusion: Generating Infinite Videos from Text without Training",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2405.11473",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2401.08741",
+    "title": "Fixed Point Diffusion Models",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2401.08741",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2406.07507",
+    "title": "Flow map matching with stochastic interpolants: A mathematical framework for consistency models",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2406.07507",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2405.14838",
+    "title": "From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2405.14838",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2412.07772",
+    "title": "From Slow Bidirectional to Fast Autoregressive Video Diffusion Models",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2412.07772",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2412.06464",
+    "title": "Gated Delta Networks: Improving Mamba2 with Delta Rule",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2412.06464",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2405.15383",
+    "title": "Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2405.15383",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:0a4bd426ce411df6",
+    "title": "Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries",
+    "year": 2024,
+    "url": "https://aclanthology.org/2024.emnlp-main.781/",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2405.14867",
+    "title": "Improved Distribution Matching Distillation for Fast Image Synthesis",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2405.14867",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2402.00976",
+    "title": "Investigating Recurrent Transformers with Dynamic Halt",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2402.00976",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2406.15673",
+    "title": "Large Language Models have Intrinsic Self-Correction Ability",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2406.15673",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2404.16710",
+    "title": "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2404.16710",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2407.04620",
+    "title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2407.04620",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2404.07143",
+    "title": "Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2404.07143",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2404.15758",
+    "title": "Let's Think Dot by Dot: Hidden Computation in Transformer Language Models",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2404.15758",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2311.12424",
+    "title": "Looped Transformers are Better at Learning Learning Algorithms",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2311.12424",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2405.16039",
+    "title": "MoEUT: Mixture-of-Experts Universal Transformers",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2405.16039",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2410.21698",
+    "title": "On the Role of Depth and Looping for In-Context Learning with Task Diversity",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2410.21698",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2410.12557",
+    "title": "One Step Diffusion via Shortcut Models",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2410.12557",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2406.06484",
+    "title": "Parallelizing Linear Transformers with the Delta Rule over Sequence Length",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2406.06484",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2412.00596",
+    "title": "PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2412.00596",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2410.20672",
+    "title": "Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2410.20672",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2402.09470",
+    "title": "Rolling Diffusion Models",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2402.09470",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2411.08706",
+    "title": "Searching Latent Program Spaces",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2411.08706",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2402.01107",
+    "title": "Simulation of Graph Algorithms with Looped Transformers",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2402.01107",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:8e7616df2997096d",
+    "title": "The Illusion of State in State-Space Models",
+    "year": 2024,
+    "url": "https://proceedings.mlr.press/v235/merrill24a.html",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2501.00663",
+    "title": "Titans: Learning to Memorize at Test Time",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2501.00663",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2409.12917",
+    "title": "Training Language Models to Self-Correct via Reinforcement Learning",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2409.12917",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2405.21060",
+    "title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2405.21060",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2410.10076",
+    "title": "VideoAgent: Self-Improving Video Generation",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2410.10076",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2402.12275",
+    "title": "WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2402.12275",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:041a050598868907",
+    "title": "Consistency Models",
+    "year": 2023,
+    "url": "https://proceedings.mlr.press/v202/song23a.html",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2302.09057",
+    "title": "Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2302.09057",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2310.10845",
+    "title": "CoTFormer: A Chain-of-Thought Driven Architecture with Budget-Adaptive Computation Cost at Inference",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2310.10845",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2305.11738",
+    "title": "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2305.11738",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2312.04916",
+    "title": "EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2312.04916",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2308.15321",
+    "title": "Elucidating the Exposure Bias in Diffusion Models",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2308.15321",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:d39eb72835d3a3e6",
+    "title": "Flow Matching for Generative Modeling",
+    "year": 2023,
+    "url": "https://openreview.net/forum?id=PqvMRDCJT9t",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2311.01460",
+    "title": "Implicit Chain of Thought Reasoning via Knowledge Distillation",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2311.01460",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2310.01798",
+    "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2310.01798",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2310.06272",
+    "title": "Let Models Speak Ciphers: Multiagent Debate through Embeddings",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2310.06272",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2301.13196",
+    "title": "Looped Transformers as Programmable Computers",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2301.13196",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2312.00752",
+    "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2312.00752",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2310.08560",
+    "title": "MemGPT: Towards LLMs as Operating Systems",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2310.08560",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2401.08639",
+    "title": "One-Step Diffusion Distillation via Deep Equilibrium Models",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2401.08639",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2311.18828",
+    "title": "One-step Diffusion with Distribution Matching Distillation",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2311.18828",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2305.13304",
+    "title": "RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2305.13304",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2303.11366",
+    "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2303.11366",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:b4155f59c47b47bd",
+    "title": "Scalable Diffusion Models with Transformers",
+    "year": 2023,
+    "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.html",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:ecfc615753e5989e",
+    "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+    "year": 2023,
+    "url": "https://papers.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2310.02304",
+    "title": "Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2310.02304",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:c01973af23f8198d",
+    "title": "Sparse Universal Transformer",
+    "year": 2023,
+    "url": "https://aclanthology.org/2023.emnlp-main.12/",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2304.05128",
+    "title": "Teaching Large Language Models to Self-Debug",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2304.05128",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2305.08379",
+    "title": "TESS: Text-to-Text Self-Conditioned Simplex Diffusion",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2305.08379",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:8a9d34fe95e4c512",
+    "title": "The Parallelism Tradeoff: Limitations of Log-Precision Transformers",
+    "year": 2023,
+    "url": "https://aclanthology.org/2023.tacl-1.31/",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2310.02226",
+    "title": "Think before you speak: Training Language Models With Pause Tokens",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2310.02226",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:332876f2bd41f0c2",
+    "title": "Transformers Learn Shortcuts to Automata",
+    "year": 2023,
+    "url": "https://openreview.net/forum?id=De4FYqjFueZ",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2305.10601",
+    "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2305.10601",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2208.04202",
+    "title": "Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2208.04202",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2203.07852",
+    "title": "Block-Recurrent Transformers",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2203.07852",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2210.12867",
+    "title": "Deep Equilibrium Approaches to Diffusion Models",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2210.12867",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2202.05826",
+    "title": "End-to-end Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2202.05826",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2211.00053",
+    "title": "Generating Sequences by Learning to Self-Correct",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2211.00053",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:0c06fc403814ec16",
+    "title": "MaskGIT: Masked Generative Image Transformer",
+    "year": 2022,
+    "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.html",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2203.08913",
+    "title": "Memorizing Transformers",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2203.08913",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2211.09961",
+    "title": "Path Independent Equilibrium Models Can Better Exploit Test-Time Computation",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2211.09961",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2208.11663",
+    "title": "PEER: A Collaborative Language Model",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2208.11663",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2202.00512",
+    "title": "Progressive Distillation for Fast Sampling of Diffusion Models",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2202.00512",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2210.06774",
+    "title": "Re3: Generating Longer Stories With Recursive Reprompting and Revision",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2210.06774",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2210.03629",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2207.06881",
+    "title": "Recurrent Memory Transformer",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2207.06881",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2212.11972",
+    "title": "Scalable Adaptive Computation for Iterative Generation",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2212.11972",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2211.04236",
+    "title": "Self-conditioned Embedding Diffusion for Text Generation",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2211.04236",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2106.04537",
+    "title": "Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2106.04537",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2112.09737",
+    "title": "Learning to Repair: Repairing model output errors after deployment using a dynamic memory of feedback",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2112.09737",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2104.06022",
+    "title": "Lessons on Parameter Sharing across Layers in Transformers",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2104.06022",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2102.11174",
+    "title": "Linear Transformers Are Secretly Fast Weight Memory Systems",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2102.11174",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2107.05407",
+    "title": "PonderNet: Learning to Ponder",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2107.05407",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2106.14342",
+    "title": "Stabilizing Equilibrium Models by Jacobian Regularization",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2106.14342",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2101.00234",
+    "title": "Subformer: Exploring Weight Sharing for Parameter Efficiency in Generative Transformers",
+    "year": 2021,
+    "url": "https://arxiv.org/abs/2101.00234",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2002.09402",
+    "title": "Addressing Some Limitations of Transformers with Feedback Memory",
+    "year": 2020,
+    "url": "https://arxiv.org/abs/2002.09402",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1909.11942",
+    "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+    "year": 2020,
+    "url": "https://arxiv.org/abs/1909.11942",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:1959861d22f46873",
+    "title": "Denoising Diffusion Probabilistic Models",
+    "year": 2020,
+    "url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2010.06891",
+    "title": "Memformer: The Memory-Augmented Transformer",
+    "year": 2020,
+    "url": "https://arxiv.org/abs/2010.06891",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2006.08591",
+    "title": "Monotone operator equilibrium networks",
+    "year": 2020,
+    "url": "https://arxiv.org/abs/2006.08591",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:2006.16236",
+    "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+    "year": 2020,
+    "url": "https://arxiv.org/abs/2006.16236",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1911.05507",
+    "title": "Compressive Transformers for Long-Range Sequence Modelling",
+    "year": 2019,
+    "url": "https://arxiv.org/abs/1911.05507",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1909.01377",
+    "title": "Deep Equilibrium Models",
+    "year": 2019,
+    "url": "https://arxiv.org/abs/1909.01377",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1905.11006",
+    "title": "Levenshtein Transformer",
+    "year": 2019,
+    "url": "https://arxiv.org/abs/1905.11006",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:77126e36a0250f85",
+    "title": "Mask-Predict: Parallel Decoding of Conditional Masked Language Models",
+    "year": 2019,
+    "url": "https://aclanthology.org/D19-1633/",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1901.02860",
+    "title": "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context",
+    "year": 2019,
+    "url": "https://arxiv.org/abs/1901.02860",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1807.03819",
+    "title": "Universal Transformers",
+    "year": 2019,
+    "url": "https://arxiv.org/abs/1807.03819",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1802.06901",
+    "title": "Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement",
+    "year": 2018,
+    "url": "https://arxiv.org/abs/1802.06901",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1809.01999",
+    "title": "Recurrent World Models Facilitate Policy Evolution",
+    "year": 2018,
+    "url": "https://arxiv.org/abs/1809.01999",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1703.06975",
+    "title": "Learning to Generate Samples from Noise through Infusion Training",
+    "year": 2017,
+    "url": "https://arxiv.org/abs/1703.06975",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1704.02254",
+    "title": "Recurrent Environment Simulators",
+    "year": 2017,
+    "url": "https://arxiv.org/abs/1704.02254",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1711.02282",
+    "title": "Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net",
+    "year": 2017,
+    "url": "https://arxiv.org/abs/1711.02282",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1603.08983",
+    "title": "Adaptive Computation Time for Recurrent Neural Networks",
+    "year": 2016,
+    "url": "https://arxiv.org/abs/1603.08983",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1610.09038",
+    "title": "Professor Forcing: A New Algorithm for Training Recurrent Networks",
+    "year": 2016,
+    "url": "https://arxiv.org/abs/1610.09038",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1610.06258",
+    "title": "Using Fast Weights to Attend to the Recent Past",
+    "year": 2016,
+    "url": "https://arxiv.org/abs/1610.06258",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1503.03585",
+    "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "year": 2015,
+    "url": "https://arxiv.org/abs/1503.03585",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:c4f05de19d4c36b3",
+    "title": "DRAW: A Recurrent Neural Network For Image Generation",
+    "year": 2015,
+    "url": "https://proceedings.mlr.press/v37/gregor15.html",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1506.03099",
+    "title": "Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks",
+    "year": 2015,
+    "url": "https://arxiv.org/abs/1506.03099",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1406.1485",
+    "title": "Iterative Neural Autoregressive Distribution Estimator (NADE-k)",
+    "year": 2014,
+    "url": "https://arxiv.org/abs/1406.1485",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "arxiv:1306.1091",
+    "title": "Deep Generative Stochastic Networks Trainable by Backprop",
+    "year": 2013,
+    "url": "https://arxiv.org/abs/1306.1091",
+    "family": null,
+    "curation": "survey-selected"
+  },
+  {
+    "id": "source:07c7eb256eb62d81",
+    "title": "Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks",
+    "year": 1992,
+    "url": "https://people.idsia.ch/~juergen/fastweights/",
+    "family": null,
+    "curation": "survey-selected"
+  }
+]
