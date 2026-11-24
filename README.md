@@ -145,7 +145,7 @@ These papers provide a starting point for studying what a monitor can observe:
 
 ## Full collection by reading topic
 
-Browse every reference in the expandable groups below. Each work has one
+Browse every reference in the topic groups below. Each work has one
 primary reading topic. The five feedback families are complemented by sections
 on foundations, training, and evaluation, including methods useful for comparison.
 
@@ -163,7 +163,7 @@ on foundations, training, and evaluation, including methods useful for compariso
 | **Total** | **488** |
 
 <a id="catalog-recurrent-depth"></a>
-<details><summary><strong>Recurrent depth · 90 works</strong></summary>
+### Recurrent depth · 90 works
 
 Shared blocks, adaptive depth, fixed points, and recurrent reasoning.
 
@@ -258,10 +258,8 @@ Shared blocks, adaptive depth, fixed points, and recurrent reasoning.
 - **2019** · [Deep Equilibrium Models](<https://arxiv.org/abs/1909.01377>)
 - **2019** · [Universal Transformers](<https://arxiv.org/abs/1807.03819>)
 
-</details>
-
 <a id="catalog-latent-feedback"></a>
-<details><summary><strong>Latent feedback · 25 works</strong></summary>
+### Latent feedback · 25 works
 
 Hidden-state reasoning and feedback across token positions.
 
@@ -291,10 +289,8 @@ Hidden-state reasoning and feedback across token positions.
 - **2023** · [Think before you speak: Training Language Models With Pause Tokens](<https://arxiv.org/abs/2310.02226>)
 - **2020** · [Addressing Some Limitations of Transformers with Feedback Memory](<https://arxiv.org/abs/2002.09402>)
 
-</details>
-
 <a id="catalog-sample-refinement"></a>
-<details><summary><strong>Sample refinement · 45 works</strong></summary>
+### Sample refinement · 45 works
 
 Iterative generation, self-conditioning, and related sampling methods.
 
@@ -344,10 +340,8 @@ Iterative generation, self-conditioning, and related sampling methods.
 - **2014** · [Iterative Neural Autoregressive Distribution Estimator (NADE-k)](<https://arxiv.org/abs/1406.1485>)
 - **2013** · [Deep Generative Stochastic Networks Trainable by Backprop](<https://arxiv.org/abs/1306.1091>)
 
-</details>
-
 <a id="catalog-temporal-memory"></a>
-<details><summary><strong>Temporal memory · 99 works</strong></summary>
+### Temporal memory · 99 works
 
 Persistent state, sequence models, and memory in video world models.
 
@@ -451,10 +445,8 @@ Persistent state, sequence models, and memory in video world models.
 - **2016** · [Using Fast Weights to Attend to the Recent Past](<https://arxiv.org/abs/1610.06258>)
 - **1992** · [Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks](<https://people.idsia.ch/~juergen/fastweights/>)
 
-</details>
-
 <a id="catalog-agent-feedback"></a>
-<details><summary><strong>Agent feedback · 59 works</strong></summary>
+### Agent feedback · 59 works
 
 Critique, search, tool use, and feedback between model calls.
 
@@ -518,10 +510,8 @@ Critique, search, tool use, and feedback between model calls.
 - **2022** · [ReAct: Synergizing Reasoning and Acting in Language Models](<https://arxiv.org/abs/2210.03629>)
 - **2021** · [Learning to Repair: Repairing model output errors after deployment using a dynamic memory of feedback](<https://arxiv.org/abs/2112.09737>)
 
-</details>
-
 <a id="catalog-foundations-and-related-models"></a>
-<details><summary><strong>Foundations and related models · 36 works</strong></summary>
+### Foundations and related models · 36 works
 
 Theory, surveys, parameter sharing, and comparison architectures.
 
@@ -562,10 +552,8 @@ Theory, surveys, parameter sharing, and comparison architectures.
 - **2020** · [Monotone operator equilibrium networks](<https://arxiv.org/abs/2006.08591>)
 - **2016** · [Adaptive Computation Time for Recurrent Neural Networks](<https://arxiv.org/abs/1603.08983>)
 
-</details>
-
 <a id="catalog-training-and-execution"></a>
-<details><summary><strong>Training and execution · 114 works</strong></summary>
+### Training and execution · 114 works
 
 Learning objectives, distillation, caching, and efficient inference.
 
@@ -684,10 +672,8 @@ Learning objectives, distillation, caching, and efficient inference.
 - **2016** · [Professor Forcing: A New Algorithm for Training Recurrent Networks](<https://arxiv.org/abs/1610.09038>)
 - **2015** · [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](<https://arxiv.org/abs/1506.03099>)
 
-</details>
-
 <a id="catalog-evaluation-and-interpretability"></a>
-<details><summary><strong>Evaluation and interpretability · 20 works</strong></summary>
+### Evaluation and interpretability · 20 works
 
 Benchmarks, controlled comparisons, mechanisms, and oversight.
 
@@ -711,8 +697,6 @@ Benchmarks, controlled comparisons, mechanisms, and oversight.
 - **2025** · [Racing Thoughts: Explaining Contextualization Errors in Large Language Models](<https://aclanthology.org/2025.naacl-long.155/>)
 - **2025** · [Reasoning Models Don't Always Say What They Think](<https://arxiv.org/abs/2505.05410>)
 - **2025** · [Two-Scale Latent Dynamics for Recurrent-Depth Transformers](<https://arxiv.org/abs/2509.23314>)
-
-</details>
 <!-- LOOP-BOT:CATALOG:END -->
 
 ## Scope and selection

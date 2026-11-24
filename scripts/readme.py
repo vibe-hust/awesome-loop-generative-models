@@ -43,11 +43,11 @@ def render_catalog(papers):
     rows.extend([f'| **Total** | **{len(papers)}** |', ''])
     for name, works in groups.items():
         rows.extend([f'<a id="catalog-{slug(name)}"></a>',
-                     f'<details><summary><strong>{name} · {len(works)} works</strong></summary>', '', GROUPS[name], ''])
+                     f'### {name} · {len(works)} works', '', GROUPS[name], ''])
         for paper in works:
             suffix = ' — ' + md(paper['summary']) if paper.get('summary') else ''
             rows.append(f"- **{paper['year']}** · {link(paper)}{suffix}")
-        rows.extend(['', '</details>', ''])
+        rows.append('')
     return '\n'.join(rows).rstrip()
 
 
