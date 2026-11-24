@@ -20,11 +20,11 @@
 <!-- LOOP-BOT:STATS:START -->
 <p align="center">
   <img alt="papers: 476" src="https://img.shields.io/badge/papers-476-157f79?style=flat-square">
-  <img alt="awaiting review: 3" src="https://img.shields.io/badge/awaiting%20review-3-ba7a29?style=flat-square">
+  <img alt="awaiting review: 12" src="https://img.shields.io/badge/awaiting%20review-12-ba7a29?style=flat-square">
   <img alt="feedback families: 5" src="https://img.shields.io/badge/feedback%20families-5-6557a8?style=flat-square">
 </p>
 
-**476 papers** · 476 survey-selected or human-reviewed · 0 automatically screened · **3 awaiting review**
+**476 papers** · 476 survey-selected or human-reviewed · 0 automatically screened · **12 awaiting review**
 <!-- LOOP-BOT:STATS:END -->
 
 ## Why loops?
@@ -116,13 +116,16 @@ when they entered this collection, not when they were first published.
 <!-- LOOP-BOT:RECENT:START -->
 | Added | Paper | Status |
 | :-- | :-- | :-- |
+| 2026-11-24 | [NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377>) | Needs review |
 | 2026-11-24 | [Hy-Nomas: Towards Free-form Interactive World Generation](<https://arxiv.org/abs/2610.36729>) | Needs review |
+| 2026-11-24 | [World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models](<https://arxiv.org/abs/2610.17434>) | Needs review |
+| 2026-11-24 | [Few-Step Generation via Data-Space Iteration](<https://arxiv.org/abs/2610.12102>) | Needs review |
 | 2026-11-24 | [Memory Forcing: Attendable Mid-Horizon History for Streaming Video Generation](<https://arxiv.org/abs/2610.11756>) | Needs review |
-| 2026-11-24 | [Advancing Open-source World Models](<https://arxiv.org/abs/2601.20540>) | Needs review |
-| 2026-11-24 | [Monitoring Monitorability](<https://arxiv.org/abs/2512.18311>) | Curated |
-| 2026-11-24 | [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](<https://arxiv.org/abs/2507.11473>) | Curated |
-| 2026-11-24 | [Reasoning Models Don't Always Say What They Think](<https://arxiv.org/abs/2505.05410>) | Curated |
-| 2026-11-24 | [Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation](<https://arxiv.org/abs/2503.11926>) | Curated |
+| 2026-11-24 | [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](<https://arxiv.org/abs/2609.02886>) | Needs review |
+| 2026-11-24 | [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](<https://arxiv.org/abs/2605.18601>) | Needs review |
+| 2026-11-24 | [AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling](<https://arxiv.org/abs/2605.16649>) | Needs review |
+| 2026-11-24 | [FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction](<https://arxiv.org/abs/2605.06509>) | Needs review |
+| 2026-11-24 | [Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models](<https://arxiv.org/abs/2605.01896>) | Needs review |
 
 [Browse all papers →](PAPERS.md) · [Help review candidates →](CANDIDATES.md)
 <!-- LOOP-BOT:RECENT:END -->

@@ -37,6 +37,83 @@
     "added_on": "2026-11-24"
   },
   {
+    "id": "arxiv:2605.16649",
+    "title": "AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling",
+    "authors": [
+      "Mai, Ziyang",
+      "Zhang, Yuyao",
+      "Tai, Yu-Wing"
+    ],
+    "year": 2026,
+    "published": "2026-05-15",
+    "url": "https://arxiv.org/abs/2605.16649",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen",
+    "added_on": "2026-11-24"
+  },
+  {
+    "id": "arxiv:2605.01896",
+    "title": "Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models",
+    "authors": [
+      "Xiao, Junyuan",
+      "Liang, Dingkang",
+      "Zhou, Xin",
+      "Ye, Yixuan",
+      "Su, Tongtong",
+      "Yi, Guangmo",
+      "Xia, Bin",
+      "Lyu, Qiang",
+      "Shi, Shurui",
+      "Huang, Jun",
+      "Si, Jianlou",
+      "Yang, Wenming"
+    ],
+    "year": 2026,
+    "published": "2026-05-03",
+    "url": "https://arxiv.org/abs/2605.01896",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen",
+    "added_on": "2026-11-24"
+  },
+  {
+    "id": "arxiv:2610.12102",
+    "title": "Few-Step Generation via Data-Space Iteration",
+    "authors": [
+      "Lin, Shanchuan",
+      "Peng, Yansong",
+      "Wang, Fu-Yun",
+      "Fan, Haoqi"
+    ],
+    "year": 2026,
+    "published": "2026-10-08",
+    "url": "https://arxiv.org/abs/2610.12102",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen",
+    "added_on": "2026-11-24"
+  },
+  {
+    "id": "arxiv:2605.06509",
+    "title": "FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction",
+    "authors": [
+      "Chen, Fangda",
+      "Zhao, Shanshan",
+      "Yang, Longrong",
+      "Xu, Chuanfu",
+      "Luo, Zhigang",
+      "Lan, Long"
+    ],
+    "year": 2026,
+    "published": "2026-05-07",
+    "url": "https://arxiv.org/abs/2605.06509",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen",
+    "added_on": "2026-11-24"
+  },
+  {
     "id": "arxiv:2610.36729",
     "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
     "authors": [
@@ -88,6 +165,34 @@
     "added_on": "2026-11-24"
   },
   {
+    "id": "arxiv:2605.18601",
+    "title": "Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models",
+    "authors": [
+      "Zhu, Shangwen",
+      "Peng, Qianyu",
+      "Pu, Zhao",
+      "Shu, Zhilei",
+      "Ke, Xiangrui",
+      "Xing, Zhaohu",
+      "Tong, Zizhao",
+      "Wang, Zeqing",
+      "Cui, Xinyu",
+      "Zheng, Zian",
+      "Wang, Huangji",
+      "Zhao, Jian",
+      "Jin, Yeying",
+      "Cheng, Fan",
+      "Feng, Ruili"
+    ],
+    "year": 2026,
+    "published": "2026-05-18",
+    "url": "https://arxiv.org/abs/2605.18601",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen",
+    "added_on": "2026-11-24"
+  },
+  {
     "id": "arxiv:2610.11756",
     "title": "Memory Forcing: Attendable Mid-Horizon History for Streaming Video Generation",
     "authors": [
@@ -100,6 +205,97 @@
     "year": 2026,
     "published": "2026-10-08",
     "url": "https://arxiv.org/abs/2610.11756",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen",
+    "added_on": "2026-11-24"
+  },
+  {
+    "id": "arxiv:2611.06377",
+    "title": "NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation",
+    "authors": [
+      "Lu, Jiacheng",
+      "Zhu, Haoyi",
+      "Yi, Sipei",
+      "Xie, Enze",
+      "Zhuo, Cheng",
+      "Li, Yu"
+    ],
+    "year": 2026,
+    "published": "2026-11-04",
+    "url": "https://arxiv.org/abs/2611.06377",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen",
+    "added_on": "2026-11-24"
+  },
+  {
+    "id": "arxiv:2602.11374",
+    "title": "Retrieval-Aware Distillation for Transformer-SSM Hybrids",
+    "authors": [
+      "Bick, Aviv",
+      "Xing, Eric P.",
+      "Gu, Albert"
+    ],
+    "year": 2026,
+    "published": "2026-02-11",
+    "url": "https://arxiv.org/abs/2602.11374",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "metadata-model-screen",
+    "added_on": "2026-11-24"
+  },
+  {
+    "id": "arxiv:2609.02886",
+    "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+    "authors": [
+      "Huang, Junchao",
+      "Fang, Guian",
+      "Qian, Shengju",
+      "Kong, Xianghao",
+      "Zhao, Zhuoran",
+      "Huang, Wei",
+      "Du, Yihua",
+      "Zhang, Zixin",
+      "Cui, Justin",
+      "Gu, Yuchao",
+      "Chen, Yukang",
+      "Hu, Xinting",
+      "He, Tianyu",
+      "Shi, Shaoshuai",
+      "Tian, Zhuotao",
+      "Wang, Xin",
+      "Shou, Mike Zheng",
+      "Jiang, Li"
+    ],
+    "year": 2026,
+    "published": "2026-09-02",
+    "url": "https://arxiv.org/abs/2609.02886",
+    "family": null,
+    "curation": "needs-review",
+    "screen": "conservative-screen",
+    "added_on": "2026-11-24"
+  },
+  {
+    "id": "arxiv:2610.17434",
+    "title": "World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models",
+    "authors": [
+      "Wu, Junyi",
+      "Li, Zekun",
+      "Yang, Chenhongyi",
+      "Guo, Chen",
+      "Yang, Lingchen",
+      "Zhang, Yongan",
+      "Zhang, Xinyi",
+      "Hu, Hongbing",
+      "Rymkowski, Bartek",
+      "Sridhar, Srinath",
+      "Yan, Yan",
+      "Huang, Xijie"
+    ],
+    "year": 2026,
+    "published": "2026-10-12",
+    "url": "https://arxiv.org/abs/2610.17434",
     "family": null,
     "curation": "needs-review",
     "screen": "metadata-model-screen",
