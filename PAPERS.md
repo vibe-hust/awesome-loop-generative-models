@@ -132,6 +132,7 @@ Research papers, model reports, and supporting references for looping in generat
 - [Loop, Think, \\& Generalize: Implicit Reasoning in Recurrent-Depth Transformers](<https://arxiv.org/abs/2604.07822>) — Recurrent depth
 - [Loopback Transformer: Towards a Unified View of Residual Looped Transformers](<https://arxiv.org/abs/2611.07226>) — Recurrent depth
 - [LoopCD: Loop-wise Contrastive Decoding for Improving Reasoning in Looped Language Models](<https://arxiv.org/abs/2609.24196>) — Training and execution
+- [LoopDVR: Looped Transformer for Efficient Dense Visual Recognition](<https://arxiv.org/abs/2611.32067>) — Recurrent depth
 - [Looped Diffusion Language Models](<https://arxiv.org/abs/2605.26106>) — Recurrent depth
 - [Looped Diffusion Transformer](<https://arxiv.org/abs/2609.40305>) — Recurrent depth
 - [Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers](<https://arxiv.org/abs/2607.15456>) — Training and execution

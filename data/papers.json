@@ -1417,6 +1417,24 @@
     "grouping": "survey-reading-context"
   },
   {
+    "id": "arxiv:2611.32067",
+    "title": "LoopDVR: Looped Transformer for Efficient Dense Visual Recognition",
+    "authors": [
+      "Liang, Sirui",
+      "Yu, Xuanlong",
+      "Liu, Longfei",
+      "Cun, Xiaodong",
+      "Shen, Xi"
+    ],
+    "year": 2026,
+    "published": "2026-11-24",
+    "url": "https://arxiv.org/abs/2611.32067",
+    "family": "Recurrent depth",
+    "curation": "automatic",
+    "screen": "keyword-screen",
+    "added_on": "2026-11-26"
+  },
+  {
     "id": "arxiv:2605.26106",
     "title": "Looped Diffusion Language Models",
     "year": 2026,

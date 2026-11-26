@@ -18,11 +18,11 @@
 
 <!-- LOOP-BOT:STATS:START -->
 <p align="center">
-  <img alt="listed works: 488" src="https://img.shields.io/badge/listed%20works-488-157f79?style=flat-square">
+  <img alt="listed works: 489" src="https://img.shields.io/badge/listed%20works-489-157f79?style=flat-square">
   <img alt="feedback families: 5" src="https://img.shields.io/badge/feedback%20families-5-6557a8?style=flat-square">
 </p>
 
-**488 research papers, model reports, and supporting references**, organized around five feedback families and related topics.
+**489 research papers, model reports, and supporting references**, organized around five feedback families and related topics.
 <!-- LOOP-BOT:STATS:END -->
 
 ## Why loops?
@@ -116,6 +116,7 @@ years appear in the full reading list.
 <!-- LOOP-BOT:RECENT:START -->
 | Added | Paper | Reading topic |
 | :-- | :-- | :-- |
+| 2026-11-26 | [LoopDVR: Looped Transformer for Efficient Dense Visual Recognition](<https://arxiv.org/abs/2611.32067>) | Recurrent depth |
 | 2026-11-24 | [NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377>) | Training and execution |
 | 2026-11-24 | [Hy-Nomas: Towards Free-form Interactive World Generation](<https://arxiv.org/abs/2610.36729>) | Temporal memory |
 | 2026-11-24 | [World-T3: Test-Time Training as Persistent Memory for Real-Time Video World Models](<https://arxiv.org/abs/2610.17434>) | Temporal memory |
@@ -125,7 +126,6 @@ years appear in the full reading list.
 | 2026-11-24 | [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](<https://arxiv.org/abs/2605.18601>) | Temporal memory |
 | 2026-11-24 | [AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling](<https://arxiv.org/abs/2605.16649>) | Foundations and related models |
 | 2026-11-24 | [FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction](<https://arxiv.org/abs/2605.06509>) | Foundations and related models |
-| 2026-11-24 | [Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models](<https://arxiv.org/abs/2605.01896>) | Training and execution |
 
 [Browse the complete bibliography →](PAPERS.md)
 <!-- LOOP-BOT:RECENT:END -->
@@ -152,7 +152,7 @@ on foundations, training, and evaluation, including methods useful for compariso
 <!-- LOOP-BOT:CATALOG:START -->
 | Reading topic | Listed works |
 | :-- | --: |
-| [Recurrent depth](#catalog-recurrent-depth) | 90 |
+| [Recurrent depth](#catalog-recurrent-depth) | 91 |
 | [Latent feedback](#catalog-latent-feedback) | 25 |
 | [Sample refinement](#catalog-sample-refinement) | 45 |
 | [Temporal memory](#catalog-temporal-memory) | 99 |
@@ -160,10 +160,10 @@ on foundations, training, and evaluation, including methods useful for compariso
 | [Foundations and related models](#catalog-foundations-and-related-models) | 36 |
 | [Training and execution](#catalog-training-and-execution) | 114 |
 | [Evaluation and interpretability](#catalog-evaluation-and-interpretability) | 20 |
-| **Total** | **488** |
+| **Total** | **489** |
 
 <a id="catalog-recurrent-depth"></a>
-### Recurrent depth · 90 works
+### Recurrent depth · 91 works
 
 Shared blocks, adaptive depth, fixed points, and recurrent reasoning.
 
@@ -200,6 +200,7 @@ Shared blocks, adaptive depth, fixed points, and recurrent reasoning.
 - **2026** · [Loop the Loopies!](<https://arxiv.org/abs/2607.16051>)
 - **2026** · [Loop, Think, \\& Generalize: Implicit Reasoning in Recurrent-Depth Transformers](<https://arxiv.org/abs/2604.07822>)
 - **2026** · [Loopback Transformer: Towards a Unified View of Residual Looped Transformers](<https://arxiv.org/abs/2611.07226>)
+- **2026** · [LoopDVR: Looped Transformer for Efficient Dense Visual Recognition](<https://arxiv.org/abs/2611.32067>)
 - **2026** · [Looped Diffusion Language Models](<https://arxiv.org/abs/2605.26106>)
 - **2026** · [Looped Diffusion Transformer](<https://arxiv.org/abs/2609.40305>)
 - **2026** · [LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation](<https://arxiv.org/abs/2602.11451>)
